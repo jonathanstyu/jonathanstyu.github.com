@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
 		<link rel="stylesheet" href="stylesheets/animate.min.css">
+		<link rel="stylesheet" href="stylesheets/blueimp-gallery.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -33,20 +34,40 @@
 </p>
 
 <h1><a name="features" class="anchor" href="#features"><span class="octicon octicon-link"></span></a>SEC Research's Features</h1>
+	
+	<div id="blueimp-gallery-carousel" class='blueimp-gallery blueimp-gallery-carousel'>
+		<div class="slides"></div>
+		<h3 class='title'></h3>
+		<a class='prev'><</a>
+		<a class='next'>></a>
+		<a class='close'></a>
+		<a class='play-pause'></a>
+		<ol class='indicator'></ol>
+	</div><!-- #name -->
+	
+	<div id="links">
+		<a href="https://raw.github.com/jonathanstyu/jonathanstyu.github.com/master/images/secresearch/stream.png" title='Stream'></a>
+		<a href="https://raw.github.com/jonathanstyu/jonathanstyu.github.com/master/images/secresearch/search3.png" title='Search Filings'></a>
+		<a href="https://raw.github.com/jonathanstyu/jonathanstyu.github.com/master/images/secresearch/saved_filing.png" title='Saved Filings'></a>
+		<a href="https://raw.github.com/jonathanstyu/jonathanstyu.github.com/master/images/secresearch/company.png" title='Company Profile'></a>
+	</div><!-- #links -->
+
+
 	<h3>The Stream</h3>
-	<img src='https://raw.github.com/jonathanstyu/jonathanstyu.github.com/master/images/secresearch/stream.png'>
-	<p>
 		SEC Research's Stream feature lets you peruse filings that have just been posted to the SEC's website. You can peruse them, see a bit more about the company's details, and then see the filing itself. 
 	</p>
 	
 	<h3>Searching Companies</h3>
-	<img src='https://raw.github.com/jonathanstyu/jonathanstyu.github.com/master/images/secresearch/search3.png'>
 	<p>
 		SEC Research has a search feature that lets someone look up a company by its ticker or CIK number. This would let you access a feed of the company's latest 40 filings. 
 	</p>
 	
+	<h3>Company Profile</h3>
+	<p>
+		If SEC Research finds a company for your given ticker then it will display as much data as can be pulled from the SEC results page. 
+	</p>
+	
 	<h3>Favoriting Filings</h3>
-	<img src='https://raw.github.com/jonathanstyu/jonathanstyu.github.com/master/images/secresearch/saved_filing.png'>
 	<p>
 		If you want to read a filing for later, you can do that by favoriting a filing by touching the button on the top right. 
 	</p>
@@ -60,7 +81,7 @@
 	<p>
 		There is no real alternative to finding these filings. You can go to the website of the company itself but those websites might have Flash on them or they might be linking you to the crappy glossy reports that are huge PDFs. I want to read just a HTML and text. 
 	</p>
-	<h3>Because Alternatives Suck</h3>
+	<h3>Because the Alternatives Sucked</h3>
 	<p>
 		All of this would not be so much of a pain if it were not for the fact that the only other alternative iPad app for reading SEC filings is a big monstrosity of an app that charges over $8. I cannot complain. Someone has to eat right? Well, I do take issue with the fact that someone would charge $10 for an app that lets you download just the annual report and then $4 for the quarterly reports. These are similar reports. Someone should just put them together in one app. 
 	</p>
@@ -91,16 +112,39 @@
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
-              <script type="text/javascript">
+		<script src='javascripts/blueimp-gallery.js'></script>
+    <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
+    </script>
+		
+	  <script type="text/javascript">
             try {
               var pageTracker = _gat._getTracker("UA-42120911-1");
             pageTracker._trackPageview();
             } catch(err) {}
-          </script>
+    </script>
+		
+		<script type="text/javascript" charset="utf-8">
+		$('#links').on('click', function (event) {
+	    event = event || window.event;
+	    var target = event.target || event.srcElement,
+	        link = target.src ? target.parentNode : target,
+	        options = {index: link, event: event},
+	        links = this.getElementsByTagName('a');
+	    blueimp.Gallery(links, options);
+		}); 
+		</script>
+		
+		<script>
+		blueimp.Gallery(
+		    document.getElementById('links').getElementsByTagName('a'),
+		    {
+		        container: '#blueimp-gallery-carousel',
+		        carousel: true
+		    }
+		);
+		</script>
 
   </body>
 </html>
