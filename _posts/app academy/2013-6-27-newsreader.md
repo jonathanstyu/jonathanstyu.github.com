@@ -1,0 +1,22 @@
+---
+layout: post
+tagline: "App Academy W7D4"
+tags : [app academy]
+---
+
+
+### News Reader
+
+Today is a solo project and it is the first Rails and Backbone app that I have built yet that features some internet connectivity and interactivity ... even if the instructors wrote that and not me. The goal of this news reader is to exercise much of the skills that we first developed yesterday when we embarked on our Backbone journey. There is a lot to do in terms of what we need to do. The main goal is to understand how to instantiate entries and feeds and handle the two of them simultaneously without really rendering some of the associations that Rails models have. In fact, Backbone models do not have all that many capabilities to handle associations.
+
+The demo came out to us having all of its API already fleshed out but I did take some time to sit down and implement some things like users and subscribed feeds. It took about an hour but now someone can sign up a la Instapaper (without a password) and then see their subscribed feeds on their index page. Back to the app. The idea behind this product is that it would use a gem to call a URL and pull down a number of items from a feed. It would then wrap those items into an Entry ruby class and assign them the feed key. So then you could then call up the Feed as a Rails object and see all of the subordinate entries underneath that item. The first challenge I found was that when I tried to call the "reload" method - which is the method you need to invoke - that it did not work. It sputtered out and did not create any Entries. I was very curious and it ended up that the method did not work because it did not properly prepare and wrap the URL before making the RSS call. It also did not properly assign the foreign_key of the instance of the Feed.
+
+After that I managed to set up the Backbone framework with the Backbone on Rails gem. After a few days of making folders and such and being confused about what went where in the system, the gem made things incredibly easy. I was real excited to see it all put together and Backbone pop up an alert to say "hello" when I navigated to the page.
+
+One of the challenges of making the feeds index page is to keep track of where the Router is instantiated, and where the models are and where they are available to the individual portions of the application. I instantiated a collection of feeds, called them from the Rails backend (I had the Rails backend handle all the trouble of identifying the current user and such) with "fetch", and then passed them to the FeedIndex view. The first big bug that I came across was that the app was not seeing "JST" on the IndexView Backbone page, which means that it could not see the template. I had no idea what that meant. Darn Javascript errors being so lenient! I spent so much time trying to figure out what went wrong. Eventually it turned out that the error was not even on the View page! It was in the template with the embedded javascript. I had accidentally left an "=" in the code of a each loop and the result was that it tried to embed a piece of code that had nothing to embed. The result was a spectactular failure and a few less hairs on my head.
+
+The big thing that I was concerned about how was to handle the Entries and the Feeds. We did not have much relational knowledge and were not allowed to use it. The way we got around it was in the end that I would have the Rails back end reload all the feeds, create the Entries, pack them up and ship them as part of the association with the as_json(include: ) method. I instantiated a view for the entry Backbone model and then put that together. I overrode the parse method in the Feed model and had it create out of the associated entries a collection of Entry Backbone objects. That way I could then pass that into the View which would then capably handle that and create a page out of it. I then stitched together the rendered HTML from both views and shipped that out of the Backbone JS.
+
+I also added a static sidebar. Yesterday it was challenging to do that because the window kept vanishing on me. I was like huh every time. As it turns out the reason this was happening was because there was just one view and it was handling both of the two DIVs on the page. Creating two views and assigning one of them to exclusively handle the sidebar solved the issue.
+
+Creating products like this is pretty satisfying. There is still much to do in terms of the front end but I feel like creating things like static sidebars.

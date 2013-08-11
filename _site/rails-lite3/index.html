@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Rails Lite3 &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Rails Lite3 &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### Rails Lite ContinuedToday we continued our Rails lite project and spend extensive time buil...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/rails-lite3">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Rails Lite3</h1>
+            <p class="date">Jun 10, 2013</p>
+            <p class="intro">App Academy W5D1</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="rails-lite-continued">Rails Lite Continued</h3>
+
+<p>Today we continued our Rails lite project and spend extensive time building through some of the more essential parts of Rails that creates the &#8220;magic&#8221; that is so often attributed to the rails workflow including routes, params, and more.</p>
+
+<p>The major challenge with params is that information is passed to us in a query string in a format that is often disarrayed and not so easy to pick through. Rails, not Ruby, picks through this information and formats it in a more neat and suitable way for processing. So that means that when we create our Rails lite, we have to build that out. Ruby took us half way there with parsing out keys and values into a nested array. However, we want that information to be presented to us in a nested hash so that all the information that are going to be the params for an object to be instantiated, created, or updated is in one place. This way we can just say params(;cat) and voila, all the cat information related shows up right there. This means regular expressions.</p>
+
+<p>And now we have two problems.</p>
+
+<p>Recursively using regular expressions, we are able to parse through a number of series of cat(name) and cat(age) name attributes and create from it a single hash that is headlined &#8220;cat&#8221; and then follows through with the &#8220;age&#8221; and &#8220;name&#8221; data. It was interesting to work with and extremely verbose. I spent a lot of time agonizing over my regexs.</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Rails Lite3&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

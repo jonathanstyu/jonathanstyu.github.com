@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>More Things &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="More Things &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### Creating Perfect Perusals (Not this blog)For the first half of my two final projects, I dec...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/more-things">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>More Things</h1>
+            <p class="date">Jul 04, 2013</p>
+            <p class="intro">App Academy W8D1</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="creating-perfect-perusals-not-this-blog">Creating Perfect Perusals (Not this blog)</h3>
+
+<p>For the first half of my two final projects, I decided to create a clone of GoodReads, which is a service that I greatly enjoy and like using. It is indeed quite of the most used products out there on the web. I use it more than Facebook.</p>
+
+<p>The part that I felt was more like cheating was that GoodReads is not all that much of a single page app. It is in fact feels much more like something that almost entirely serves up its pages through Rails and has little if any JavaScript to do heavy client side stuff other than pop ups and scrolldowns. I wondered if a straightforward clone of GoodReads would be enough to challenge myself and create a product that would be something that be a great learning experience.</p>
+
+<p>PerfectPerusals is something different. It is still heavy on the Rails stuff. It is not something ridiculous like Trello. This is in accordance to my interest and better comfort with Rails than Javascript. It is going to use Rails to serve up a lot of pages but from time to time I am going to use a dollop of Backbone in order to update and keep the server going.</p>
+
+<p>The most challenging part of the entire project has been trying to figure out a right way to do these things that would make things easy for the future features that I want to build and implement in the future. I look at the finished GR product and I marvel at all these features. I end up thinking real hard about a simple easy way to get all of these into PerfectPerusals, like as if there is one single path that would just gracefully ice skate in between these Scyllas and Charybidses. I doubt that there is ever one such in the world. You can only look ahead ever so many steps.</p>
+
+<p>I am not looking to implement every one of GR&#8217;s features. In this demo I am looking to focus on a few:</p>
+
+<ul>
+  <li>User profile pages</li>
+  <li>Author profile pages</li>
+  <li>Signup and Sign in</li>
+  <li>Book profile pages</li>
+  <li>Book shelves</li>
+  <li>Reviews of Books</li>
+  <li>Comments on Reviews of Books</li>
+  <li>Friending (maybe)
+I started the project on Sunday and so far I have made encouraging progress.</li>
+</ul>
+
+<p>User and Author profile pages were implemented with a single model User. I created a number of different filters in the User Controller that would look at whether or not a user had published any books, provided an email, and as such would then render the right page. I spent a lot of time getting the logic right and making sure that at least the right pages would show up.</p>
+
+<p>Signup and Signin were done without BCrypt, which I do think is a flaw but could be easily remedied. It had been some time since I had done something like this so I had forgotten a few things.</p>
+
+<p>I had made it so that people could embed their book reviews right into the profile page. It would also show the rest of the community&#8217;s reviews. This embedding of the book review form page was done with a relatively simple data-success helper from Rails. I felt like this would do a good job of simply posting the review to the database and appending it to all the other reviews listed in the page. However, I felt that this was a little cheating and would not give a lot of headroom for future expansion of the product going forward. For some of the other features I wanted to get more detailed.</p>
+
+<p>For the comments under a review, I went ahead and created a full on Backbone app that had its own particular set of routes and views that activated only if you hit the Show Review page. It lets you add comments onto the page and does something kind of like what the AJAX call did with the Add Review page on the Show Book page however I feel that the Backbone implementation could handle a lot more meat on its bones if I wish it to have in the future. This is probably going to be case as I go and implement Friending and friend commenting.</p>
+
+<p>Book shelves is challenging and I am working on this right now as we speak. We will talk more about it tomorrow as it is going to be the thing I hit head on!</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;More Things&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

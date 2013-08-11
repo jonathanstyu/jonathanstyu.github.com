@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Javascript &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Javascript &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### JavaScriptToday was supposed to be a solo day where we spent time working on two projects. ...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/javascript">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Javascript</h1>
+            <p class="date">Jun 17, 2013</p>
+            <p class="intro">App Academy W6D1</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="javascript">JavaScript</h3>
+
+<p>Today was supposed to be a solo day where we spent time working on two projects. Instead, it turned into pair days where we were to work extensively on a number of projects including a crazysort solution in JavaScript.</p>
+
+<p>The most challenging concept for me to grasp was that of callbacks. Callbacks are a part of Javascript and seemed to be a part of Node.JS. In Node there is a library called readlines. You would be able to invoke a method called &#8220;Question&#8221; that inquires someone of a query and then after receiving a response would go and invoke a &#8220;callback&#8221;, which is another function that has been passed to this particular method that is kind of like a Proc in Ruby. It is different from what I am used to because while I have dealt with Procs in Ruby before, I have never really dealt with them to the extent that I am doing so in JavaScript. The difference is that with JavaScript, there are instances where a web developer does not want a program to completely take over a web browser or a page with a loop. So with these callbacks, someone can essentially &#8220;queue&#8221; up procs for the future.</p>
+
+<p>The biggest project that I was to deal with was something called Crazysort, which is a Bubblesort implementation. It would be in JavaScript and would use a number of Callbacks. It would ask the person to sort out the numbers. I managed to finish it but it took more time than I wished. About an hour and a half.</p>
+
+<p>Ned spent some time after to go over the solution and as expected it was quite more elegant than the one that I came up. The biggest challenge ironically as it turns out to be is that the program does not do what Ruby does: It does not stop the entire implementation of the program in order to wait for the author to give input. Dylan noted that this was a constant issue with a lot of client side JS programs. Always a bitch to debug too. The solution for me was to create three different functions that passed each other the same information. There is one that manages the entire loop so it kicks things off and tells everyone to stop. There is another that goes and manages the checking and swapping of an entire row in a single pass. It may or may not do any swapping. The last was to to actually inquire of the user. It would take a callback function and call on that &#8220;true&#8221; or &#8220;false&#8221; if the answer is smaller or larger.</p>
+
+<p>Ned&#8217;s solution was much more elegant. My program had simply went through and implemented a counter. The counter was reset whenever we made a swap. If we went through four instances (or whatever the length of the array was) without a swap then it means that the entire thing was done. He implemented a true or false boolean. If they made a swap within the scope of a single passthrough then he knows that he has to continue on.</p>
+
+<p>Javascript is unfurling its secrets to me, but I have to say that it continues to challenge me.</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Javascript&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

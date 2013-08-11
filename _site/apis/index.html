@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Apis &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Apis &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### APIsIf yesterday we spent time looking at and using an API - a great one at that with the T...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/apis">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Apis</h1>
+            <p class="date">Jun 04, 2013</p>
+            <p class="intro">App Academy W4D2</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="apis">APIs</h3>
+
+<p>If yesterday we spent time looking at and using an API - a great one at that with the Twitter API - today we spent time building an API. A contacts API from a rails application that responds to pings and calls from an outside user. It took a lot of the knowledge that we had from our previous weeks and then leveraged that into a rails product that right now has filled in two of the three parts of the MVC framework. Right now we have something with the model and the controller part filled out. Just the views are left. I am told that we are going to start on those in the rest of the week. I wonder then what the heck we are going to learn next week for the rest of the Rails curriculum!</p>
+
+<p>The Contacts API is interesting despite being very simple because it also implemented a basic concept from the OAuth work that we did yesterday: that of authentication. Paul had always lamented the pains of Oauth so I was very trepident about dealing with it. And then we have to implement our own version of Oauth right here! I was very hesitant about the challenge. However it turned out that the work that we did made relative sense to me. I understood what was going on. Our simple authentication system required that someone had to submit along with their API request a &#8220;token&#8221; string of random warbling letters and numbers. Then we wrote a method that executes before anything happens within the controller using what rails calls a Before_filter. The rails program then looks up the particular user to which we are doing the action and then looks up their token. Do the tokens match? If yes then go ahead and do whatever you want. Otherwise, we break the whole thing with a hard return false.</p>
+
+<p>You can see the whole project here: https://github.com/jonathanstyu/contact_api</p>
+
+<p>3 Things I learned:</p>
+
+<p>1) How Oauth works, in a very simple and conceptual way</p>
+
+<p>2) How to update attributes for a single object instance</p>
+
+<p>3) How to build a freakin&#8217; API! Is that not too awesome?</p>
+
+<p>Other Things I Think I think:</p>
+
+<p>Spurs vs. heat for finals. I call heat in 6.</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Apis&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

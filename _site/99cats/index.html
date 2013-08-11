@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>99cats &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="99cats &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### 99 CatsToday we spent our time working on an extensive rails app for the first time, taking...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/99cats">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>99cats</h1>
+            <p class="date">Jun 05, 2013</p>
+            <p class="intro">App Academy W4D3</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="cats">99 Cats</h3>
+
+<p>Today we spent our time working on an extensive rails app for the first time, taking in all parts of the MVC framework and making it work together to do something pretty awesome. Our project was to create something called 99 cats, which is a knockoff of 99dresses in that someone can go rent out a cat for a certain period of time. We had to create a system that kept track of cats, assign them to a certain user and present all the user interface needed to make that cat rental possible. Not only that, we had to layer on certain now-to-be-expected features like user authentication and authorizationn. This means that only admins can have certain features and have access to certain parts of the system.</p>
+
+<p>Right off the bat this seemingly simple implementation came across some issues. For one thing we had only one day to do the whole thing. Some of the stuff that we learned yesterday we had to apply and then add. We added a password hash to the users table so that we never store the passwords plaintext in the database. I did not do that in the previous day&#8217;s project. We implemented a session hash where the rails app could actually set the cookies in the browser. Now that someone logs in and then navigate the rest of the simple site without having to continually put in their password and credentials.</p>
+
+<p>Let us start with the data layer. There were only three models. The user, the cat, and the cat reservation. Cats own a cat reservation and a user owns a cat. Not sure how that one works but we can talk about that later. A user can go to a &#8220;cat profile&#8217; page and see all the reservations listed under that particular cat. The page is able to render however many reservations that the cat might have. Not only that we spent time creating a custom validation where the cat can be looked at by the rails app and any reservation that does not fall under certain guidelines (like the end or start dates are off whack or conflict with an existing approved reservation) would be rejected. Then you can navigate to another page and create reservations. We wrote logic that says that if a cat has been reserved for a period of time then all the other unapproved reservations under that cat during that time period would fall &#8220;disabled&#8217;.</p>
+
+<p>We built out those core features first. Then we had to create a sessions controller in Rails that would create and store a &#8220;current user&#8217; variable. This current user would be derived from the cookies inside the browser. I expect that later on we would be able to add more things like an admin function and what not. It was in the end pretty awesome. I certainly wish that I could have spent another day or two to tighten things up. There are still a lot of things that I wish I could create. For example, while the authentication - proving to the app that you are someone who has signed up in the app - was built out the authorization - the part with the admin roles and making sure that a user cannot mess with things he is not supposed to mess with - is still sorely lacking. However AA does not wait for anyone. We move on to a whole new app tomorrow.</p>
+
+<p>I am writing this on the caltrain back home and am exhausted but I feel glad that I went through and created.</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;99cats&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

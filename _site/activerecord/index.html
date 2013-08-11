@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Activerecord &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Activerecord &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### First Day of ActiveRecordToday is our first day with ActiveRecord, which is one of the core...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/activerecord">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Activerecord</h1>
+            <p class="date">May 29, 2013</p>
+            <p class="intro">App Academy W3D3</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="first-day-of-activerecord">First Day of ActiveRecord</h3>
+
+<p>Today is our first day with ActiveRecord, which is one of the core parts of Ruby on Rails. Learning about this well would contribute greatly in the future to my ability to be successful with RoR. It is something that we have been preparing for this entire week. And considering that a day at AA is like a week and a half in a more conventional school, that is a pretty long time. So basically, uhh no pressure huh?</p>
+
+<p>The project today was to create the backend for a link shortener. This Link shortener (Ill call it LS from now on) is going to become a web app but for now we are just working with the models associated with that app. When I started out, I was greatly confused and struggled to get a grasp on the concept of the short URL and the long URL. I was not sure of what to do and luckily for me my partner was able to help me out greatly. Together, we talked out the structure of the program and how it would work.</p>
+
+<p>Much of my confusion is because the truth is that I have no idea how link shorteners work. The way that I understood how a LS would operate was that it would somehow &#8220;remap&#8221; the original link. Thus then that original link would be basically &#8220;hiding&#8221; behind this new one. I suddenly felt a surge of panic because it seemed to involve so many other things like creating and mapping IP domains and what not. I felt that this was just way out of the norm from what we were doing before. However, my partner and I got a better grasp of what the project was about. You would be working on it from the command line, calling on methods on instances of the &#8220;long link&#8221; and the &#8220;short link&#8221; to alternatively shrink and expand it. Then you would use a gem called Launchy that would launch the site in a browser.</p>
+
+<p>The eventual structure of the app would be to create a &#8220;long link object which would hold within itself the original link. Then it would hold &#8220;short link&#8221; objects that are generated from a long link. This is because some people may want to have a short link created from one URL. Why hold multiple versions of the same URL in your database if you have to? The next thing to do then would be to create user accounts that would then allow a user to create individual short links for their own personal use as well as give other statistics like &#8220;how many people have clicked on my link?&#8221;</p>
+
+<p>Once the schema made sense to me, I was able to work together with my partner to successfully put the product together. We used a number of migrations in order to create the right data schema to use, adding and modifying specific columns to make for a better product.</p>
+
+<p>3 Things I Learned:</p>
+
+<p>1) Database migrations in Rails</p>
+
+<p>2) Joining and making other SQL commands within Rails (though it is still something that I need to continue boning up on)</p>
+
+<p>3) Belongs To and Has Many</p>
+
+<p>Other Things I Think I Think:</p>
+
+<p>Today I went with the shorts and this worked fine while I was outside but killed me when I was inside becaues the class room is more than a little drafty. Jesus I need leggings.</p>
+
+<p>The market took a big dive today. I closed out of an individual position at a loss. Good companies at cheap prices are always a buy and I felt good about it. However, one should stick to the companies they are familiar with and are experienced in. Investing is about psychology. Do not invest in something you would not feel comfortable losing money on. Mastering the psychology is more important than mastering the financials.</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Activerecord&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

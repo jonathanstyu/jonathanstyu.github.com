@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Activerecord Foundations &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Activerecord Foundations &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### ActiveRecord FoundationsHello again to my thousands of incredible loving fans! Hah. That wa...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/activerecord-foundations">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Activerecord Foundations</h1>
+            <p class="date">May 28, 2013</p>
+            <p class="intro">App Academy W3D2</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="activerecord-foundations">ActiveRecord Foundations</h3>
+
+<p>Hello again to my thousands of incredible loving fans! Hah. That was a real riot of a joke. Who the heck reads this?!</p>
+
+<p>Today&#8217;s work focused on creating some of the foundations of what would turn out to be ActiveRecord. If yesterday we spent a lot of time executing SQL inquiries and familiarizing ourselves with the SQL language, today we dove back into Ruby so that we could start applying what we have learned to our Ruby products. We decided to create methods and class instances to a SQLITE3 (which is a opensource database) database so that we can execute and run commands on them. The goal is to turn an otherwise discombobulated angry fruit salad of bits and boops into a coherent Ruby class. It helped me understand a lot about how a product like ActiveRecord in Rails would work. Tomorrow we go and work with the real kahuna but doing it this way helped a lot in getting a better grasp of what goes on underneath the covers.</p>
+
+<p>Top 3 Things I learned:</p>
+
+<p>1) Subqueries in SQL language are powerful. We had a SQLzoo problem where we were to use a number of JOINS to locate a route between two train stations. If one were to simply &#8220;extend&#8221; from the starting station, then we would have to write and JOIN the same table to itself up to 4 times. This is unpleasant. What I ended up doing was to write 2 subqueries that represent the two legs of the trip. One would start at the start and one ends at the end. Then I joined the two subqueries together at the place where their stops would be the same.</p>
+
+<p>2) Learned how AR is supposed to work. The way that I had understood ActiveRecord to work is that it would literally save and serialize the entire object into the nebulous memory. Turns out this is not the case. The initialize function that creates the object is actually invoked and fed the database&#8217;s vomit of random bits and boots. It then creates an object with all the associated methods that we can use. This explains the existence of a &#8220;save&#8221; method. We ended up writing this method today in class.</p>
+
+<p>3) The bottleneck in many apps is how often it hits the server for data. We had a method in where our program would get some initializing information from our SQLITE3 database and then hit that database again in order to convert it through a findbyID method. The way that we saw it, it would have the advantage of helping us keep all the methods where we create a particular object with that particular object&#8217;s file. We are not creating the &#8220;user&#8221; class in the &#8220;dictionary&#8221; class for example. However, our mentor told us that this would probably not be efficient in the long run. It is good to keep the code clean, but hitting the server so many times would slow us down. So even if the alternative is to have this ugly piece of code disorganized in our classes, it would probably be for the better. Surprising to me.</p>
+
+<p>Other Things I think I think:</p>
+
+<p>The weather in SF continues to volatilize. Today it was freaking hot right after it poured watery rain on my head yesterday. I checked the weather app and it seems to imply that the next few days will also be hot. I will make appropriate adjustments. Get ready for JY in cargo shorts!</p>
+
+<p>I did not eat well in breakfast before I headed out today, microwaving a hot dog. This had dire consequences for me later on in the day. I feel that I should spend more time eating something less processed. Little steps. How about some potato chips?</p>
+
+<p>The stock market opened up quite high today, tapered off in the afternoon but still ended up. My portfolio has been leaning more and more conservative. I sold off a number of individual ideas and added to my longer-term index fund and high dividend positions. Based on a number of risk appetite indicators around the world - including the bloodbath in Japan - I am unconfident about the next coming months.</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Activerecord Foundations&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

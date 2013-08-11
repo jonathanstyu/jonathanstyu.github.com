@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Big Chess &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Big Chess &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### Big Chess 2Today we continued to work on the Big Chess Project in our pairs. Even though I ...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/big-chess">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Big Chess</h1>
+            <p class="date">May 22, 2013</p>
+            <p class="intro">App Academy W2D3</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="big-chess-2">Big Chess 2</h3>
+
+<p>Today we continued to work on the Big Chess Project in our pairs. Even though I felt like we had made astounding progress through yesterday, we were working right until the end of the day. Yesterday we had implemented a number of classes that would subclass an umbrella Piece class. We would subclass as according to certain behaviors. The queen, rook and bishop would all just be variations of one particular piece. The knight and king would all have to have their own particular classes as well. We grouped the pawn off into its own particular class because it had a number of different behaviors like the 2 step first move and the diagonal capture.</p>
+
+<p>Up until yesterday all of that had been done. We had even implemented an untested check and checkmate function that would iterate through a board, simulate a valid move, and then return whether or not the game had been over. Working out the bugs was incredibly painful and tedious. Eventually we came across 2 show stopping bugs. One was a huge one where the board would simply return that it could not call a particular software method on a nil. This meant that somewhere in the program, almost in the middle of an otherwise ordinary search, the program had broken itself. The logic had been snapped. We looked at this bug for over an hour, trying different things. Stepping through the program line by line with a gem called &#8220;debugger&#8221;. In the end we could not really find the answer and we had to call Ned over. Ned figured it out within a few minutes. Turns out the fix was just 4 characters added to a single line. How about that?</p>
+
+<p>The second show stopping bug is more tied to the design. After finishing the checkmate functionality, we went ahead and built some optional features like castling and pawn promotion. Pawn promotion took about an hour but castling was very different. Turns out that some of the methods that we call in castling would end up in an infinite loop. That&#8221;s fine. We wrote a workaround for that. But then what happened was that the fix then breaks the part of checkmate that flags checkmate if the king is in check and can escape. Ugh! We are still working on that bug. It is a major design flaw.</p>
+
+<p>Top 3 Things I Learned:</p>
+
+<p>1) If you are having trouble thinking up a name for a commit, it is likely that you took too long between them</p>
+
+<p>2) &#8216;git log&#8217; is helpful because it shows the branches of the different commits and where the branches all diverge</p>
+
+<p>3) If you have a certain situation where the program is breaking at a particular spot, you can go and run &#8220;debugger if (situation)&#8221; in order to prevent yourself from having to hit &#8220;next&#8221; through an unending parade of commands</p>
+
+<p>Other Things I Think I Think:</p>
+
+<p>This SF weather is just ridiculously unpredictable. Wind chill can take an otherwise warm day to like freezing level</p>
+
+<p>It is hard to maintain a high level of concentration through the creation of a very big program. Walking around helps</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Big Chess&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>

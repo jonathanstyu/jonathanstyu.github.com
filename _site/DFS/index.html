@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Dfs &#8211; Perfect Perusals</title>
+<meta name="description" content="">
+<meta name="keywords" content="app academy">
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Dfs &#8211; Perfect Perusals">
+<meta property="og:description" content="{% include JB/setup %}### DFSToday is a Friday so today's post comes a little early. I am going to go and post this a...">
+<meta property="og:url" content="http://jonathanstyu.github.io/blog/DFS">
+<meta property="og:site_name" content="Perfect Perusals">
+
+
+<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Type -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+
+<!-- Fresh Squeezed jQuery -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+
+<div id="bump">
+  <body class="">
+    <header class="site-header">
+      <div class="wrap">
+        <hgroup>
+          <h1><a href="/">Perfect Perusals</a></h1>
+        </hgroup>
+        <a href="#nav" class="menu"><span class='icons'>☰</span></a>
+        <nav role="navigation">
+          <ul>
+            <li>
+              <a href="/" title="Perfect Perusals">Home</a>
+            </li>
+            
+            
+                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+            
+                <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
+            
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<section class="article">
+
+
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+
+
+
+      <article class="wrap post">
+        <header class="post-header">
+          <hgroup>
+            <h1>Dfs</h1>
+            <p class="date">May 17, 2013</p>
+            <p class="intro">App Academy W1D5</p>
+          </hgroup>
+        </header>
+    
+        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+
+<h3 id="dfs">DFS</h3>
+
+<p>Today is a Friday so today&#8217;s post comes a little early. I am going to go and post this a little early. In today&#8217;s class we began an introduction to algorithms and data structures. There are a lot of algos out there in the world - I was linked to a github (https://github.com/kanwei/algorithms) that had a whole bunch of them. To start us off as gently as possible, we started with understanding what was a data structure. We put together Node classes, which have parents, child nodes, and when put together make up a tree. Using this tree, we would be able to put together the next projects.</p>
+
+<p>An algorithm is kind of like a recipe for data. It is written up in an abstract concept that can then be written in any programming language available. The two big algos that we worked on were Depth-First Search and Breadth First Search. These are things used for searching items in a Tree. In Depth First Search, you pick a &#8220;branch&#8221; of the tree and then explore it as deeply as you can. This way, you can be very thorough in the exploration of a branch before you move on to other branches. The Breadth First Search, you go through each level of a tree before you exit that level and then go down one more level.</p>
+
+<p>Monday is the first assessment. If you fail 2 two of them they ask you to leave. I have to study hard this weekend and review everything that I have learned. Doing programs over and over again I think will help here.</p>
+
+<p>3 Top Things I Learned:</p>
+
+<p>After reviewing a lot of stuff last night, I felt that I made a lot of progress in implementing recursion. It is still challenging though. I put together a DPS program for a tree that used recursion but missed all the possible base cases. My partner did a good job in helping me find it.</p>
+
+<p>It is interesting how things come up again and again. When putting together an earlier project (http://web.archive.org/web/20120418110425/http://www.rubyquiz.com/quiz44.html) word_chains, Ned had explained that a good way to help do this was to build a pool of possible words and then expand it slowly outwards. It took me a very long time to do this but the experience in putting it together helped in understanding DFS.</p>
+
+<p>Names help a lot. While reading DFS on Wikipedia, I suddenly came across an explanation that labeled a vague abstract concept - the array store that stores the data objects that we have yet to scan and compare to our target - a &#8220;queue&#8221;. Ned had called this earlier a &#8220;pool&#8221; or a &#8220;thing that has to be expanded, possible words&#8221;. Calling a queue suddenly opened my eyes and when I came across DFS again it flowed much easier.</p>
+
+<p>Things I Think I Think:</p>
+
+<p>Reading the Wikipedia and understanding the pseudocode that they provide does so much in helping you understand how to implement an algorithm.</p>
+
+<p>Talking through things aloud makes your throat parched but helps clear your brain</p>
+
+<p>Putting &#8220;return&#8221; at the bottom of my methods is a bad habit that I just can&#8217;t quit</p>
+
+<p>I keep writing &#8220;var ++&#8221; to increment something by 1 instead of the right &#8220;var += 1&#8221;. Ruby does not recognize this and gives me errors.</p>
+
+          
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Dfs&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      
+
+
+      </article>
+
+    </section>
+</div>
+
+<div class="push"></div>
+  <footer>
+    <aside class="wrap">
+      <ol class="prev-posts">
+        <p class="list-title">Recent Posts</p>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="date">Jul 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="date">Jul 10, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
+              <span class="date">Jul 08, 2013</span>
+            </li>
+        
+      </ol>
+      
+      <div class="social">
+        <ul>
+            <li><a id="mail" href="mailto:jonathan@jonathanyu.net"><span class="foot-link">Contact Me</span></a></li>
+            
+            
+            
+            
+            
+        </ul>
+    </div>
+    </aside>
+    <small>&copy; 2013 Jonathan Yu. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyll.gtat.me/about">Balzac</a> theme.</small>
+  </footer>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  
+
+  </body>
+</html>
