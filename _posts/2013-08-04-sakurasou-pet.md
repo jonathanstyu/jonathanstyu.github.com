@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Anime Review: Sakurasou no Pet na Kanojo"
-description: "A good show that is a lot more than it was seems to be at first"
+description: "A good show that is a lot more than it seemed to be at first"
 tags: [anime]
 
 ---
