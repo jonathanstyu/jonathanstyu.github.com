@@ -22,6 +22,9 @@ links:
   - title: Github
     url: https://github.com/jonathanstyu
     external: true
+  - title: Resume
+    url: http://jonathanstyu.github.io/resume
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
