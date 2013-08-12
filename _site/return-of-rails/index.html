@@ -8,12 +8,12 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Return Of Rails &#8211; Perfect Perusals">
-<meta property="og:description" content="{% include JB/setup %}### Return of RailsToday we spent the majority of our time working on a big extensive app and f...">
-<meta property="og:url" content="http://jonathanstyu.github.io/blog/return-of-rails">
+<meta property="og:description" content="### Return of RailsToday we spent the majority of our time working on a big extensive app and for the first time in a...">
+<meta property="og:url" content="http://jonathanstyu.github.io/return-of-rails">
 <meta property="og:site_name" content="Perfect Perusals">
 
 
-<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+<link href="http://jonathanstyu.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -23,13 +23,13 @@
 <!-- Type -->
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/entypo/entypo.css" media="all">
 <link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
 
 
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/i.css">
 
 <!-- Fresh Squeezed jQuery -->
 
@@ -38,12 +38,12 @@
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script src="http://jonathanstyu.github.io/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/favicon.ico">
 
 <div id="bump">
   <body class="">
@@ -60,7 +60,7 @@
             </li>
             
             
-                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+                <li><a href="http://jonathanstyu.github.io/about" >About</a></li>
             
                 <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
             
@@ -75,7 +75,7 @@
 
 
   <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/images/typewriter.jpg)"></div>
 
 
 
@@ -88,9 +88,7 @@
           </hgroup>
         </header>
     
-        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
-
-<h3 id="return-of-rails">Return of Rails</h3>
+        <h3 id="return-of-rails">Return of Rails</h3>
 
 <p>Today we spent the majority of our time working on a big extensive app and for the first time in a week - but it feels so long - Ruby on Rails makes its triumphant return. We built and created a RoR app that lets people tell secrets to one another. I assume that this is based on a real life business and product. The goal of the secrets product - which I keep misspelling as seacrest - is that this is going to be the place where we get to use a little bit of AJAX. Using some cool JQuery calls, we are going to be able to add and make calls to the database and the Rails backend without having to refresh and mess with the page.</p>
 
@@ -98,11 +96,11 @@
 
 <p>AJAX is the fringes of the technology. The goal was to make some requests to the server with some JavaScript code that was dropped and embedded right in the HTML. Then the HTML would make a request to the server and the server would respond with some data usually in the form of JSON. This is done with the controller actions. Where before I had went ahead and just had it render or redirect to a web page, I instructed the web page to come back with a JSONified version of the object in question. If I was saving an instance of a user, I would render that particular saved version of the object. That data would be attached to the page right there in the background with the magic of JQuery. With this we were able to have a signed in user create friendships with a list of users and then without refreshing the page then unfriend them. It is pretty amazing if you ask me. This was simple JQuery with refreshing and adding and toggling the different classes. We created a class that would hide a particular div or a form. If the web page makes a GET or a POST request, then the server would come back with an AJAX:Success web page and that would trigger a callback function that runs and then tells the JQuery code to manipulate the DOM as needed to show the user the information that he wants to see. The biggest trouble ironically enough had nothing to do with the actual AJAX and the JS. It was as always with CSS (Is it any other case?). By hiding and manipulating the classes of CSS we were able to create different looks and feels on the web page without actually doing anything on the server side. All the meanwhile the server is just sitting there waiting for the background data requests but sending nothing in the terms of the web pages and all. For the first time I finally get a sense of what Paul was shooting for when he started the monumental task of scrapping the old MotherKnows product and putting CareDox together from the ground up as a BackBoneJS product.</p>
 
-<p>Secrets and tagging secrets were the next thing to do. Secrets are owned by a user and they can be shown on the user&#8217;s profile page (the show.html.erb). The user wants to be able to make and update the page with his new secrets right there on the page. Can we do that? This is something that we have done before but with a lot of groundwork from the backend Rails server. It would take the data or re-render it or go and redirect the user to something else. With some well placed AJAX we could do the whole thing right there in the browser and the new secret could pop up on their web page show profile without any refreshing on our end. We siphoned off the form into a partial in another part of the app and embedded a remote =&gt; true into it to make it something that is capable of making asynchronous javascript web page calls. I was pretty excited to see a tiny string (&#8220;wah&#8221;) show up on the screen. Small step for mankind, big step for JY&#8217;s Javascript.</p>
+<p>Secrets and tagging secrets were the next thing to do. Secrets are owned by a user and they can be shown on the user’s profile page (the show.html.erb). The user wants to be able to make and update the page with his new secrets right there on the page. Can we do that? This is something that we have done before but with a lot of groundwork from the backend Rails server. It would take the data or re-render it or go and redirect the user to something else. With some well placed AJAX we could do the whole thing right there in the browser and the new secret could pop up on their web page show profile without any refreshing on our end. We siphoned off the form into a partial in another part of the app and embedded a remote =&gt; true into it to make it something that is capable of making asynchronous javascript web page calls. I was pretty excited to see a tiny string (“wah”) show up on the screen. Small step for mankind, big step for JY’s Javascript.</p>
 
-<p>Then we created a Tag object so that secrets can get tagged. With a tag join table we could then associate the tag with the secret. This is nothing out of the ordinary. We had done this before. The interesting thing with this is that within the form with which we assign the tag to the particular Secret, we now can go and create additional select forms that would let us select more than 1 tag to go with our secret. In fact we could create a whole lot more! I remember that when we were creating our forms for Rails last week I was copying and pasting HTML over and over again and I was wondering what would happen if someone wanted to add more fields and say more to us? The product manager in me was like, &#8220;Well tough beans honey.&#8221; But now with some AJAX and smart JQuery we can go and do this. The challenge with this is that we needed to have all the names of the tags in the database and unfortunately the database has this data. Before with Rails we could just go and query the database for it with an easy a call as Tag.all. The browser cannot do that and even if it were then it would defeat the entire purpose of the call. The goal is to let the browser do its thing without any intereference from the server. The backend is to do nothing after it sends over that first ejaculation of Javascript until the client finally sends it back. How the heck is the JavaScript going to go and add new select fields to the form? What if the form needs to be modified? All these things present a challenge. The JS needs the DATA!</p>
+<p>Then we created a Tag object so that secrets can get tagged. With a tag join table we could then associate the tag with the secret. This is nothing out of the ordinary. We had done this before. The interesting thing with this is that within the form with which we assign the tag to the particular Secret, we now can go and create additional select forms that would let us select more than 1 tag to go with our secret. In fact we could create a whole lot more! I remember that when we were creating our forms for Rails last week I was copying and pasting HTML over and over again and I was wondering what would happen if someone wanted to add more fields and say more to us? The product manager in me was like, “Well tough beans honey.” But now with some AJAX and smart JQuery we can go and do this. The challenge with this is that we needed to have all the names of the tags in the database and unfortunately the database has this data. Before with Rails we could just go and query the database for it with an easy a call as Tag.all. The browser cannot do that and even if it were then it would defeat the entire purpose of the call. The goal is to let the browser do its thing without any intereference from the server. The backend is to do nothing after it sends over that first ejaculation of Javascript until the client finally sends it back. How the heck is the JavaScript going to go and add new select fields to the form? What if the form needs to be modified? All these things present a challenge. The JS needs the DATA!</p>
 
-<p>The solution that Ned told us about felt to me oh so very secretive, turn coat and like the NSA. The way to do it is to create a script div that would have Ruby ERB. It would simply request that the server get all the tags, turn them into a HTML safe JSONified object and drop that into the DIV. It is not visible on the screen. It is just sitting there. To make sure that the browser does not render it, we make it a script tag with a &#8220;text/json&#8221; type there. (In fact the browser is going to ignore any script tagged with a type other than the text/javascript. How about that?) But the JQUERY code that we wrote inline in the HTML is going to be able to see it because we tagged it with the right ID! It felt to me like something out of a spy movie. It was pretty impressive.</p>
+<p>The solution that Ned told us about felt to me oh so very secretive, turn coat and like the NSA. The way to do it is to create a script div that would have Ruby ERB. It would simply request that the server get all the tags, turn them into a HTML safe JSONified object and drop that into the DIV. It is not visible on the screen. It is just sitting there. To make sure that the browser does not render it, we make it a script tag with a “text/json” type there. (In fact the browser is going to ignore any script tagged with a type other than the text/javascript. How about that?) But the JQUERY code that we wrote inline in the HTML is going to be able to see it because we tagged it with the right ID! It felt to me like something out of a spy movie. It was pretty impressive.</p>
 
 <p>All in all, an exciting and exhilrating day. I feel much better making these apps than stupid Snakey.</p>
 
@@ -118,7 +116,7 @@ Other Things I Think I Think:</p>
 I am disappointed that Lebron and the Heat escaped losing to the Spurs last night. I hope they meet their end in Game 7!</p>
 
           
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Return Of Rails&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Return Of Rails&quot;%20http://jonathanstyu.github.io%20via%20&#64;" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
       
@@ -136,18 +134,18 @@ I am disappointed that Lebron and the Heat escaped losing to the Spurs last nigh
         <p class="list-title">Recent Posts</p>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/apple-in-2013" title="Apple in 2013">Apple in 2013 </a></span>
+              <span class="date">Aug 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
               <span class="date">Jul 11, 2013</span>
             </li>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
               <span class="date">Jul 10, 2013</span>
-            </li>
-         <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
-              <span class="date">Jul 08, 2013</span>
             </li>
         
       </ol>
@@ -167,11 +165,11 @@ I am disappointed that Lebron and the Heat escaped losing to the Spurs last nigh
   </footer>
 
   <!-- If they're out, get some from the cellar -->
-  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/assets/js/retina.min.js"></script>
 
   <!-- Custom JS -->
-  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  <script src="http://jonathanstyu.github.io/assets/js/scripts.js"></script>
   
 
   </body>

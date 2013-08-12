@@ -8,12 +8,12 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Fleshing Out Form &#8211; Perfect Perusals">
-<meta property="og:description" content="{% include JB/setup %}### Fleshing out a Powerful Client Side FormI have created a few forms before for Rails and I h...">
-<meta property="og:url" content="http://jonathanstyu.github.io/blog/fleshing-out-form">
+<meta property="og:description" content="### Fleshing out a Powerful Client Side FormI have created a few forms before for Rails and I have played around with...">
+<meta property="og:url" content="http://jonathanstyu.github.io/fleshing-out-form">
 <meta property="og:site_name" content="Perfect Perusals">
 
 
-<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+<link href="http://jonathanstyu.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -23,13 +23,13 @@
 <!-- Type -->
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/entypo/entypo.css" media="all">
 <link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
 
 
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/i.css">
 
 <!-- Fresh Squeezed jQuery -->
 
@@ -38,12 +38,12 @@
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script src="http://jonathanstyu.github.io/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/favicon.ico">
 
 <div id="bump">
   <body class="">
@@ -60,7 +60,7 @@
             </li>
             
             
-                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+                <li><a href="http://jonathanstyu.github.io/about" >About</a></li>
             
                 <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
             
@@ -75,7 +75,7 @@
 
 
   <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/images/typewriter.jpg)"></div>
 
 
 
@@ -88,21 +88,19 @@
           </hgroup>
         </header>
     
-        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
-
-<h3 id="fleshing-out-a-powerful-client-side-form">Fleshing out a Powerful Client Side Form</h3>
+        <h3 id="fleshing-out-a-powerful-client-side-form">Fleshing out a Powerful Client Side Form</h3>
 
 <p>I have created a few forms before for Rails and I have played around with Backbone before too. However this is the first time I really have gone heads first with creating a complex, single page application that would help create an applicant for a rental by collecting its parts, saving them, even validating them, and then submitting them all on the client side. It is kind of amazing if you think about it. Once Rails sends down the JavaScript code to the browser, there is not a single bit of interaction between the server and the user until the user is ready to send up the data and the data is complete in a way that is ready to receive.</p>
 
 <p>Having worked on a similar product before in CareDox, I found that the less interaction between the user and the server, the quicker and better. Paul had implemented a bit where the data would constantly be sent and updated on the server side but since the server was so slow, it took forever to get anything done. I would type something into a box then wait impatiently for about 2-3 minutes. It by itself did not take all that long but in the end since the form is so long it would take forever and it was incredibly demoralizing. I decided then that for the rentForm I wanted a product that basically did all the validations on the client side and did not touch the server at all until the thing was ready to submit. And when it was done, then it would send it all up in just one big hash. This was the goal. How can someone go ahead about that? Yesterday was the easy part, just creating the forms on the HTML. Now it is time to actually make them functional.</p>
 
-<p>I started with creating a number of models in Rails that would represent the parts of the form that would eventually be modular. These were the incomeDetails, emergencyContacts, personal references, and rent histories. These would all be models that &#8220;belong&#8217; to the applicant. Then the applicant model would accept a nested attributes for these individual parts. There were no validations on the backend because God knows what I would do in that case if something came back bad. Seems like a pretty thin tightrope so the code on the front end is going to have be really air tight.</p>
+<p>I started with creating a number of models in Rails that would represent the parts of the form that would eventually be modular. These were the incomeDetails, emergencyContacts, personal references, and rent histories. These would all be models that “belong’ to the applicant. Then the applicant model would accept a nested attributes for these individual parts. There were no validations on the backend because God knows what I would do in that case if something came back bad. Seems like a pretty thin tightrope so the code on the front end is going to have be really air tight.</p>
 
 <p>On the front end, I put a Backbone app into the page but unlike how I did it with all the other Backbone apps that I created in the earlier days, I was going to tweak the formula. When I initialized the router, I created one Backbone model, which represented a single applicant. Eventually I will be able to have multiple applicants in a single submission (using collections) but I figured that can wait until later. For now we have to be happy with what can be done.</p>
 
-<p>Becuase the app has a sidebar and advances throughout the page, I wanted data to be capable of being &#8220;saved&#8217; and persisted to a single instance of the Backbone model. This way, the single Applicant would be built over time and then submitted with a single AJAX call. When I first wrote the form I wrote it in a traditional way. The name of the input would be something like &#8220;applicant[name]&#8217; or in the case of a nested attribute &#8220;applicant[nested_attribute][0][name]&#8217;. But then I found that when someone hit the button and I made the call to Backbone to &#8220;set&#8217; the attributes, that the applicant attributes would not &#8220;build up&#8217;. Instead, the latest one would replace the earlier ones. This is because of the way the &#8220;set&#8217; seems to work. Because the attributes are all nested under &#8220;applicant&#8217;, I found that it would simply reset the entire set of the applicant attributes. Deleted everything that I had done before! I was displeased and Googled for a bit for a solution. Did not find one. So I decided upon a hackish roundabout way. I took out the &#8220;applicant&#8217; in all the name fields of the form so that I could set the attributes raw. This made sure that nothing got overrode because Backbone.model.set only looks at what is different. So the Applicant.attributes would have like &#8220;nested_attribute-0-bunch of stuff&#8217;. I then overrode the to_JSON for the Applicant model so that it would take all the attributes and then wrap them in a single applicant object and return that. This did the trick. Now all the params are in a proper format so that Rails can accept them and use them to create a complete Applicant model instance.</p>
+<p>Becuase the app has a sidebar and advances throughout the page, I wanted data to be capable of being “saved’ and persisted to a single instance of the Backbone model. This way, the single Applicant would be built over time and then submitted with a single AJAX call. When I first wrote the form I wrote it in a traditional way. The name of the input would be something like “applicant[name]’ or in the case of a nested attribute “applicant[nested_attribute][0][name]’. But then I found that when someone hit the button and I made the call to Backbone to “set’ the attributes, that the applicant attributes would not “build up’. Instead, the latest one would replace the earlier ones. This is because of the way the “set’ seems to work. Because the attributes are all nested under “applicant’, I found that it would simply reset the entire set of the applicant attributes. Deleted everything that I had done before! I was displeased and Googled for a bit for a solution. Did not find one. So I decided upon a hackish roundabout way. I took out the “applicant’ in all the name fields of the form so that I could set the attributes raw. This made sure that nothing got overrode because Backbone.model.set only looks at what is different. So the Applicant.attributes would have like “nested_attribute-0-bunch of stuff’. I then overrode the to_JSON for the Applicant model so that it would take all the attributes and then wrap them in a single applicant object and return that. This did the trick. Now all the params are in a proper format so that Rails can accept them and use them to create a complete Applicant model instance.</p>
 
-<p>But I was not done. I wanted to have validations. Validations is built into the model class but there were two problems that made it unamenable to what I wanted to do. First, validation is called only upon &#8220;save&#8217;. So that it would be such that nobody can see that they are doing it wrong until they hit the big red button at the end of the entire form! Imagine how irritated you would be if you would spend 15 minutes on a rental form, hit submit, and then suddenly find that it had spit back a whole bunch of crap errors at you. You want to know about these errors as soon as possible. Also, since the sections like personal reference and such are all actually representative of separate models from the actual applicant model, it would have made me to go and create separate Backbone models for all those individual things and that was just going to go drive me insane. So I decided that I would roll my own validation set for this page. I created a &#8220;validate&#8217; funct that would be called and I passed to it the serialized form data created at the click event as well as a callback function that simply sets the attribute and handles the rest of the other stuff that successfully saves. Not DRY at all since this is a feature that needs to be in all of the Views that I have throughout the Backbone app but without work I am not excited to do I am not particularly excited to refactor it. For now we shall have to live with it. I also made arbitrary decisions on what should or should not be required. In the future, I would like to see this customizable and I do see a way forward to it. Would have to be on the backburner for now though.</p>
+<p>But I was not done. I wanted to have validations. Validations is built into the model class but there were two problems that made it unamenable to what I wanted to do. First, validation is called only upon “save’. So that it would be such that nobody can see that they are doing it wrong until they hit the big red button at the end of the entire form! Imagine how irritated you would be if you would spend 15 minutes on a rental form, hit submit, and then suddenly find that it had spit back a whole bunch of crap errors at you. You want to know about these errors as soon as possible. Also, since the sections like personal reference and such are all actually representative of separate models from the actual applicant model, it would have made me to go and create separate Backbone models for all those individual things and that was just going to go drive me insane. So I decided that I would roll my own validation set for this page. I created a “validate’ funct that would be called and I passed to it the serialized form data created at the click event as well as a callback function that simply sets the attribute and handles the rest of the other stuff that successfully saves. Not DRY at all since this is a feature that needs to be in all of the Views that I have throughout the Backbone app but without work I am not excited to do I am not particularly excited to refactor it. For now we shall have to live with it. I also made arbitrary decisions on what should or should not be required. In the future, I would like to see this customizable and I do see a way forward to it. Would have to be on the backburner for now though.</p>
 
 <p>The form product continues to need some work but I am going to turn my attention elsewhere tomorrow as I am going to spend some time working on the dashboard and what the landlord is going to see as he goes about finding tenants. I am interested in seeing how this is going to work especially if I might tag particular applicants as acceptable or not. PerfectPerusals was in my opinion rather simple and really was just a project. I want RentForm to be something real. Something that customers might actually want to use. I really want this product to be something that can actually be impressive. But that means I am going to have put a lot of work into it. Just keep at it.</p>
 
@@ -113,7 +111,7 @@
 </ul>
 
           
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Fleshing Out Form&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Fleshing Out Form&quot;%20http://jonathanstyu.github.io%20via%20&#64;" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
       
@@ -131,18 +129,18 @@
         <p class="list-title">Recent Posts</p>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/apple-in-2013" title="Apple in 2013">Apple in 2013 </a></span>
+              <span class="date">Aug 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
               <span class="date">Jul 11, 2013</span>
             </li>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
               <span class="date">Jul 10, 2013</span>
-            </li>
-         <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
-              <span class="date">Jul 08, 2013</span>
             </li>
         
       </ol>
@@ -162,11 +160,11 @@
   </footer>
 
   <!-- If they're out, get some from the cellar -->
-  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/assets/js/retina.min.js"></script>
 
   <!-- Custom JS -->
-  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  <script src="http://jonathanstyu.github.io/assets/js/scripts.js"></script>
   
 
   </body>

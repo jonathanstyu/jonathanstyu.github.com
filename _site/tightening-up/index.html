@@ -8,12 +8,12 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Tightening Up &#8211; Perfect Perusals">
-<meta property="og:description" content="{% include JB/setup %}### Final ProjectsIn today's chronicle, Jonathan spends time cleaning up and tightening the scr...">
-<meta property="og:url" content="http://jonathanstyu.github.io/blog/tightening-up">
+<meta property="og:description" content="### Final ProjectsIn today's chronicle, Jonathan spends time cleaning up and tightening the screws on PerfectPerusals...">
+<meta property="og:url" content="http://jonathanstyu.github.io/tightening-up">
 <meta property="og:site_name" content="Perfect Perusals">
 
 
-<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+<link href="http://jonathanstyu.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -23,13 +23,13 @@
 <!-- Type -->
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/entypo/entypo.css" media="all">
 <link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
 
 
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/i.css">
 
 <!-- Fresh Squeezed jQuery -->
 
@@ -38,12 +38,12 @@
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script src="http://jonathanstyu.github.io/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/favicon.ico">
 
 <div id="bump">
   <body class="">
@@ -60,7 +60,7 @@
             </li>
             
             
-                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+                <li><a href="http://jonathanstyu.github.io/about" >About</a></li>
             
                 <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
             
@@ -75,7 +75,7 @@
 
 
   <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/images/typewriter.jpg)"></div>
 
 
 
@@ -88,18 +88,16 @@
           </hgroup>
         </header>
     
-        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
+        <h3 id="final-projects">Final Projects</h3>
 
-<h3 id="final-projects">Final Projects</h3>
+<p>In today’s chronicle, Jonathan spends time cleaning up and tightening the screws on PerfectPerusals. I am pretty satisified with much of what was done but I still think that there are a few flaws here and there that would require some research to competently address.</p>
 
-<p>In today&#8217;s chronicle, Jonathan spends time cleaning up and tightening the screws on PerfectPerusals. I am pretty satisified with much of what was done but I still think that there are a few flaws here and there that would require some research to competently address.</p>
+<p>The main issue regards how I want to implement the Friend Feed. The way I am doing it right now is to have a number of disparate objects which the back end collects and pukes out at the client. I then wrote client side code that would let the browser interpret all that and put it together in a simple organized way. To me this seemed like a pretty hackish way but for just displaying the friend feed it worked. Can’t really complain.</p>
 
-<p>The main issue regards how I want to implement the Friend Feed. The way I am doing it right now is to have a number of disparate objects which the back end collects and pukes out at the client. I then wrote client side code that would let the browser interpret all that and put it together in a simple organized way. To me this seemed like a pretty hackish way but for just displaying the friend feed it worked. Can&#8217;t really complain.</p>
-
-<p>However, then came the real issue. I realized relatively later that people can comment not only on Reviews but also shelvings of books and adding of friends. What the heck? I have never seen this sort of functionality before. Does this make sense at all? Well it is there so I have to implement it. Now the way I could probably do it is just to create separate &#8220;comment&#8221; objects. That would be a dangerous way to do it and I was not excited about that. The other way is to use inheritance, namely multi table inheritance, which is something that is going to be pretty cool. The parent class would have its own table but not only that there would be children and those children have their own tables. It is awesome, but it is not standard and though it is too late to use it for PP, I would think that it would be nice to try it for my next project.</p>
+<p>However, then came the real issue. I realized relatively later that people can comment not only on Reviews but also shelvings of books and adding of friends. What the heck? I have never seen this sort of functionality before. Does this make sense at all? Well it is there so I have to implement it. Now the way I could probably do it is just to create separate “comment” objects. That would be a dangerous way to do it and I was not excited about that. The other way is to use inheritance, namely multi table inheritance, which is something that is going to be pretty cool. The parent class would have its own table but not only that there would be children and those children have their own tables. It is awesome, but it is not standard and though it is too late to use it for PP, I would think that it would be nice to try it for my next project.</p>
 
           
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Tightening Up&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Tightening Up&quot;%20http://jonathanstyu.github.io%20via%20&#64;" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
       
@@ -117,18 +115,18 @@
         <p class="list-title">Recent Posts</p>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/apple-in-2013" title="Apple in 2013">Apple in 2013 </a></span>
+              <span class="date">Aug 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
               <span class="date">Jul 11, 2013</span>
             </li>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
               <span class="date">Jul 10, 2013</span>
-            </li>
-         <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
-              <span class="date">Jul 08, 2013</span>
             </li>
         
       </ol>
@@ -148,11 +146,11 @@
   </footer>
 
   <!-- If they're out, get some from the cellar -->
-  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/assets/js/retina.min.js"></script>
 
   <!-- Custom JS -->
-  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  <script src="http://jonathanstyu.github.io/assets/js/scripts.js"></script>
   
 
   </body>

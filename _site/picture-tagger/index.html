@@ -8,12 +8,12 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Picture Tagger &#8211; Perfect Perusals">
-<meta property="og:description" content="{% include JB/setup %}### Picture TaggerToday we continued with our big JavaScript project PictureTagger, which emula...">
-<meta property="og:url" content="http://jonathanstyu.github.io/blog/picture-tagger">
+<meta property="og:description" content="### Picture TaggerToday we continued with our big JavaScript project PictureTagger, which emulates the functionality ...">
+<meta property="og:url" content="http://jonathanstyu.github.io/picture-tagger">
 <meta property="og:site_name" content="Perfect Perusals">
 
 
-<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+<link href="http://jonathanstyu.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -23,13 +23,13 @@
 <!-- Type -->
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/entypo/entypo.css" media="all">
 <link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
 
 
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/i.css">
 
 <!-- Fresh Squeezed jQuery -->
 
@@ -38,12 +38,12 @@
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script src="http://jonathanstyu.github.io/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/favicon.ico">
 
 <div id="bump">
   <body class="">
@@ -60,7 +60,7 @@
             </li>
             
             
-                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+                <li><a href="http://jonathanstyu.github.io/about" >About</a></li>
             
                 <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
             
@@ -75,7 +75,7 @@
 
 
   <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/images/typewriter.jpg)"></div>
 
 
 
@@ -88,17 +88,15 @@
           </hgroup>
         </header>
     
-        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
-
-<h3 id="picture-tagger">Picture Tagger</h3>
+        <h3 id="picture-tagger">Picture Tagger</h3>
 
 <p>Today we continued with our big JavaScript project PictureTagger, which emulates the functionality of Facebook in that someone can log in, add pictures and then tag a picture with their friends. Such a simple piece of functionality as it turns out is something extremely and deeply complex. It really is something to be amazed about.</p>
 
-<p>Picture Tagger is our way to learn BackBone (which I keep confusing with BootStrap to turn into something called &#8220;BootBone&#8221; or &#8220;BackStrap&#8221;) without actually using BackBone. We split out our JavaScript code into different sections that hold templates, &#8220;controller&#8221; code, and views. We also wrote and created objects that would hold different objects, features, and then functions that we can then call. We had at first written all the code in the application.js file that comes in Rails but it quickly grew into a monstrosity that could fight Godzilla in some cheesy Japanese movie &#8230; like Rodan or Mothra or something. The key to understanding and getting past that was to realize that application.js is really one big compiled piece of JavaScript code. Once we have added things in the right order then we could quickly compartmentalize everything into neat and well understood piles.</p>
+<p>Picture Tagger is our way to learn BackBone (which I keep confusing with BootStrap to turn into something called “BootBone” or “BackStrap”) without actually using BackBone. We split out our JavaScript code into different sections that hold templates, “controller” code, and views. We also wrote and created objects that would hold different objects, features, and then functions that we can then call. We had at first written all the code in the application.js file that comes in Rails but it quickly grew into a monstrosity that could fight Godzilla in some cheesy Japanese movie … like Rodan or Mothra or something. The key to understanding and getting past that was to realize that application.js is really one big compiled piece of JavaScript code. Once we have added things in the right order then we could quickly compartmentalize everything into neat and well understood piles.</p>
 
-<p>We also had to very well understand callbacks and how they work. We wrote a number of callback functions that we could then call as certain information comes available from the server. The goal was not to get too confused by all these callbacks by being very definite about what exactly each particular function will do. It is kind of amazing when we go into our &#8220;model&#8221; class for photos and then see all these callbacks being passed back and forth. It looks like a hot potato race. There are callbacks after callbacks.</p>
+<p>We also had to very well understand callbacks and how they work. We wrote a number of callback functions that we could then call as certain information comes available from the server. The goal was not to get too confused by all these callbacks by being very definite about what exactly each particular function will do. It is kind of amazing when we go into our “model” class for photos and then see all these callbacks being passed back and forth. It looks like a hot potato race. There are callbacks after callbacks.</p>
 
-<p>One of the bigger challenges that we had after figuring that out was to figure out how to create and position tags so that they float on top of the image. Dylan helped us a whole lot by coming up with a great solution. We would wrap the image with a div. The div would be placed in a &#8220;relative&#8221; position to the image, which is positioned &#8220;absolutely&#8221;. Then we would create and render the individual tags with &#8220;absolute&#8221; positioning and after hardcoding the x and y coordinates into the page we could then just append them onto the main wrapper div.</p>
+<p>One of the bigger challenges that we had after figuring that out was to figure out how to create and position tags so that they float on top of the image. Dylan helped us a whole lot by coming up with a great solution. We would wrap the image with a div. The div would be placed in a “relative” position to the image, which is positioned “absolutely”. Then we would create and render the individual tags with “absolute” positioning and after hardcoding the x and y coordinates into the page we could then just append them onto the main wrapper div.</p>
 
 <p>There was also the challenge and going about and configuring the Rails backend too. It turned out to be quite essential to making the product work. There was a whole lot of stuff to be done. I find it hard to imagine that no matter how much Ryan says about just how separated the two halves - the front end and the back end - are from each other that how much they have to be integrated with each other. There were so many times that we would have to go back into Rails, switching between JavaScript and Ruby (so there were many Ruby statements with semi-colons on them), because we had to reconfigure the controller to make it all work smoothly between each other.</p>
 
@@ -108,12 +106,12 @@
 
 <p>Other Things I Think I Think:</p>
 
-<p>Jonathan&#8217;s weather report continues. It rained lightly today and the rain moistened my legs. It was one of those random days when it rained and it was dark but the air still felt kind of warm.</p>
+<p>Jonathan’s weather report continues. It rained lightly today and the rain moistened my legs. It was one of those random days when it rained and it was dark but the air still felt kind of warm.</p>
 
 <p>Went to go see World War Z last Friday. Was pretty good but thought that we needed more scenes of zombies massing up and attacking people.</p>
 
           
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Picture Tagger&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Picture Tagger&quot;%20http://jonathanstyu.github.io%20via%20&#64;" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
       
@@ -131,18 +129,18 @@
         <p class="list-title">Recent Posts</p>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/apple-in-2013" title="Apple in 2013">Apple in 2013 </a></span>
+              <span class="date">Aug 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
               <span class="date">Jul 11, 2013</span>
             </li>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
               <span class="date">Jul 10, 2013</span>
-            </li>
-         <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
-              <span class="date">Jul 08, 2013</span>
             </li>
         
       </ol>
@@ -162,11 +160,11 @@
   </footer>
 
   <!-- If they're out, get some from the cellar -->
-  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/assets/js/retina.min.js"></script>
 
   <!-- Custom JS -->
-  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  <script src="http://jonathanstyu.github.io/assets/js/scripts.js"></script>
   
 
   </body>

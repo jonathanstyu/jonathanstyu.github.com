@@ -3,64 +3,130 @@
 <title type="text">Perfect Perusals</title>
 <subtitle type="text">A Website.</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://jonathanstyu.github.io/blog/feed.xml" />
-<link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog" />
-<updated>2013-08-10T21:41:46-07:00</updated>
-<id>http://jonathanstyu.github.io/blog/</id>
+<link rel="self" type="application/atom+xml" href="http://jonathanstyu.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://jonathanstyu.github.io" />
+<updated>2013-08-11T18:12:43-07:00</updated>
+<id>http://jonathanstyu.github.io/</id>
 <author>
   <name>Jonathan Yu</name>
-  <uri>http://jonathanstyu.github.io/blog/</uri>
+  <uri>http://jonathanstyu.github.io/</uri>
   <email>jonathan@jonathanyu.net</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Apple in 2013]]></title>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/apple-in-2013" />
+  <id>http://jonathanstyu.github.io/apple-in-2013</id>
+  <published>2013-08-11T00:00:00-07:00</published>
+  <updated>2013-08-11T00:00:00-07:00</updated>
+  <author>
+    <name>Jonathan Yu</name>
+    <uri>http://jonathanstyu.github.io</uri>
+    <email>jonathan@jonathanyu.net</email>
+  </author>
+  <content type="html">&lt;figure&gt;
+	&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/200px-Apple_logo_black.svg.png&quot; style=&quot;width: 200px&quot; /&gt;
+	&lt;figcaption&gt;Courtesy of Wikipedia&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In 2012, I published a book on Amazon called “Apple and Samsung: A Love Story.” It had first started as a book in where I take a deep look at the entire company, its environment, and its products. That part of the book was quickly overtaken by the section on Samsung Electronics, which I had then identified as Apple’s foremost challenger in the cell phone space. Samsung is a company that does not have a lot written about them by journalists and such, but there was a lot of case studies and academic material available on Google Scholar and I was able to mine that for a lot for information about the company’s culture, its structures, and its history. Some great papers include &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0024630107000714&quot;&gt;“Samsung Motors”&lt;/a&gt;, &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00115/full&quot;&gt;“Samsung’s Ownership Structure”&lt;/a&gt;, and &lt;a href=&quot;http://papers.ssrn.com/sol3/papers.cfm?abstract_id=556923&quot;&gt;“Samsung’s Mobile Phone Business”&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;A lot of what I wrote in the book about the company’s culture of innovation and relentless competitiveness is still relevant. After all, Samsung has taken a big bite out of Apple’s iPhone market, which I identified as pretty much the only revenue/profit engine that matters in the company. From what I understand though, it seems like some new factors have started to be thrown into the mix. I did not want to go back into the book and write it all out so here it is as a post on the site. The first one since I left App Academy.&lt;/p&gt;
+
+&lt;h3 id=&quot;summarizing-the-book&quot;&gt;Summarizing the Book&lt;/h3&gt;
+
+&lt;p&gt;In the book, I suggested that Apple should take its iPhone schedule and split it into two. At the time as it is now, Apple releases 1 iPhone a year. This used to be in July or so (with WWDC) before switching it to the fall with the iPhone 4S presumably so that it could take advantage of the holiday buying season. The problem with this is that an entire year goes by without a new iPhone. There are advantages to this of course. The new iPhone is always hard to make (The CEO of Foxconn, Apple’s supplier, has said that the iPhone 5 in particular is the most difficult product that the company has ever put together) and the long season gives them time to get it down to an art, improving yield. &lt;/p&gt;
+
+&lt;p&gt;The problem with this schedule is that it is just too much time in between new products on the market. It gives opportunity to Android competitors to iterate and come out with a lot of features, leaving the iPhone behind. I suggested that Apple should switch the iPhone to a two-tiered schedule. The “S” version of the phone - the ‘4S’, ‘3S’, and such where the upgrade is on the software side rather than the hardware side, would be released in July and the hardware upgraded phone - a numbered iPhone - would be released in September/October (September better than October. The 4S was in October and it was late even then). This way there would be two phones every year that could be sold to the market. &lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/en/thumb/d/da/China_Mobile_Logo.svg/200px-China_Mobile_Logo.svg.png&quot; style=&quot;width: 200px&quot; /&gt;
+	&lt;figcaption&gt;China Mobile - essential to Apple in China. Logo courtesy of Wikipedia.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The second thing that was essential to Apple’s growth and continued dominance would be its performance in China. Apple in 2011-2012 had been absolutely growing gangbusters in China. The performance of the Asia Pacific unit had grown from some several hundred million to $8 billion in Q2 2012. To continue this growth, I wrote that Apple should look to open a whole bunch of new stores (they talked about dozens several years ago) as well as complete a deal with China Mobile, the biggest telecom operator in the world. Considering that China Mobile is larger than Unicom and Telecom combined and the new iPhone 5 has shown itself capable of connecting to and using the telecom’s unique cellular standard, it seemed that it was important that Apple was to get on that network and that the company knew it. &lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-iphone-to-apple&quot;&gt;What is the iPhone to Apple?&lt;/h3&gt;
+
+&lt;p&gt;The statistics have not borne this out though, as the gross margins have declined from last year and the first quarter with the new iPhone 5 on the market and net income for the 3 months ended June 29th declining some $2 billion from the previous year. &lt;/p&gt;
+
+&lt;p&gt;It used to be that the iPhone was the company’s main driver of profit growth. The 4S version of the phone had some 50% gross margins and sold in the millions. Because of the unique arrangement it has with the telecom operators like Verizon and AT&amp;amp;T, the iPhone was a $800 product that sold like it was priced some $500 less. This is pretty much unique in the consumer electronics world. The 5 though is something different. It seems like the gross margins are much lower for this product. I checked through the cost of the bill of goods and it is not all that much different from that of the 4 and 4S so it probably has something to do with the yield of the phone’s manufacturing. If yield is low, the bad products’ costs are rolled into the costs of the phones that do make it to the market. The iPhone’s scratchable metal case and really thin screen seems to have impacted its manufacturing yield. &lt;/p&gt;
+
+&lt;p&gt;It used to be that when Apple sells a lot of iPhones, it makes a whole lot of money and we did not have to worry about anything else. In 3Q2013, this did not seem to be the case. Apple overperformed on the iPhone, selling over 31 million when some analysts were expecting in the twenties. What happened though was that this did not immediately lead to a huge beat in the net revenue numbers. In fact, it missed those estimates. People are buying the cheaper 4S over the 5 as ASP declined. It is true that it is cheaper to make a 4S than a 5, but that does not seem to be enough to outweigh the drop in price (usually about a $100 decline from one model to a year older).&lt;/p&gt;
+
+&lt;p&gt;Not only that, the decline in profits from the shift from the iPad Jumbo to the iPad mini seem to be hitting the bottom line. In the book I argued that the iPad’s profits were nice but did not move the needle. The margins, which were estimated to be something like 30%, were too small in comparison to the iPhone. Well I did not expect the iPad Mini - a product I love a whole lot personally by the way - to start a downward trend in profit margin. The product was popular and the result was a decline in profit. The profit we expected to come from the iPad division was lost and it was not made up by the iPhone. &lt;/p&gt;
+
+&lt;p&gt;So now instead of having two great products delivering profit, there are two headaches. The iPhone is getting older and its product line is maturing. Customers no longer need to have the latest model. And the iPad tablet computer space has grown faster than any product before, but as I feared in my heart, it was not because the market was necessarily bigger. It was because the infrastructure - from the retail stores to the Foxconn assembly line - already existed to make tapping that market faster. The stats that talked about the iPad growing faster than the iPhone ever never really did say anything about the legitimacy of the entire market. It grew faster than anything else before but that only meant that it hit the wall that much faster. &lt;/p&gt;
+
+&lt;h3 id=&quot;the-china-issue&quot;&gt;The China Issue&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;http://farm8.staticflickr.com/7009/6684953659_f8276b8da4.jpg&quot; style=&quot;width: 200px&quot; /&gt;
+	&lt;figcaption&gt;Courtesy of Elizabeth Phung on Flickr (http://www.flickr.com/photos/lizphung/6684953659/)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As for China, the once-growth engine is now a drag on growth. In 2012, Apple delivered $8 billion in a single quarter from its Apple sales. One year later, &lt;a href=&quot;http://techcrunch.com/2013/07/23/apple-international-q3-2013/&quot;&gt;revenues in that area has dropped some 43%&lt;/a&gt;. It has been a year and none of the things that we pointed out should happen strategically in Apple has happened. There are only 8 stores in Apple.&lt;/p&gt;
+
+&lt;p&gt;Additionally, the iPhone remains missing on China Mobile. Who knows why this is the case. Since the technical hurdles have largely been cleared, it seems to be something about the terms of the agreement. Perhaps there is some sort of demand that Mobile wants that Apple is absolutely not willing to give like a China Mobile branded iPhone or pre-installed apps on the home screen. Whatever the reason and however legitimate such a reason would be, iPhone’s competitors from Xiaomi, ZTE, and Samsung are on that platform and being actively sold. Considering that I wrote in the book that I considered Apple’s biggest strategic dropped ball was to allow the rise of Android by not releasing a Verizon version of the iPhone as soon as possible, this is probably hurting Apple in China. To what extent? Who knows. Not all of China Mobile’s customers can afford an Apple iPhone and the majority of the network’s customers are not on 3G either, which cuts down on the number of potential customers available. However, it still means much that the iPhone is not on the biggest network on the planet. &lt;/p&gt;
+
+&lt;p&gt;New issues have arisen in China. The government has criticized the company for its arrogance, tarnishing the brand and forcing the company to issue an apology for some of its actions over there. Personally I found the actual tiff - something about return and guarantee policies - just that, a tiff, but it seems that it was the ripe thing for the government to take advantage. In the end it could have been anything but it seems like having an American company dominate such a vital part of the Chinese market was troubling to the Chinese. They took efforts to curb Apple’s growth in China, something that I thought about while writing the book but did not mention. In my heart, I suppose I did not want to believe it. In light of the new revelations about Apple’s cooperation with the NSA and other American government agencies for intelligence, the Chinese government is going to take bigger and bolder steps to curb Apple’s growth in China. Many tech companies I knew were going to get hurt by these revelations, but Apple - so reliant on the China market - had the most to lose. It lost badly. &lt;/p&gt;
+
+&lt;h3 id=&quot;the-future&quot;&gt;The Future&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://allthingsd.com/20130810/circle-sept-10-on-your-calendar-for-apples-big-iphone-event/&quot;&gt;AllThingsD broke the report&lt;/a&gt; that the new iPhone was to be announced to the world September 10th, 2013. It is the first set of news to come out in a while. Will people line up for it as they did for the 5 or the 4s? In some numbers yes … but enough?&lt;/p&gt;
+
+&lt;p&gt;I had scarcely thought about Apple’s new products in 2013. For the entire year they had basically vanished and stayed under the radar. They released just 1 new memorable product, the new 12 hour MacBook Air in the summer (I guess the new Mac Pro too but few people are going to buy that). It is troubling to think that the company has gone through nearly 9 months in 2013 selling the same thing that they sold back in November 2012. True they went through a near total refresh that holiday season, but it seems like that they had shot their wad too soon. The benefit from having all those refreshes in the holiday season led to their biggest revenue quarter ever, but it left them spent for the rest of the year and the loss in mind share probably outweighed the financial gains of having all those bullets in the air during the holidays. The biggest Apple stories in the first half of 2013 to me was their huge buyback, their bond sales, and increased dividend. &lt;/p&gt;
+
+&lt;p&gt;I do not really have answers for the future of Apple and the iPhone. I sold my stock a long time ago so I no longer have a financial interest in the company but I still like Apple products. I write apps in RubyMotion and sell books on their iTunes Bookstore. I could suggest a few things, but I do not think that Apple will take any of those suggestions. I could suggest some sensible things, but I am not sure that the company will take up even those. It is tough to project what the company will do in the future, a negative sort of uncertainty that I think is troubling. Very troubling. It is more likely that they will do nothing and stay the course, whatever that may be in their minds. Who knows what it might be in their minds. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/apple-in-2013&quot;&gt;Apple in 2013&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 11, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Integrating With Craigslist]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" />
-  <id>http://jonathanstyu.github.io/blog/integrating-with-craigslist</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/integrating-with-craigslist" />
+  <id>http://jonathanstyu.github.io/integrating-with-craigslist</id>
   <published>2013-07-11T00:00:00-07:00</published>
   <updated>2013-07-11T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;creating-a-form&quot;&gt;Creating a form&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;creating-a-form&quot;&gt;Creating a form&lt;/h3&gt;
 
 &lt;p&gt;Rene and I had talked about one of the challenges of creating a rental form collection product would be that when it comes to marketing, there is nothing that beats Craigslist. Craigslist is the end all, be-all when it comes to marketing rentals and trying anything else would be a waste of time. So one of the challenges is that there is no Craigslist API. There is no automated way to put a listing onto Craigslist. So the only way is to do it through human effort. But while it is not possible to do this automatically, we can try to make it as easy as possible. Rene suggested that we would be able to provide HTML templates of the ads. You would pick a Craigslist List template and it would spit out the HTML that you could then just copy and paste right into the entry. This is the major challenge that I was urged to work on today.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/integrating-with-craigslist&quot;&gt;Integrating With Craigslist&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 11, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/integrating-with-craigslist&quot;&gt;Integrating With Craigslist&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 11, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Fleshing Out Form]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/fleshing-out-form" />
-  <id>http://jonathanstyu.github.io/blog/fleshing-out-form</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/fleshing-out-form" />
+  <id>http://jonathanstyu.github.io/fleshing-out-form</id>
   <published>2013-07-10T00:00:00-07:00</published>
   <updated>2013-07-10T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;fleshing-out-a-powerful-client-side-form&quot;&gt;Fleshing out a Powerful Client Side Form&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;fleshing-out-a-powerful-client-side-form&quot;&gt;Fleshing out a Powerful Client Side Form&lt;/h3&gt;
 
 &lt;p&gt;I have created a few forms before for Rails and I have played around with Backbone before too. However this is the first time I really have gone heads first with creating a complex, single page application that would help create an applicant for a rental by collecting its parts, saving them, even validating them, and then submitting them all on the client side. It is kind of amazing if you think about it. Once Rails sends down the JavaScript code to the browser, there is not a single bit of interaction between the server and the user until the user is ready to send up the data and the data is complete in a way that is ready to receive.&lt;/p&gt;
 
 &lt;p&gt;Having worked on a similar product before in CareDox, I found that the less interaction between the user and the server, the quicker and better. Paul had implemented a bit where the data would constantly be sent and updated on the server side but since the server was so slow, it took forever to get anything done. I would type something into a box then wait impatiently for about 2-3 minutes. It by itself did not take all that long but in the end since the form is so long it would take forever and it was incredibly demoralizing. I decided then that for the rentForm I wanted a product that basically did all the validations on the client side and did not touch the server at all until the thing was ready to submit. And when it was done, then it would send it all up in just one big hash. This was the goal. How can someone go ahead about that? Yesterday was the easy part, just creating the forms on the HTML. Now it is time to actually make them functional.&lt;/p&gt;
 
-&lt;p&gt;I started with creating a number of models in Rails that would represent the parts of the form that would eventually be modular. These were the incomeDetails, emergencyContacts, personal references, and rent histories. These would all be models that &amp;#8220;belong&amp;#8217; to the applicant. Then the applicant model would accept a nested attributes for these individual parts. There were no validations on the backend because God knows what I would do in that case if something came back bad. Seems like a pretty thin tightrope so the code on the front end is going to have be really air tight.&lt;/p&gt;
+&lt;p&gt;I started with creating a number of models in Rails that would represent the parts of the form that would eventually be modular. These were the incomeDetails, emergencyContacts, personal references, and rent histories. These would all be models that “belong’ to the applicant. Then the applicant model would accept a nested attributes for these individual parts. There were no validations on the backend because God knows what I would do in that case if something came back bad. Seems like a pretty thin tightrope so the code on the front end is going to have be really air tight.&lt;/p&gt;
 
 &lt;p&gt;On the front end, I put a Backbone app into the page but unlike how I did it with all the other Backbone apps that I created in the earlier days, I was going to tweak the formula. When I initialized the router, I created one Backbone model, which represented a single applicant. Eventually I will be able to have multiple applicants in a single submission (using collections) but I figured that can wait until later. For now we have to be happy with what can be done.&lt;/p&gt;
 
-&lt;p&gt;Becuase the app has a sidebar and advances throughout the page, I wanted data to be capable of being &amp;#8220;saved&amp;#8217; and persisted to a single instance of the Backbone model. This way, the single Applicant would be built over time and then submitted with a single AJAX call. When I first wrote the form I wrote it in a traditional way. The name of the input would be something like &amp;#8220;applicant[name]&amp;#8217; or in the case of a nested attribute &amp;#8220;applicant[nested_attribute][0][name]&amp;#8217;. But then I found that when someone hit the button and I made the call to Backbone to &amp;#8220;set&amp;#8217; the attributes, that the applicant attributes would not &amp;#8220;build up&amp;#8217;. Instead, the latest one would replace the earlier ones. This is because of the way the &amp;#8220;set&amp;#8217; seems to work. Because the attributes are all nested under &amp;#8220;applicant&amp;#8217;, I found that it would simply reset the entire set of the applicant attributes. Deleted everything that I had done before! I was displeased and Googled for a bit for a solution. Did not find one. So I decided upon a hackish roundabout way. I took out the &amp;#8220;applicant&amp;#8217; in all the name fields of the form so that I could set the attributes raw. This made sure that nothing got overrode because Backbone.model.set only looks at what is different. So the Applicant.attributes would have like &amp;#8220;nested_attribute-0-bunch of stuff&amp;#8217;. I then overrode the to_JSON for the Applicant model so that it would take all the attributes and then wrap them in a single applicant object and return that. This did the trick. Now all the params are in a proper format so that Rails can accept them and use them to create a complete Applicant model instance.&lt;/p&gt;
+&lt;p&gt;Becuase the app has a sidebar and advances throughout the page, I wanted data to be capable of being “saved’ and persisted to a single instance of the Backbone model. This way, the single Applicant would be built over time and then submitted with a single AJAX call. When I first wrote the form I wrote it in a traditional way. The name of the input would be something like “applicant[name]’ or in the case of a nested attribute “applicant[nested_attribute][0][name]’. But then I found that when someone hit the button and I made the call to Backbone to “set’ the attributes, that the applicant attributes would not “build up’. Instead, the latest one would replace the earlier ones. This is because of the way the “set’ seems to work. Because the attributes are all nested under “applicant’, I found that it would simply reset the entire set of the applicant attributes. Deleted everything that I had done before! I was displeased and Googled for a bit for a solution. Did not find one. So I decided upon a hackish roundabout way. I took out the “applicant’ in all the name fields of the form so that I could set the attributes raw. This made sure that nothing got overrode because Backbone.model.set only looks at what is different. So the Applicant.attributes would have like “nested_attribute-0-bunch of stuff’. I then overrode the to_JSON for the Applicant model so that it would take all the attributes and then wrap them in a single applicant object and return that. This did the trick. Now all the params are in a proper format so that Rails can accept them and use them to create a complete Applicant model instance.&lt;/p&gt;
 
-&lt;p&gt;But I was not done. I wanted to have validations. Validations is built into the model class but there were two problems that made it unamenable to what I wanted to do. First, validation is called only upon &amp;#8220;save&amp;#8217;. So that it would be such that nobody can see that they are doing it wrong until they hit the big red button at the end of the entire form! Imagine how irritated you would be if you would spend 15 minutes on a rental form, hit submit, and then suddenly find that it had spit back a whole bunch of crap errors at you. You want to know about these errors as soon as possible. Also, since the sections like personal reference and such are all actually representative of separate models from the actual applicant model, it would have made me to go and create separate Backbone models for all those individual things and that was just going to go drive me insane. So I decided that I would roll my own validation set for this page. I created a &amp;#8220;validate&amp;#8217; funct that would be called and I passed to it the serialized form data created at the click event as well as a callback function that simply sets the attribute and handles the rest of the other stuff that successfully saves. Not DRY at all since this is a feature that needs to be in all of the Views that I have throughout the Backbone app but without work I am not excited to do I am not particularly excited to refactor it. For now we shall have to live with it. I also made arbitrary decisions on what should or should not be required. In the future, I would like to see this customizable and I do see a way forward to it. Would have to be on the backburner for now though.&lt;/p&gt;
+&lt;p&gt;But I was not done. I wanted to have validations. Validations is built into the model class but there were two problems that made it unamenable to what I wanted to do. First, validation is called only upon “save’. So that it would be such that nobody can see that they are doing it wrong until they hit the big red button at the end of the entire form! Imagine how irritated you would be if you would spend 15 minutes on a rental form, hit submit, and then suddenly find that it had spit back a whole bunch of crap errors at you. You want to know about these errors as soon as possible. Also, since the sections like personal reference and such are all actually representative of separate models from the actual applicant model, it would have made me to go and create separate Backbone models for all those individual things and that was just going to go drive me insane. So I decided that I would roll my own validation set for this page. I created a “validate’ funct that would be called and I passed to it the serialized form data created at the click event as well as a callback function that simply sets the attribute and handles the rest of the other stuff that successfully saves. Not DRY at all since this is a feature that needs to be in all of the Views that I have throughout the Backbone app but without work I am not excited to do I am not particularly excited to refactor it. For now we shall have to live with it. I also made arbitrary decisions on what should or should not be required. In the future, I would like to see this customizable and I do see a way forward to it. Would have to be on the backburner for now though.&lt;/p&gt;
 
 &lt;p&gt;The form product continues to need some work but I am going to turn my attention elsewhere tomorrow as I am going to spend some time working on the dashboard and what the landlord is going to see as he goes about finding tenants. I am interested in seeing how this is going to work especially if I might tag particular applicants as acceptable or not. PerfectPerusals was in my opinion rather simple and really was just a project. I want RentForm to be something real. Something that customers might actually want to use. I really want this product to be something that can actually be impressive. But that means I am going to have put a lot of work into it. Just keep at it.&lt;/p&gt;
 
@@ -70,72 +136,66 @@
   &lt;li&gt;Refactor some of the code that would simply validate for presence so that a user can eventually just pass in a number of attributes that they want the app to validate for and it would simply do that.&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/fleshing-out-form&quot;&gt;Fleshing Out Form&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/fleshing-out-form&quot;&gt;Fleshing Out Form&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Near The End]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/near-the-end" />
-  <id>http://jonathanstyu.github.io/blog/near-the-end</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/near-the-end" />
+  <id>http://jonathanstyu.github.io/near-the-end</id>
   <published>2013-07-08T00:00:00-07:00</published>
   <updated>2013-07-08T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
 
 &lt;p&gt;Today some people decided that it would make more sense to continue working on their final projects. Some of these apps that I have seen are really really good. Quite impressive if you ask me. However in my case I decided that I would like to move on and work on a different app. GoodReads is cute but I have been thiking for a long time about a particular app that I think might be good to be looking at. The app that I decided to work on is a rentform app that I think is going to help people collect the forms and help budding land lords collect forms for a particular listing.&lt;/p&gt;
 
 &lt;p&gt;The core functionality of this app is going to be the collecting of a form. Simple enough, but this thing is going to be very freaking difficult because there are going to be so many different parts of the form and that they are split up between the different parts of the whole application. There are personal references, employment history, emergency contacts, rent history, and personal information. I am going to spend some time and think about how this should be executed. My thinking right now is to split this up into a whole bunch of different models that are going to be submitted together as a single thing.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/near-the-end&quot;&gt;Near The End&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/near-the-end&quot;&gt;Near The End&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Tightening Up]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/tightening-up" />
-  <id>http://jonathanstyu.github.io/blog/tightening-up</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/tightening-up" />
+  <id>http://jonathanstyu.github.io/tightening-up</id>
   <published>2013-07-05T00:00:00-07:00</published>
   <updated>2013-07-05T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
+  <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
 
-&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
+&lt;p&gt;In today’s chronicle, Jonathan spends time cleaning up and tightening the screws on PerfectPerusals. I am pretty satisified with much of what was done but I still think that there are a few flaws here and there that would require some research to competently address.&lt;/p&gt;
 
-&lt;p&gt;In today&amp;#8217;s chronicle, Jonathan spends time cleaning up and tightening the screws on PerfectPerusals. I am pretty satisified with much of what was done but I still think that there are a few flaws here and there that would require some research to competently address.&lt;/p&gt;
+&lt;p&gt;The main issue regards how I want to implement the Friend Feed. The way I am doing it right now is to have a number of disparate objects which the back end collects and pukes out at the client. I then wrote client side code that would let the browser interpret all that and put it together in a simple organized way. To me this seemed like a pretty hackish way but for just displaying the friend feed it worked. Can’t really complain.&lt;/p&gt;
 
-&lt;p&gt;The main issue regards how I want to implement the Friend Feed. The way I am doing it right now is to have a number of disparate objects which the back end collects and pukes out at the client. I then wrote client side code that would let the browser interpret all that and put it together in a simple organized way. To me this seemed like a pretty hackish way but for just displaying the friend feed it worked. Can&amp;#8217;t really complain.&lt;/p&gt;
+&lt;p&gt;However, then came the real issue. I realized relatively later that people can comment not only on Reviews but also shelvings of books and adding of friends. What the heck? I have never seen this sort of functionality before. Does this make sense at all? Well it is there so I have to implement it. Now the way I could probably do it is just to create separate “comment” objects. That would be a dangerous way to do it and I was not excited about that. The other way is to use inheritance, namely multi table inheritance, which is something that is going to be pretty cool. The parent class would have its own table but not only that there would be children and those children have their own tables. It is awesome, but it is not standard and though it is too late to use it for PP, I would think that it would be nice to try it for my next project.&lt;/p&gt;
 
-&lt;p&gt;However, then came the real issue. I realized relatively later that people can comment not only on Reviews but also shelvings of books and adding of friends. What the heck? I have never seen this sort of functionality before. Does this make sense at all? Well it is there so I have to implement it. Now the way I could probably do it is just to create separate &amp;#8220;comment&amp;#8221; objects. That would be a dangerous way to do it and I was not excited about that. The other way is to use inheritance, namely multi table inheritance, which is something that is going to be pretty cool. The parent class would have its own table but not only that there would be children and those children have their own tables. It is awesome, but it is not standard and though it is too late to use it for PP, I would think that it would be nice to try it for my next project.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/tightening-up&quot;&gt;Tightening Up&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/tightening-up&quot;&gt;Tightening Up&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[More Things]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/more-things" />
-  <id>http://jonathanstyu.github.io/blog/more-things</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/more-things" />
+  <id>http://jonathanstyu.github.io/more-things</id>
   <published>2013-07-04T00:00:00-07:00</published>
   <updated>2013-07-04T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;creating-perfect-perusals-not-this-blog&quot;&gt;Creating Perfect Perusals (Not this blog)&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;creating-perfect-perusals-not-this-blog&quot;&gt;Creating Perfect Perusals (Not this blog)&lt;/h3&gt;
 
 &lt;p&gt;For the first half of my two final projects, I decided to create a clone of GoodReads, which is a service that I greatly enjoy and like using. It is indeed quite of the most used products out there on the web. I use it more than Facebook.&lt;/p&gt;
 
@@ -145,7 +205,7 @@
 
 &lt;p&gt;The most challenging part of the entire project has been trying to figure out a right way to do these things that would make things easy for the future features that I want to build and implement in the future. I look at the finished GR product and I marvel at all these features. I end up thinking real hard about a simple easy way to get all of these into PerfectPerusals, like as if there is one single path that would just gracefully ice skate in between these Scyllas and Charybidses. I doubt that there is ever one such in the world. You can only look ahead ever so many steps.&lt;/p&gt;
 
-&lt;p&gt;I am not looking to implement every one of GR&amp;#8217;s features. In this demo I am looking to focus on a few:&lt;/p&gt;
+&lt;p&gt;I am not looking to implement every one of GR’s features. In this demo I am looking to focus on a few:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;User profile pages&lt;/li&gt;
@@ -163,42 +223,40 @@ I started the project on Sunday and so far I have made encouraging progress.&lt;
 
 &lt;p&gt;Signup and Signin were done without BCrypt, which I do think is a flaw but could be easily remedied. It had been some time since I had done something like this so I had forgotten a few things.&lt;/p&gt;
 
-&lt;p&gt;I had made it so that people could embed their book reviews right into the profile page. It would also show the rest of the community&amp;#8217;s reviews. This embedding of the book review form page was done with a relatively simple data-success helper from Rails. I felt like this would do a good job of simply posting the review to the database and appending it to all the other reviews listed in the page. However, I felt that this was a little cheating and would not give a lot of headroom for future expansion of the product going forward. For some of the other features I wanted to get more detailed.&lt;/p&gt;
+&lt;p&gt;I had made it so that people could embed their book reviews right into the profile page. It would also show the rest of the community’s reviews. This embedding of the book review form page was done with a relatively simple data-success helper from Rails. I felt like this would do a good job of simply posting the review to the database and appending it to all the other reviews listed in the page. However, I felt that this was a little cheating and would not give a lot of headroom for future expansion of the product going forward. For some of the other features I wanted to get more detailed.&lt;/p&gt;
 
 &lt;p&gt;For the comments under a review, I went ahead and created a full on Backbone app that had its own particular set of routes and views that activated only if you hit the Show Review page. It lets you add comments onto the page and does something kind of like what the AJAX call did with the Add Review page on the Show Book page however I feel that the Backbone implementation could handle a lot more meat on its bones if I wish it to have in the future. This is probably going to be case as I go and implement Friending and friend commenting.&lt;/p&gt;
 
 &lt;p&gt;Book shelves is challenging and I am working on this right now as we speak. We will talk more about it tomorrow as it is going to be the thing I hit head on!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/more-things&quot;&gt;More Things&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 04, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/more-things&quot;&gt;More Things&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 04, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Creating Pp]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/creating-pp" />
-  <id>http://jonathanstyu.github.io/blog/creating-pp</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/creating-pp" />
+  <id>http://jonathanstyu.github.io/creating-pp</id>
   <published>2013-07-03T00:00:00-07:00</published>
   <updated>2013-07-03T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
 
 &lt;p&gt;Today I spent more time on building up more features of PerfectPerusals, with the significant feature being the central API that would serve as the data consumption for the other parts of the application. It would presumably be the heart of a proposed iPhone or Android app and if I had the time and energy for it then I would be able to go write that too.&lt;/p&gt;
 
-&lt;p&gt;The goal for today that I set yesterday was to build on the friending infrastructure that I set up yesterday in like ten minutes and create a full friend feed that would give someone access to a stream of events that a person&amp;#8217;s entire set of friends have performed in the past two or three weeks. I had thought deeply about this throughout my morning run and shower. When I started the system I had created a number of model objects that would be separated throughout the system. My concern was that there was no relations between any of the model objects and if I should go and create a friend feed out of it then I would have to 1) Somehow gather them all together under one unified umbrella and like the Ring of Power unite them and 2) somehow create a single front end that would be able to go and consume all that varying data. Now looking back on it, it might have made more sense to be able to go and create a single Rails model Object that all the others - taggings, friendings, reviews and comments - and such would inherit from: Event. This event would then be easily gathered and exported. Of course the grass is always greener on the other side. Who knows what other problems that I could have came across then.&lt;/p&gt;
+&lt;p&gt;The goal for today that I set yesterday was to build on the friending infrastructure that I set up yesterday in like ten minutes and create a full friend feed that would give someone access to a stream of events that a person’s entire set of friends have performed in the past two or three weeks. I had thought deeply about this throughout my morning run and shower. When I started the system I had created a number of model objects that would be separated throughout the system. My concern was that there was no relations between any of the model objects and if I should go and create a friend feed out of it then I would have to 1) Somehow gather them all together under one unified umbrella and like the Ring of Power unite them and 2) somehow create a single front end that would be able to go and consume all that varying data. Now looking back on it, it might have made more sense to be able to go and create a single Rails model Object that all the others - taggings, friendings, reviews and comments - and such would inherit from: Event. This event would then be easily gathered and exported. Of course the grass is always greener on the other side. Who knows what other problems that I could have came across then.&lt;/p&gt;
 
 &lt;p&gt;The center point of everything that I was working on was the introduction of RABL, which is something that I had seen before scattered throughout the CareDox site but never really figured out. I was wrestling the alligator of as_json when I asked Paul for some help. He simply said that I should use RABL instead to export all that data. I decided that this would be a good idea and then for the next four hours spent them wrestling with RABL and trying to make it such that it would capably export all the data in a format that would be consumed by the front end Backbone that I set up on the dashboard home page.&lt;/p&gt;
 
-&lt;p&gt;The challenge with RABL is implementing all the logic that would be able to go and smooth out all the data that is getting thrown at it. I created some lmabda if statements that would be able to parse out the different data points. Thank Goodness this is Ruby and I could query the data structure for its class name. If this was on the Client side then it would all be called &amp;#8220;Object&amp;#8221; and then I would have to had to create something to work around that. Then after that the challenge was making it so that the data could be easily accessible and that the relevant data points are all available. For example, I wanted the API to be able to say that a Review was written by a certain writer. I had Rails export not only the Review object but also the associated writer &amp;#8220;Reviewer&amp;#8221;. But then since the Reviewer on the actual Review object is just a number then I also modified the RABL to query and export the name. Then the client side would have very easy access to all the data that it needs to have. The RABL became all the unified data points that I need. With a good API, things became must easier.&lt;/p&gt;
+&lt;p&gt;The challenge with RABL is implementing all the logic that would be able to go and smooth out all the data that is getting thrown at it. I created some lmabda if statements that would be able to parse out the different data points. Thank Goodness this is Ruby and I could query the data structure for its class name. If this was on the Client side then it would all be called “Object” and then I would have to had to create something to work around that. Then after that the challenge was making it so that the data could be easily accessible and that the relevant data points are all available. For example, I wanted the API to be able to say that a Review was written by a certain writer. I had Rails export not only the Review object but also the associated writer “Reviewer”. But then since the Reviewer on the actual Review object is just a number then I also modified the RABL to query and export the name. Then the client side would have very easy access to all the data that it needs to have. The RABL became all the unified data points that I need. With a good API, things became must easier.&lt;/p&gt;
 
 &lt;p&gt;Things I Need to Remember&lt;/p&gt;
 
-&lt;p&gt;After adding new searchable blocks, remember to run &amp;#8220;rake sunspot:reindex&amp;#8221; so that it will go through the database and reindex stuff. I spent like 35 minutes in the morning working on this as I fiddled with SunSpot throughout the entire part of the morning while munching on a bucket of fried chicken.
+&lt;p&gt;After adding new searchable blocks, remember to run “rake sunspot:reindex” so that it will go through the database and reindex stuff. I spent like 35 minutes in the morning working on this as I fiddled with SunSpot throughout the entire part of the morning while munching on a bucket of fried chicken.
 What I want to Work On Friday:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -208,36 +266,34 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Deploying Pp]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/deploying-pp" />
-  <id>http://jonathanstyu.github.io/blog/deploying-pp</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/deploying-pp" />
+  <id>http://jonathanstyu.github.io/deploying-pp</id>
   <published>2013-07-02T00:00:00-07:00</published>
   <updated>2013-07-02T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
 
 &lt;p&gt;Today I spent more time on building up more features of PerfectPerusals, with the significant feature being the central API that would serve as the data consumption for the other parts of the application. It would presumably be the heart of a proposed iPhone or Android app and if I had the time and energy for it then I would be able to go write that too.&lt;/p&gt;
 
-&lt;p&gt;The goal for today that I set yesterday was to build on the friending infrastructure that I set up yesterday in like ten minutes and create a full friend feed that would give someone access to a stream of events that a person&amp;#8217;s entire set of friends have performed in the past two or three weeks. I had thought deeply about this throughout my morning run and shower. When I started the system I had created a number of model objects that would be separated throughout the system. My concern was that there was no relations between any of the model objects and if I should go and create a friend feed out of it then I would have to 1) Somehow gather them all together under one unified umbrella and like the Ring of Power unite them and 2) somehow create a single front end that would be able to go and consume all that varying data. Now looking back on it, it might have made more sense to be able to go and create a single Rails model Object that all the others - taggings, friendings, reviews and comments - and such would inherit from: Event. This event would then be easily gathered and exported. Of course the grass is always greener on the other side. Who knows what other problems that I could have came across then.&lt;/p&gt;
+&lt;p&gt;The goal for today that I set yesterday was to build on the friending infrastructure that I set up yesterday in like ten minutes and create a full friend feed that would give someone access to a stream of events that a person’s entire set of friends have performed in the past two or three weeks. I had thought deeply about this throughout my morning run and shower. When I started the system I had created a number of model objects that would be separated throughout the system. My concern was that there was no relations between any of the model objects and if I should go and create a friend feed out of it then I would have to 1) Somehow gather them all together under one unified umbrella and like the Ring of Power unite them and 2) somehow create a single front end that would be able to go and consume all that varying data. Now looking back on it, it might have made more sense to be able to go and create a single Rails model Object that all the others - taggings, friendings, reviews and comments - and such would inherit from: Event. This event would then be easily gathered and exported. Of course the grass is always greener on the other side. Who knows what other problems that I could have came across then.&lt;/p&gt;
 
 &lt;p&gt;The center point of everything that I was working on was the introduction of RABL, which is something that I had seen before scattered throughout the CareDox site but never really figured out. I was wrestling the alligator of as_json when I asked Paul for some help. He simply said that I should use RABL instead to export all that data. I decided that this would be a good idea and then for the next four hours spent them wrestling with RABL and trying to make it such that it would capably export all the data in a format that would be consumed by the front end Backbone that I set up on the dashboard home page.&lt;/p&gt;
 
-&lt;p&gt;The challenge with RABL is implementing all the logic that would be able to go and smooth out all the data that is getting thrown at it. I created some lmabda if statements that would be able to parse out the different data points. Thank Goodness this is Ruby and I could query the data structure for its class name. If this was on the Client side then it would all be called &amp;#8220;Object&amp;#8221; and then I would have to had to create something to work around that. Then after that the challenge was making it so that the data could be easily accessible and that the relevant data points are all available. For example, I wanted the API to be able to say that a Review was written by a certain writer. I had Rails export not only the Review object but also the associated writer &amp;#8220;Reviewer&amp;#8221;. But then since the Reviewer on the actual Review object is just a number then I also modified the RABL to query and export the name. Then the client side would have very easy access to all the data that it needs to have. The RABL became all the unified data points that I need. With a good API, things became must easier.&lt;/p&gt;
+&lt;p&gt;The challenge with RABL is implementing all the logic that would be able to go and smooth out all the data that is getting thrown at it. I created some lmabda if statements that would be able to parse out the different data points. Thank Goodness this is Ruby and I could query the data structure for its class name. If this was on the Client side then it would all be called “Object” and then I would have to had to create something to work around that. Then after that the challenge was making it so that the data could be easily accessible and that the relevant data points are all available. For example, I wanted the API to be able to say that a Review was written by a certain writer. I had Rails export not only the Review object but also the associated writer “Reviewer”. But then since the Reviewer on the actual Review object is just a number then I also modified the RABL to query and export the name. Then the client side would have very easy access to all the data that it needs to have. The RABL became all the unified data points that I need. With a good API, things became must easier.&lt;/p&gt;
 
 &lt;p&gt;Things I Need to Remember&lt;/p&gt;
 
-&lt;p&gt;After adding new searchable blocks, remember to run &amp;#8220;rake sunspot:reindex&amp;#8221; so that it will go through the database and reindex stuff. I spent like 35 minutes in the morning working on this as I fiddled with SunSpot throughout the entire part of the morning while munching on a bucket of fried chicken.
+&lt;p&gt;After adding new searchable blocks, remember to run “rake sunspot:reindex” so that it will go through the database and reindex stuff. I spent like 35 minutes in the morning working on this as I fiddled with SunSpot throughout the entire part of the morning while munching on a bucket of fried chicken.
 What I want to Work On Friday:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -247,36 +303,34 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/deploying-pp&quot;&gt;Deploying Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 02, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/deploying-pp&quot;&gt;Deploying Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 02, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Creating Pp]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/creating-pp" />
-  <id>http://jonathanstyu.github.io/blog/creating-pp</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/creating-pp" />
+  <id>http://jonathanstyu.github.io/creating-pp</id>
   <published>2013-07-01T00:00:00-07:00</published>
   <updated>2013-07-01T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
 
 &lt;p&gt;Today I spent more time on building up more features of PerfectPerusals, with the significant feature being the central API that would serve as the data consumption for the other parts of the application. It would presumably be the heart of a proposed iPhone or Android app and if I had the time and energy for it then I would be able to go write that too.&lt;/p&gt;
 
-&lt;p&gt;The goal for today that I set yesterday was to build on the friending infrastructure that I set up yesterday in like ten minutes and create a full friend feed that would give someone access to a stream of events that a person&amp;#8217;s entire set of friends have performed in the past two or three weeks. I had thought deeply about this throughout my morning run and shower. When I started the system I had created a number of model objects that would be separated throughout the system. My concern was that there was no relations between any of the model objects and if I should go and create a friend feed out of it then I would have to 1) Somehow gather them all together under one unified umbrella and like the Ring of Power unite them and 2) somehow create a single front end that would be able to go and consume all that varying data. Now looking back on it, it might have made more sense to be able to go and create a single Rails model Object that all the others - taggings, friendings, reviews and comments - and such would inherit from: Event. This event would then be easily gathered and exported. Of course the grass is always greener on the other side. Who knows what other problems that I could have came across then.&lt;/p&gt;
+&lt;p&gt;The goal for today that I set yesterday was to build on the friending infrastructure that I set up yesterday in like ten minutes and create a full friend feed that would give someone access to a stream of events that a person’s entire set of friends have performed in the past two or three weeks. I had thought deeply about this throughout my morning run and shower. When I started the system I had created a number of model objects that would be separated throughout the system. My concern was that there was no relations between any of the model objects and if I should go and create a friend feed out of it then I would have to 1) Somehow gather them all together under one unified umbrella and like the Ring of Power unite them and 2) somehow create a single front end that would be able to go and consume all that varying data. Now looking back on it, it might have made more sense to be able to go and create a single Rails model Object that all the others - taggings, friendings, reviews and comments - and such would inherit from: Event. This event would then be easily gathered and exported. Of course the grass is always greener on the other side. Who knows what other problems that I could have came across then.&lt;/p&gt;
 
 &lt;p&gt;The center point of everything that I was working on was the introduction of RABL, which is something that I had seen before scattered throughout the CareDox site but never really figured out. I was wrestling the alligator of as_json when I asked Paul for some help. He simply said that I should use RABL instead to export all that data. I decided that this would be a good idea and then for the next four hours spent them wrestling with RABL and trying to make it such that it would capably export all the data in a format that would be consumed by the front end Backbone that I set up on the dashboard home page.&lt;/p&gt;
 
-&lt;p&gt;The challenge with RABL is implementing all the logic that would be able to go and smooth out all the data that is getting thrown at it. I created some lmabda if statements that would be able to parse out the different data points. Thank Goodness this is Ruby and I could query the data structure for its class name. If this was on the Client side then it would all be called &amp;#8220;Object&amp;#8221; and then I would have to had to create something to work around that. Then after that the challenge was making it so that the data could be easily accessible and that the relevant data points are all available. For example, I wanted the API to be able to say that a Review was written by a certain writer. I had Rails export not only the Review object but also the associated writer &amp;#8220;Reviewer&amp;#8221;. But then since the Reviewer on the actual Review object is just a number then I also modified the RABL to query and export the name. Then the client side would have very easy access to all the data that it needs to have. The RABL became all the unified data points that I need. With a good API, things became must easier.&lt;/p&gt;
+&lt;p&gt;The challenge with RABL is implementing all the logic that would be able to go and smooth out all the data that is getting thrown at it. I created some lmabda if statements that would be able to parse out the different data points. Thank Goodness this is Ruby and I could query the data structure for its class name. If this was on the Client side then it would all be called “Object” and then I would have to had to create something to work around that. Then after that the challenge was making it so that the data could be easily accessible and that the relevant data points are all available. For example, I wanted the API to be able to say that a Review was written by a certain writer. I had Rails export not only the Review object but also the associated writer “Reviewer”. But then since the Reviewer on the actual Review object is just a number then I also modified the RABL to query and export the name. Then the client side would have very easy access to all the data that it needs to have. The RABL became all the unified data points that I need. With a good API, things became must easier.&lt;/p&gt;
 
 &lt;p&gt;Things I Need to Remember&lt;/p&gt;
 
-&lt;p&gt;After adding new searchable blocks, remember to run &amp;#8220;rake sunspot:reindex&amp;#8221; so that it will go through the database and reindex stuff. I spent like 35 minutes in the morning working on this as I fiddled with SunSpot throughout the entire part of the morning while munching on a bucket of fried chicken.
+&lt;p&gt;After adding new searchable blocks, remember to run “rake sunspot:reindex” so that it will go through the database and reindex stuff. I spent like 35 minutes in the morning working on this as I fiddled with SunSpot throughout the entire part of the morning while munching on a bucket of fried chicken.
 What I want to Work On Friday:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -286,55 +340,51 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on July 01, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 01, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Discussion]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/discussion" />
-  <id>http://jonathanstyu.github.io/blog/discussion</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/discussion" />
+  <id>http://jonathanstyu.github.io/discussion</id>
   <published>2013-06-28T00:00:00-07:00</published>
   <updated>2013-06-28T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;talking-with-ned&quot;&gt;Talking with Ned&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;talking-with-ned&quot;&gt;Talking with Ned&lt;/h3&gt;
 
 &lt;p&gt;Today we spent the morning in lecture as Ned talked to us about the ins and outs of finding work in the tech industry. It was needless to say very much of the type of conversation I would expect to hear from someone like Ned: There was a ruthlessless and calculating systematic-ness in all of it mixed in with his own little version of bizarrely encouraging pep talk. He told us that we undervalued ourselves and our skills. His words are strangely uplifting though I am not so sure how much they will be when we start on this crushing path of rejection.&lt;/p&gt;
 
 &lt;p&gt;The project that we were to build is a clone of Gist, which is something that I am not particularly familiar with. The thing that was challenging about this project was not that it was built in Backbone on Rails, of which the big picture I am pretty comfortable with, but it is about the little details of the project. Little things that made me greatly appreciate the job that Paul has when he decides on whether or not to create particular parts of the product. I am still working at it as we speak and hope to get more done when I get home tonight.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/discussion&quot;&gt;Discussion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 28, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/discussion&quot;&gt;Discussion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 28, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Newsreader]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/newsreader" />
-  <id>http://jonathanstyu.github.io/blog/newsreader</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/newsreader" />
+  <id>http://jonathanstyu.github.io/newsreader</id>
   <published>2013-06-27T00:00:00-07:00</published>
   <updated>2013-06-27T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
+  <content type="html">&lt;h3 id=&quot;news-reader&quot;&gt;News Reader&lt;/h3&gt;
 
-&lt;h3 id=&quot;news-reader&quot;&gt;News Reader&lt;/h3&gt;
+&lt;p&gt;Today is a solo project and it is the first Rails and Backbone app that I have built yet that features some internet connectivity and interactivity … even if the instructors wrote that and not me. The goal of this news reader is to exercise much of the skills that we first developed yesterday when we embarked on our Backbone journey. There is a lot to do in terms of what we need to do. The main goal is to understand how to instantiate entries and feeds and handle the two of them simultaneously without really rendering some of the associations that Rails models have. In fact, Backbone models do not have all that many capabilities to handle associations.&lt;/p&gt;
 
-&lt;p&gt;Today is a solo project and it is the first Rails and Backbone app that I have built yet that features some internet connectivity and interactivity &amp;#8230; even if the instructors wrote that and not me. The goal of this news reader is to exercise much of the skills that we first developed yesterday when we embarked on our Backbone journey. There is a lot to do in terms of what we need to do. The main goal is to understand how to instantiate entries and feeds and handle the two of them simultaneously without really rendering some of the associations that Rails models have. In fact, Backbone models do not have all that many capabilities to handle associations.&lt;/p&gt;
+&lt;p&gt;The demo came out to us having all of its API already fleshed out but I did take some time to sit down and implement some things like users and subscribed feeds. It took about an hour but now someone can sign up a la Instapaper (without a password) and then see their subscribed feeds on their index page. Back to the app. The idea behind this product is that it would use a gem to call a URL and pull down a number of items from a feed. It would then wrap those items into an Entry ruby class and assign them the feed key. So then you could then call up the Feed as a Rails object and see all of the subordinate entries underneath that item. The first challenge I found was that when I tried to call the “reload” method - which is the method you need to invoke - that it did not work. It sputtered out and did not create any Entries. I was very curious and it ended up that the method did not work because it did not properly prepare and wrap the URL before making the RSS call. It also did not properly assign the foreign_key of the instance of the Feed.&lt;/p&gt;
 
-&lt;p&gt;The demo came out to us having all of its API already fleshed out but I did take some time to sit down and implement some things like users and subscribed feeds. It took about an hour but now someone can sign up a la Instapaper (without a password) and then see their subscribed feeds on their index page. Back to the app. The idea behind this product is that it would use a gem to call a URL and pull down a number of items from a feed. It would then wrap those items into an Entry ruby class and assign them the feed key. So then you could then call up the Feed as a Rails object and see all of the subordinate entries underneath that item. The first challenge I found was that when I tried to call the &amp;#8220;reload&amp;#8221; method - which is the method you need to invoke - that it did not work. It sputtered out and did not create any Entries. I was very curious and it ended up that the method did not work because it did not properly prepare and wrap the URL before making the RSS call. It also did not properly assign the foreign_key of the instance of the Feed.&lt;/p&gt;
+&lt;p&gt;After that I managed to set up the Backbone framework with the Backbone on Rails gem. After a few days of making folders and such and being confused about what went where in the system, the gem made things incredibly easy. I was real excited to see it all put together and Backbone pop up an alert to say “hello” when I navigated to the page.&lt;/p&gt;
 
-&lt;p&gt;After that I managed to set up the Backbone framework with the Backbone on Rails gem. After a few days of making folders and such and being confused about what went where in the system, the gem made things incredibly easy. I was real excited to see it all put together and Backbone pop up an alert to say &amp;#8220;hello&amp;#8221; when I navigated to the page.&lt;/p&gt;
-
-&lt;p&gt;One of the challenges of making the feeds index page is to keep track of where the Router is instantiated, and where the models are and where they are available to the individual portions of the application. I instantiated a collection of feeds, called them from the Rails backend (I had the Rails backend handle all the trouble of identifying the current user and such) with &amp;#8220;fetch&amp;#8221;, and then passed them to the FeedIndex view. The first big bug that I came across was that the app was not seeing &amp;#8220;JST&amp;#8221; on the IndexView Backbone page, which means that it could not see the template. I had no idea what that meant. Darn Javascript errors being so lenient! I spent so much time trying to figure out what went wrong. Eventually it turned out that the error was not even on the View page! It was in the template with the embedded javascript. I had accidentally left an &amp;#8220;=&amp;#8221; in the code of a each loop and the result was that it tried to embed a piece of code that had nothing to embed. The result was a spectactular failure and a few less hairs on my head.&lt;/p&gt;
+&lt;p&gt;One of the challenges of making the feeds index page is to keep track of where the Router is instantiated, and where the models are and where they are available to the individual portions of the application. I instantiated a collection of feeds, called them from the Rails backend (I had the Rails backend handle all the trouble of identifying the current user and such) with “fetch”, and then passed them to the FeedIndex view. The first big bug that I came across was that the app was not seeing “JST” on the IndexView Backbone page, which means that it could not see the template. I had no idea what that meant. Darn Javascript errors being so lenient! I spent so much time trying to figure out what went wrong. Eventually it turned out that the error was not even on the View page! It was in the template with the embedded javascript. I had accidentally left an “=” in the code of a each loop and the result was that it tried to embed a piece of code that had nothing to embed. The result was a spectactular failure and a few less hairs on my head.&lt;/p&gt;
 
 &lt;p&gt;The big thing that I was concerned about how was to handle the Entries and the Feeds. We did not have much relational knowledge and were not allowed to use it. The way we got around it was in the end that I would have the Rails back end reload all the feeds, create the Entries, pack them up and ship them as part of the association with the as_json(include: ) method. I instantiated a view for the entry Backbone model and then put that together. I overrode the parse method in the Feed model and had it create out of the associated entries a collection of Entry Backbone objects. That way I could then pass that into the View which would then capably handle that and create a page out of it. I then stitched together the rendered HTML from both views and shipped that out of the Backbone JS.&lt;/p&gt;
 
@@ -342,59 +392,55 @@ What I want to Work On Friday:&lt;/p&gt;
 
 &lt;p&gt;Creating products like this is pretty satisfying. There is still much to do in terms of the front end but I feel like creating things like static sidebars.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/newsreader&quot;&gt;Newsreader&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/newsreader&quot;&gt;Newsreader&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Backbone 101]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/backbone-101" />
-  <id>http://jonathanstyu.github.io/blog/backbone-101</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/backbone-101" />
+  <id>http://jonathanstyu.github.io/backbone-101</id>
   <published>2013-06-26T00:00:00-07:00</published>
   <updated>2013-06-26T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;backbone-101&quot;&gt;Backbone 101&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;backbone-101&quot;&gt;Backbone 101&lt;/h3&gt;
 
 &lt;p&gt;Today, we worked for the first time on backbone. It was the first time that we were allowed to use many the next and structures that backbone provides us as developers. The interesting thing is that much of the things that we learned in the few past days applied greatly to what we were doing today. I will have to get more into what this is all about and if it seems like I am being unclear it is not because I am trying to be obtruse but because I just do not understand it fully yet on my own.&lt;/p&gt;
 
-&lt;p&gt;I think the first thing that I managed to grasp what&amp;#8217;s the concept of models and collections. When you are thinking about what is a collection what is a model, it is not something that you see in Rails. Rails there are just models. Collections to me seemed quite unusual. But, as I continue to work with them and struggled with updating the collections and seeing them used to great effect in displaying overall information, I quickly realized that collections are powerful part of the front and development process.&lt;/p&gt;
+&lt;p&gt;I think the first thing that I managed to grasp what’s the concept of models and collections. When you are thinking about what is a collection what is a model, it is not something that you see in Rails. Rails there are just models. Collections to me seemed quite unusual. But, as I continue to work with them and struggled with updating the collections and seeing them used to great effect in displaying overall information, I quickly realized that collections are powerful part of the front and development process.&lt;/p&gt;
 
-&lt;p&gt;One of the interesting things that I have not seen before in our previous few days were the Backbone routers. A router is kind of like the one in rails, but the difference is that they handle the front end. There is a sort of divide between the URL that is &amp;#8220;real&amp;#8221; and the URL that is part of the JavaScript, which is marked with a #.&lt;/p&gt;
+&lt;p&gt;One of the interesting things that I have not seen before in our previous few days were the Backbone routers. A router is kind of like the one in rails, but the difference is that they handle the front end. There is a sort of divide between the URL that is “real” and the URL that is part of the JavaScript, which is marked with a #.&lt;/p&gt;
 
 &lt;p&gt;I think it is interesting to see how these parts work together in order to create a working app. However it has been giving me plenty of headaches. It has been tough enough to make Rails itself work fine and dandy. Now I gotta make fine and dandy on the front end too!?! Agh!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/backbone-101&quot;&gt;Backbone 101&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 26, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/backbone-101&quot;&gt;Backbone 101&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 26, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Picture Tagger]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/picture-tagger" />
-  <id>http://jonathanstyu.github.io/blog/picture-tagger</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/picture-tagger" />
+  <id>http://jonathanstyu.github.io/picture-tagger</id>
   <published>2013-06-25T00:00:00-07:00</published>
   <updated>2013-06-25T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;picture-tagger&quot;&gt;Picture Tagger&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;picture-tagger&quot;&gt;Picture Tagger&lt;/h3&gt;
 
 &lt;p&gt;Today we continued with our big JavaScript project PictureTagger, which emulates the functionality of Facebook in that someone can log in, add pictures and then tag a picture with their friends. Such a simple piece of functionality as it turns out is something extremely and deeply complex. It really is something to be amazed about.&lt;/p&gt;
 
-&lt;p&gt;Picture Tagger is our way to learn BackBone (which I keep confusing with BootStrap to turn into something called &amp;#8220;BootBone&amp;#8221; or &amp;#8220;BackStrap&amp;#8221;) without actually using BackBone. We split out our JavaScript code into different sections that hold templates, &amp;#8220;controller&amp;#8221; code, and views. We also wrote and created objects that would hold different objects, features, and then functions that we can then call. We had at first written all the code in the application.js file that comes in Rails but it quickly grew into a monstrosity that could fight Godzilla in some cheesy Japanese movie &amp;#8230; like Rodan or Mothra or something. The key to understanding and getting past that was to realize that application.js is really one big compiled piece of JavaScript code. Once we have added things in the right order then we could quickly compartmentalize everything into neat and well understood piles.&lt;/p&gt;
+&lt;p&gt;Picture Tagger is our way to learn BackBone (which I keep confusing with BootStrap to turn into something called “BootBone” or “BackStrap”) without actually using BackBone. We split out our JavaScript code into different sections that hold templates, “controller” code, and views. We also wrote and created objects that would hold different objects, features, and then functions that we can then call. We had at first written all the code in the application.js file that comes in Rails but it quickly grew into a monstrosity that could fight Godzilla in some cheesy Japanese movie … like Rodan or Mothra or something. The key to understanding and getting past that was to realize that application.js is really one big compiled piece of JavaScript code. Once we have added things in the right order then we could quickly compartmentalize everything into neat and well understood piles.&lt;/p&gt;
 
-&lt;p&gt;We also had to very well understand callbacks and how they work. We wrote a number of callback functions that we could then call as certain information comes available from the server. The goal was not to get too confused by all these callbacks by being very definite about what exactly each particular function will do. It is kind of amazing when we go into our &amp;#8220;model&amp;#8221; class for photos and then see all these callbacks being passed back and forth. It looks like a hot potato race. There are callbacks after callbacks.&lt;/p&gt;
+&lt;p&gt;We also had to very well understand callbacks and how they work. We wrote a number of callback functions that we could then call as certain information comes available from the server. The goal was not to get too confused by all these callbacks by being very definite about what exactly each particular function will do. It is kind of amazing when we go into our “model” class for photos and then see all these callbacks being passed back and forth. It looks like a hot potato race. There are callbacks after callbacks.&lt;/p&gt;
 
-&lt;p&gt;One of the bigger challenges that we had after figuring that out was to figure out how to create and position tags so that they float on top of the image. Dylan helped us a whole lot by coming up with a great solution. We would wrap the image with a div. The div would be placed in a &amp;#8220;relative&amp;#8221; position to the image, which is positioned &amp;#8220;absolutely&amp;#8221;. Then we would create and render the individual tags with &amp;#8220;absolute&amp;#8221; positioning and after hardcoding the x and y coordinates into the page we could then just append them onto the main wrapper div.&lt;/p&gt;
+&lt;p&gt;One of the bigger challenges that we had after figuring that out was to figure out how to create and position tags so that they float on top of the image. Dylan helped us a whole lot by coming up with a great solution. We would wrap the image with a div. The div would be placed in a “relative” position to the image, which is positioned “absolutely”. Then we would create and render the individual tags with “absolute” positioning and after hardcoding the x and y coordinates into the page we could then just append them onto the main wrapper div.&lt;/p&gt;
 
 &lt;p&gt;There was also the challenge and going about and configuring the Rails backend too. It turned out to be quite essential to making the product work. There was a whole lot of stuff to be done. I find it hard to imagine that no matter how much Ryan says about just how separated the two halves - the front end and the back end - are from each other that how much they have to be integrated with each other. There were so many times that we would have to go back into Rails, switching between JavaScript and Ruby (so there were many Ruby statements with semi-colons on them), because we had to reconfigure the controller to make it all work smoothly between each other.&lt;/p&gt;
 
@@ -404,28 +450,26 @@ What I want to Work On Friday:&lt;/p&gt;
 
 &lt;p&gt;Other Things I Think I Think:&lt;/p&gt;
 
-&lt;p&gt;Jonathan&amp;#8217;s weather report continues. It rained lightly today and the rain moistened my legs. It was one of those random days when it rained and it was dark but the air still felt kind of warm.&lt;/p&gt;
+&lt;p&gt;Jonathan’s weather report continues. It rained lightly today and the rain moistened my legs. It was one of those random days when it rained and it was dark but the air still felt kind of warm.&lt;/p&gt;
 
 &lt;p&gt;Went to go see World War Z last Friday. Was pretty good but thought that we needed more scenes of zombies massing up and attacking people.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/picture-tagger&quot;&gt;Picture Tagger&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 25, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/picture-tagger&quot;&gt;Picture Tagger&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 25, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Threedo]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/threedo" />
-  <id>http://jonathanstyu.github.io/blog/threedo</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/threedo" />
+  <id>http://jonathanstyu.github.io/threedo</id>
   <published>2013-06-21T00:00:00-07:00</published>
   <updated>2013-06-21T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;three-do&quot;&gt;Three-Do&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;three-do&quot;&gt;Three-Do&lt;/h3&gt;
 
 &lt;p&gt;Today was a solo day and it was a great opportunity to go and exercise a broad spectrum of our skills by creating a todo app - one similar to the one we had created last week and giving it a nice single-page flair with some Javascript and AJAX. By blowing up a lot of the stuff that we did yesterday, we were able to go and create a todo app that would let someone manage all of their information without doing a single refresh. It is pretty awesome.&lt;/p&gt;
 
@@ -439,24 +483,22 @@ What I want to Work On Friday:&lt;/p&gt;
 
 &lt;p&gt;You can find the github repo here: https://github.com/jonathanstyu/week6d5-threedo&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/threedo&quot;&gt;Threedo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/threedo&quot;&gt;Threedo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Return Of Rails]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/return-of-rails" />
-  <id>http://jonathanstyu.github.io/blog/return-of-rails</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/return-of-rails" />
+  <id>http://jonathanstyu.github.io/return-of-rails</id>
   <published>2013-06-20T00:00:00-07:00</published>
   <updated>2013-06-20T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;return-of-rails&quot;&gt;Return of Rails&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;return-of-rails&quot;&gt;Return of Rails&lt;/h3&gt;
 
 &lt;p&gt;Today we spent the majority of our time working on a big extensive app and for the first time in a week - but it feels so long - Ruby on Rails makes its triumphant return. We built and created a RoR app that lets people tell secrets to one another. I assume that this is based on a real life business and product. The goal of the secrets product - which I keep misspelling as seacrest - is that this is going to be the place where we get to use a little bit of AJAX. Using some cool JQuery calls, we are going to be able to add and make calls to the database and the Rails backend without having to refresh and mess with the page.&lt;/p&gt;
 
@@ -464,11 +506,11 @@ What I want to Work On Friday:&lt;/p&gt;
 
 &lt;p&gt;AJAX is the fringes of the technology. The goal was to make some requests to the server with some JavaScript code that was dropped and embedded right in the HTML. Then the HTML would make a request to the server and the server would respond with some data usually in the form of JSON. This is done with the controller actions. Where before I had went ahead and just had it render or redirect to a web page, I instructed the web page to come back with a JSONified version of the object in question. If I was saving an instance of a user, I would render that particular saved version of the object. That data would be attached to the page right there in the background with the magic of JQuery. With this we were able to have a signed in user create friendships with a list of users and then without refreshing the page then unfriend them. It is pretty amazing if you ask me. This was simple JQuery with refreshing and adding and toggling the different classes. We created a class that would hide a particular div or a form. If the web page makes a GET or a POST request, then the server would come back with an AJAX:Success web page and that would trigger a callback function that runs and then tells the JQuery code to manipulate the DOM as needed to show the user the information that he wants to see. The biggest trouble ironically enough had nothing to do with the actual AJAX and the JS. It was as always with CSS (Is it any other case?). By hiding and manipulating the classes of CSS we were able to create different looks and feels on the web page without actually doing anything on the server side. All the meanwhile the server is just sitting there waiting for the background data requests but sending nothing in the terms of the web pages and all. For the first time I finally get a sense of what Paul was shooting for when he started the monumental task of scrapping the old MotherKnows product and putting CareDox together from the ground up as a BackBoneJS product.&lt;/p&gt;
 
-&lt;p&gt;Secrets and tagging secrets were the next thing to do. Secrets are owned by a user and they can be shown on the user&amp;#8217;s profile page (the show.html.erb). The user wants to be able to make and update the page with his new secrets right there on the page. Can we do that? This is something that we have done before but with a lot of groundwork from the backend Rails server. It would take the data or re-render it or go and redirect the user to something else. With some well placed AJAX we could do the whole thing right there in the browser and the new secret could pop up on their web page show profile without any refreshing on our end. We siphoned off the form into a partial in another part of the app and embedded a remote =&amp;gt; true into it to make it something that is capable of making asynchronous javascript web page calls. I was pretty excited to see a tiny string (&amp;#8220;wah&amp;#8221;) show up on the screen. Small step for mankind, big step for JY&amp;#8217;s Javascript.&lt;/p&gt;
+&lt;p&gt;Secrets and tagging secrets were the next thing to do. Secrets are owned by a user and they can be shown on the user’s profile page (the show.html.erb). The user wants to be able to make and update the page with his new secrets right there on the page. Can we do that? This is something that we have done before but with a lot of groundwork from the backend Rails server. It would take the data or re-render it or go and redirect the user to something else. With some well placed AJAX we could do the whole thing right there in the browser and the new secret could pop up on their web page show profile without any refreshing on our end. We siphoned off the form into a partial in another part of the app and embedded a remote =&amp;gt; true into it to make it something that is capable of making asynchronous javascript web page calls. I was pretty excited to see a tiny string (“wah”) show up on the screen. Small step for mankind, big step for JY’s Javascript.&lt;/p&gt;
 
-&lt;p&gt;Then we created a Tag object so that secrets can get tagged. With a tag join table we could then associate the tag with the secret. This is nothing out of the ordinary. We had done this before. The interesting thing with this is that within the form with which we assign the tag to the particular Secret, we now can go and create additional select forms that would let us select more than 1 tag to go with our secret. In fact we could create a whole lot more! I remember that when we were creating our forms for Rails last week I was copying and pasting HTML over and over again and I was wondering what would happen if someone wanted to add more fields and say more to us? The product manager in me was like, &amp;#8220;Well tough beans honey.&amp;#8221; But now with some AJAX and smart JQuery we can go and do this. The challenge with this is that we needed to have all the names of the tags in the database and unfortunately the database has this data. Before with Rails we could just go and query the database for it with an easy a call as Tag.all. The browser cannot do that and even if it were then it would defeat the entire purpose of the call. The goal is to let the browser do its thing without any intereference from the server. The backend is to do nothing after it sends over that first ejaculation of Javascript until the client finally sends it back. How the heck is the JavaScript going to go and add new select fields to the form? What if the form needs to be modified? All these things present a challenge. The JS needs the DATA!&lt;/p&gt;
+&lt;p&gt;Then we created a Tag object so that secrets can get tagged. With a tag join table we could then associate the tag with the secret. This is nothing out of the ordinary. We had done this before. The interesting thing with this is that within the form with which we assign the tag to the particular Secret, we now can go and create additional select forms that would let us select more than 1 tag to go with our secret. In fact we could create a whole lot more! I remember that when we were creating our forms for Rails last week I was copying and pasting HTML over and over again and I was wondering what would happen if someone wanted to add more fields and say more to us? The product manager in me was like, “Well tough beans honey.” But now with some AJAX and smart JQuery we can go and do this. The challenge with this is that we needed to have all the names of the tags in the database and unfortunately the database has this data. Before with Rails we could just go and query the database for it with an easy a call as Tag.all. The browser cannot do that and even if it were then it would defeat the entire purpose of the call. The goal is to let the browser do its thing without any intereference from the server. The backend is to do nothing after it sends over that first ejaculation of Javascript until the client finally sends it back. How the heck is the JavaScript going to go and add new select fields to the form? What if the form needs to be modified? All these things present a challenge. The JS needs the DATA!&lt;/p&gt;
 
-&lt;p&gt;The solution that Ned told us about felt to me oh so very secretive, turn coat and like the NSA. The way to do it is to create a script div that would have Ruby ERB. It would simply request that the server get all the tags, turn them into a HTML safe JSONified object and drop that into the DIV. It is not visible on the screen. It is just sitting there. To make sure that the browser does not render it, we make it a script tag with a &amp;#8220;text/json&amp;#8221; type there. (In fact the browser is going to ignore any script tagged with a type other than the text/javascript. How about that?) But the JQUERY code that we wrote inline in the HTML is going to be able to see it because we tagged it with the right ID! It felt to me like something out of a spy movie. It was pretty impressive.&lt;/p&gt;
+&lt;p&gt;The solution that Ned told us about felt to me oh so very secretive, turn coat and like the NSA. The way to do it is to create a script div that would have Ruby ERB. It would simply request that the server get all the tags, turn them into a HTML safe JSONified object and drop that into the DIV. It is not visible on the screen. It is just sitting there. To make sure that the browser does not render it, we make it a script tag with a “text/json” type there. (In fact the browser is going to ignore any script tagged with a type other than the text/javascript. How about that?) But the JQUERY code that we wrote inline in the HTML is going to be able to see it because we tagged it with the right ID! It felt to me like something out of a spy movie. It was pretty impressive.&lt;/p&gt;
 
 &lt;p&gt;All in all, an exciting and exhilrating day. I feel much better making these apps than stupid Snakey.&lt;/p&gt;
 
@@ -483,24 +525,22 @@ Other Things I Think I Think:&lt;/p&gt;
 &lt;p&gt;Bad day in the markets today. But it is a long term game and it is clear that despite the sluggish growth in the economy, companies today are going to make money and deliver profits for their shareholders. Long term shareholders should not fear anything if their companies are in great positions, deliver huge profits and pay those profits to shareholders in the form of dividends or buybacks.
 I am disappointed that Lebron and the Heat escaped losing to the Spurs last night. I hope they meet their end in Game 7!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/return-of-rails&quot;&gt;Return Of Rails&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 20, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/return-of-rails&quot;&gt;Return Of Rails&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 20, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Snakey]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/snakey" />
-  <id>http://jonathanstyu.github.io/blog/snakey</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/snakey" />
+  <id>http://jonathanstyu.github.io/snakey</id>
   <published>2013-06-19T00:00:00-07:00</published>
   <updated>2013-06-19T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;snakey&quot;&gt;Snakey&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;snakey&quot;&gt;Snakey&lt;/h3&gt;
 
 &lt;p&gt;This is going to be a quick post because I have to do some work right now. The homework tonight is to go and write a snake program. The program is going to be first written on the console and then brought over into the web page with the magic of JQuery.&lt;/p&gt;
 
@@ -508,55 +548,51 @@ I am disappointed that Lebron and the Heat escaped losing to the Spurs last nigh
 
 &lt;p&gt;The interesting way with how this program is set up is that you can put together a program like this and it seems like magic almost how it all comes together in JavaScript and JQuery. JQuery acts like magic some times - much like Rails - but at heart the instructors were clear to tell us that this was very much something real. There is JS in the heart of that.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/snakey&quot;&gt;Snakey&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 19, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/snakey&quot;&gt;Snakey&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 19, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Javascript]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/javascript" />
-  <id>http://jonathanstyu.github.io/blog/javascript</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/javascript" />
+  <id>http://jonathanstyu.github.io/javascript</id>
   <published>2013-06-17T00:00:00-07:00</published>
   <updated>2013-06-17T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;javascript&quot;&gt;JavaScript&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;javascript&quot;&gt;JavaScript&lt;/h3&gt;
 
 &lt;p&gt;Today was supposed to be a solo day where we spent time working on two projects. Instead, it turned into pair days where we were to work extensively on a number of projects including a crazysort solution in JavaScript.&lt;/p&gt;
 
-&lt;p&gt;The most challenging concept for me to grasp was that of callbacks. Callbacks are a part of Javascript and seemed to be a part of Node.JS. In Node there is a library called readlines. You would be able to invoke a method called &amp;#8220;Question&amp;#8221; that inquires someone of a query and then after receiving a response would go and invoke a &amp;#8220;callback&amp;#8221;, which is another function that has been passed to this particular method that is kind of like a Proc in Ruby. It is different from what I am used to because while I have dealt with Procs in Ruby before, I have never really dealt with them to the extent that I am doing so in JavaScript. The difference is that with JavaScript, there are instances where a web developer does not want a program to completely take over a web browser or a page with a loop. So with these callbacks, someone can essentially &amp;#8220;queue&amp;#8221; up procs for the future.&lt;/p&gt;
+&lt;p&gt;The most challenging concept for me to grasp was that of callbacks. Callbacks are a part of Javascript and seemed to be a part of Node.JS. In Node there is a library called readlines. You would be able to invoke a method called “Question” that inquires someone of a query and then after receiving a response would go and invoke a “callback”, which is another function that has been passed to this particular method that is kind of like a Proc in Ruby. It is different from what I am used to because while I have dealt with Procs in Ruby before, I have never really dealt with them to the extent that I am doing so in JavaScript. The difference is that with JavaScript, there are instances where a web developer does not want a program to completely take over a web browser or a page with a loop. So with these callbacks, someone can essentially “queue” up procs for the future.&lt;/p&gt;
 
 &lt;p&gt;The biggest project that I was to deal with was something called Crazysort, which is a Bubblesort implementation. It would be in JavaScript and would use a number of Callbacks. It would ask the person to sort out the numbers. I managed to finish it but it took more time than I wished. About an hour and a half.&lt;/p&gt;
 
-&lt;p&gt;Ned spent some time after to go over the solution and as expected it was quite more elegant than the one that I came up. The biggest challenge ironically as it turns out to be is that the program does not do what Ruby does: It does not stop the entire implementation of the program in order to wait for the author to give input. Dylan noted that this was a constant issue with a lot of client side JS programs. Always a bitch to debug too. The solution for me was to create three different functions that passed each other the same information. There is one that manages the entire loop so it kicks things off and tells everyone to stop. There is another that goes and manages the checking and swapping of an entire row in a single pass. It may or may not do any swapping. The last was to to actually inquire of the user. It would take a callback function and call on that &amp;#8220;true&amp;#8221; or &amp;#8220;false&amp;#8221; if the answer is smaller or larger.&lt;/p&gt;
+&lt;p&gt;Ned spent some time after to go over the solution and as expected it was quite more elegant than the one that I came up. The biggest challenge ironically as it turns out to be is that the program does not do what Ruby does: It does not stop the entire implementation of the program in order to wait for the author to give input. Dylan noted that this was a constant issue with a lot of client side JS programs. Always a bitch to debug too. The solution for me was to create three different functions that passed each other the same information. There is one that manages the entire loop so it kicks things off and tells everyone to stop. There is another that goes and manages the checking and swapping of an entire row in a single pass. It may or may not do any swapping. The last was to to actually inquire of the user. It would take a callback function and call on that “true” or “false” if the answer is smaller or larger.&lt;/p&gt;
 
-&lt;p&gt;Ned&amp;#8217;s solution was much more elegant. My program had simply went through and implemented a counter. The counter was reset whenever we made a swap. If we went through four instances (or whatever the length of the array was) without a swap then it means that the entire thing was done. He implemented a true or false boolean. If they made a swap within the scope of a single passthrough then he knows that he has to continue on.&lt;/p&gt;
+&lt;p&gt;Ned’s solution was much more elegant. My program had simply went through and implemented a counter. The counter was reset whenever we made a swap. If we went through four instances (or whatever the length of the array was) without a swap then it means that the entire thing was done. He implemented a true or false boolean. If they made a swap within the scope of a single passthrough then he knows that he has to continue on.&lt;/p&gt;
 
 &lt;p&gt;Javascript is unfurling its secrets to me, but I have to say that it continues to challenge me.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/javascript&quot;&gt;Javascript&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/javascript&quot;&gt;Javascript&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Twodoo]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/twodoo" />
-  <id>http://jonathanstyu.github.io/blog/twodoo</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/twodoo" />
+  <id>http://jonathanstyu.github.io/twodoo</id>
   <published>2013-06-13T00:00:00-07:00</published>
   <updated>2013-06-13T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;twodo&quot;&gt;TwoDo&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;twodo&quot;&gt;TwoDo&lt;/h3&gt;
 
 &lt;p&gt;TwoDoo - A to-do app that is the project for AA W5D4&lt;/p&gt;
 
@@ -566,36 +602,34 @@ I am disappointed that Lebron and the Heat escaped losing to the Spurs last nigh
 
 &lt;p&gt;I never finished the entire to do app because I spent the majority of the time focusing on building and improving the views. In my previous life I spent a lot of time with Bootstrap. In this rails app, I integrated Bootstrap for the first time with a rails app. I had been trying for a long time and just now got this working. With that I could spend time working with making nav bars, modals, and creating tables.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/twodoo&quot;&gt;Twodoo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 13, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/twodoo&quot;&gt;Twodoo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 13, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Reddit Clone]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/reddit-clone" />
-  <id>http://jonathanstyu.github.io/blog/reddit-clone</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/reddit-clone" />
+  <id>http://jonathanstyu.github.io/reddit-clone</id>
   <published>2013-06-12T00:00:00-07:00</published>
   <updated>2013-06-12T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;reddit-clone&quot;&gt;Reddit Clone&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;reddit-clone&quot;&gt;Reddit Clone&lt;/h3&gt;
 
 &lt;p&gt;Today we worked on creating a clone of Reddit. I found this very interesting because I never was a big Reddit user. I barely know how the damn thing works and now we have to build something like it?! That is just crazy talk, right? Well, here at AA it is all about learning on the fly and making stuff up as you go along. So I went right along making stuff along despite a sore throat and recovering from a pretty nasty bout of food poisoning last night.&lt;/p&gt;
 
 &lt;p&gt;One of the challenges of building Saiddit - as I call it - is that there are many different rings of items surrounding the models. There are subjects/categories and then below that there are links which then have comments on them. These comments go on ad infinitem as people can comment on comments forever and ever. So the models had to be flexible and powerful enough that we could be able to go about and accommodate many of those features in addition to being able to up or downvote things too. This was a solo project so it was just me, myself and I. The goal is to finish as much as possible.&lt;/p&gt;
 
-&lt;p&gt;We had to create the standard authorization and user login system that we are by now very well familiar with. The twist today is that I decided to build much of the infrastructure around the first Users model/views/controllers with a scaffold. By running &amp;#8220;rails generate scaffold [attributes:type]&amp;#8221; I found that I was able to have Rails set up a lot of code that would have taken me time to rewrite. I managed to get the entire login system up within 10 min, something that would have taken me a much time longer. Combine that with improved knowledge of BCrypt and I think I will be much ready for the re-take assessment on Friday.&lt;/p&gt;
+&lt;p&gt;We had to create the standard authorization and user login system that we are by now very well familiar with. The twist today is that I decided to build much of the infrastructure around the first Users model/views/controllers with a scaffold. By running “rails generate scaffold [attributes:type]” I found that I was able to have Rails set up a lot of code that would have taken me time to rewrite. I managed to get the entire login system up within 10 min, something that would have taken me a much time longer. Combine that with improved knowledge of BCrypt and I think I will be much ready for the re-take assessment on Friday.&lt;/p&gt;
 
 &lt;p&gt;Subs are rather simple. They held within them a single database column called categories. This would be the overarching categories. However underneath them the models were more complex. A submitter creates links and comments so I had to create associations between the three. We are always able to track back a comment/link to its author.&lt;/p&gt;
 
-&lt;p&gt;The project asked for several nested forms, where we would create a parent and child item simultaneously. We also needed such a form for &amp;#8216;editing&amp;#8217; and &amp;#8216;creating&amp;#8217; items. I created a partial that would be able to handle both. Ned then showed us how to go and make it so that if someone submitted an invalid child or parent item the form would then re-render with their information already filled in from the previous attempt. This way, someone would not have to retype in their information in case they had perhaps inadvertently hit the ENTER button. This is pretty cool. We would create a local instance of the object being creating and pass it through into the Rails form partial - which would then render as according to whether or not the object has been already persisted to the data store or not - and the form would simply fill in the values with the values. In order to model the up and down votes, I created a join table that would simply link a user and a link that he is up or downvoting.&lt;/p&gt;
+&lt;p&gt;The project asked for several nested forms, where we would create a parent and child item simultaneously. We also needed such a form for ‘editing’ and ‘creating’ items. I created a partial that would be able to handle both. Ned then showed us how to go and make it so that if someone submitted an invalid child or parent item the form would then re-render with their information already filled in from the previous attempt. This way, someone would not have to retype in their information in case they had perhaps inadvertently hit the ENTER button. This is pretty cool. We would create a local instance of the object being creating and pass it through into the Rails form partial - which would then render as according to whether or not the object has been already persisted to the data store or not - and the form would simply fill in the values with the values. In order to model the up and down votes, I created a join table that would simply link a user and a link that he is up or downvoting.&lt;/p&gt;
 
-&lt;p&gt;The big show stopping bug was when I was trying to hone down a form that gave users the options to create up to 5 child items alongside the parent item. If someone had just filled in one of the five, then Rails should simply go and ignore all those blank fields. However, it was turning out that Rails was seemingly looking to take in those records and then running afoul of a data validation that I had written within my ActiveModel record. So what the hell? Rails should be ignoring these things because I had gone ahead and written a specific method that connects to the association - called &amp;#8220;reject_if&amp;#8221; - that would reject any of the 5 child entry forms that would be empty. I struggled for 20 min on this before calling over Peter to help me. As it turns out, I had created a custom method that would do this checking - the one that connected to :reject_if - but the name was preempted by a standard method in Rails. So it was ignoring my customer instructions and waving through this invalid data model that should never have been waved through. I was glad to see that simply changing the name of my custom method made the whole thing work almost like magic.&lt;/p&gt;
+&lt;p&gt;The big show stopping bug was when I was trying to hone down a form that gave users the options to create up to 5 child items alongside the parent item. If someone had just filled in one of the five, then Rails should simply go and ignore all those blank fields. However, it was turning out that Rails was seemingly looking to take in those records and then running afoul of a data validation that I had written within my ActiveModel record. So what the hell? Rails should be ignoring these things because I had gone ahead and written a specific method that connects to the association - called “reject_if” - that would reject any of the 5 child entry forms that would be empty. I struggled for 20 min on this before calling over Peter to help me. As it turns out, I had created a custom method that would do this checking - the one that connected to :reject_if - but the name was preempted by a standard method in Rails. So it was ignoring my customer instructions and waving through this invalid data model that should never have been waved through. I was glad to see that simply changing the name of my custom method made the whole thing work almost like magic.&lt;/p&gt;
 
 &lt;p&gt;The whole project was a comprehensive test of my skills and I had thoroughly enjoyed creating it, though some of the other work turned out to be a real slog. I was just too OCD to ignore things like adding links and all kinds of other things like the right spacing. To think that such a complex product - that has things like user authenticiation, upvoting, downvoting, categories, links to URLS, AND infinitely-nesting commenting - like this can be built within a few hours is just unimaginable without Rails. You can find the project repo here at GitHub: https://github.com/jonathanstyu/saiddit&lt;/p&gt;
 
@@ -603,7 +637,7 @@ I am disappointed that Lebron and the Heat escaped losing to the Spurs last nigh
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;I enjoyed watching the Spurs dismantling of the Heat last night. But I don&amp;#8217;t think we can expect all those 3&amp;#8217;s to come raining down again. That being said, the team that wins Game 3 wins the series 92% of the time.&lt;/p&gt;
+    &lt;p&gt;I enjoyed watching the Spurs dismantling of the Heat last night. But I don’t think we can expect all those 3’s to come raining down again. That being said, the team that wins Game 3 wins the series 92% of the time.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;The weather baffles me yet again. It freezes me inside here but whenever I go outside it is warm enough to make me uncomfortable. How can I find the Golidlocks temperature?!?!&lt;/p&gt;
@@ -613,24 +647,22 @@ I am disappointed that Lebron and the Heat escaped losing to the Spurs last nigh
   &lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/reddit-clone&quot;&gt;Reddit Clone&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 12, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/reddit-clone&quot;&gt;Reddit Clone&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 12, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Social Thing]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/social-thing" />
-  <id>http://jonathanstyu.github.io/blog/social-thing</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/social-thing" />
+  <id>http://jonathanstyu.github.io/social-thing</id>
   <published>2013-06-11T00:00:00-07:00</published>
   <updated>2013-06-11T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;social-thing&quot;&gt;Social Thing&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;social-thing&quot;&gt;Social Thing&lt;/h3&gt;
 
 &lt;p&gt;Today we delved deeper into some of the details involved with routes and other portions of building rails projects. Today we were to build a certain Social Thing-a-jigger that would allow users to find friends, add them into friend circles, and then share those friends posts that have links associated with them. A post would be kind of like the Facebook posts. There are links added to them.&lt;/p&gt;
 
@@ -660,34 +692,7 @@ I am disappointed that Lebron and the Heat escaped losing to the Spurs last nigh
   &lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/social-thing&quot;&gt;Social Thing&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 11, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Rails Lite3]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/blog/rails-lite3" />
-  <id>http://jonathanstyu.github.io/blog/rails-lite3</id>
-  <published>2013-06-10T00:00:00-07:00</published>
-  <updated>2013-06-10T00:00:00-07:00</updated>
-  <author>
-    <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io/blog</uri>
-    <email>jonathan@jonathanyu.net</email>
-  </author>
-  <content type="html">&lt;p&gt;Included file &amp;#8216;JB/setup&amp;#8217; not found in _includes directory&lt;/p&gt;
-
-&lt;h3 id=&quot;rails-lite-continued&quot;&gt;Rails Lite Continued&lt;/h3&gt;
-
-&lt;p&gt;Today we continued our Rails lite project and spend extensive time building through some of the more essential parts of Rails that creates the &amp;#8220;magic&amp;#8221; that is so often attributed to the rails workflow including routes, params, and more.&lt;/p&gt;
-
-&lt;p&gt;The major challenge with params is that information is passed to us in a query string in a format that is often disarrayed and not so easy to pick through. Rails, not Ruby, picks through this information and formats it in a more neat and suitable way for processing. So that means that when we create our Rails lite, we have to build that out. Ruby took us half way there with parsing out keys and values into a nested array. However, we want that information to be presented to us in a nested hash so that all the information that are going to be the params for an object to be instantiated, created, or updated is in one place. This way we can just say params(;cat) and voila, all the cat information related shows up right there. This means regular expressions.&lt;/p&gt;
-
-&lt;p&gt;And now we have two problems.&lt;/p&gt;
-
-&lt;p&gt;Recursively using regular expressions, we are able to parse through a number of series of cat(name) and cat(age) name attributes and create from it a single hash that is headlined &amp;#8220;cat&amp;#8221; and then follows through with the &amp;#8220;age&amp;#8221; and &amp;#8220;name&amp;#8221; data. It was interesting to work with and extremely verbose. I spent a lot of time agonizing over my regexs.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/blog/rails-lite3&quot;&gt;Rails Lite3&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io/blog&quot;&gt;Perfect Perusals&lt;/a&gt; on June 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/social-thing&quot;&gt;Social Thing&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 11, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>

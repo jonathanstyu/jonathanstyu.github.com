@@ -8,12 +8,12 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="Reddit Clone &#8211; Perfect Perusals">
-<meta property="og:description" content="{% include JB/setup %}### Reddit CloneToday we worked on creating a clone of Reddit. I found this very interesting be...">
-<meta property="og:url" content="http://jonathanstyu.github.io/blog/reddit-clone">
+<meta property="og:description" content="### Reddit CloneToday we worked on creating a clone of Reddit. I found this very interesting because I never was a bi...">
+<meta property="og:url" content="http://jonathanstyu.github.io/reddit-clone">
 <meta property="og:site_name" content="Perfect Perusals">
 
 
-<link href="http://jonathanstyu.github.io/blog/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
+<link href="http://jonathanstyu.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Perfect Perusals Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -23,13 +23,13 @@
 <!-- Type -->
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/entypo/entypo.css" media="all">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/entypo/entypo.css" media="all">
 <link rel='stylesheet' href='http://gtat.me/calplus/cal.css' media='all' />
 
 
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://jonathanstyu.github.io/blog/assets/css/i.css">
+<link rel="stylesheet" href="http://jonathanstyu.github.io/assets/css/i.css">
 
 <!-- Fresh Squeezed jQuery -->
 
@@ -38,12 +38,12 @@
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script src="http://jonathanstyu.github.io/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://jonathanstyu.github.io/blog/favicon.ico">
+<link rel="shortcut icon" href="http://jonathanstyu.github.io/favicon.ico">
 
 <div id="bump">
   <body class="">
@@ -60,7 +60,7 @@
             </li>
             
             
-                <li><a href="http://jonathanstyu.github.io/blog/about" >About</a></li>
+                <li><a href="http://jonathanstyu.github.io/about" >About</a></li>
             
                 <li><a href="https://github.com/jonathanstyu" target="_blank">Github</a></li>
             
@@ -75,7 +75,7 @@
 
 
   <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/blog/images/typewriter.jpg)"></div>
+  <div class="featured-image" style="background-image: url(http://jonathanstyu.github.io/images/typewriter.jpg)"></div>
 
 
 
@@ -88,21 +88,19 @@
           </hgroup>
         </header>
     
-        <p>Included file &#8216;JB/setup&#8217; not found in _includes directory</p>
-
-<h3 id="reddit-clone">Reddit Clone</h3>
+        <h3 id="reddit-clone">Reddit Clone</h3>
 
 <p>Today we worked on creating a clone of Reddit. I found this very interesting because I never was a big Reddit user. I barely know how the damn thing works and now we have to build something like it?! That is just crazy talk, right? Well, here at AA it is all about learning on the fly and making stuff up as you go along. So I went right along making stuff along despite a sore throat and recovering from a pretty nasty bout of food poisoning last night.</p>
 
 <p>One of the challenges of building Saiddit - as I call it - is that there are many different rings of items surrounding the models. There are subjects/categories and then below that there are links which then have comments on them. These comments go on ad infinitem as people can comment on comments forever and ever. So the models had to be flexible and powerful enough that we could be able to go about and accommodate many of those features in addition to being able to up or downvote things too. This was a solo project so it was just me, myself and I. The goal is to finish as much as possible.</p>
 
-<p>We had to create the standard authorization and user login system that we are by now very well familiar with. The twist today is that I decided to build much of the infrastructure around the first Users model/views/controllers with a scaffold. By running &#8220;rails generate scaffold [attributes:type]&#8221; I found that I was able to have Rails set up a lot of code that would have taken me time to rewrite. I managed to get the entire login system up within 10 min, something that would have taken me a much time longer. Combine that with improved knowledge of BCrypt and I think I will be much ready for the re-take assessment on Friday.</p>
+<p>We had to create the standard authorization and user login system that we are by now very well familiar with. The twist today is that I decided to build much of the infrastructure around the first Users model/views/controllers with a scaffold. By running “rails generate scaffold [attributes:type]” I found that I was able to have Rails set up a lot of code that would have taken me time to rewrite. I managed to get the entire login system up within 10 min, something that would have taken me a much time longer. Combine that with improved knowledge of BCrypt and I think I will be much ready for the re-take assessment on Friday.</p>
 
 <p>Subs are rather simple. They held within them a single database column called categories. This would be the overarching categories. However underneath them the models were more complex. A submitter creates links and comments so I had to create associations between the three. We are always able to track back a comment/link to its author.</p>
 
-<p>The project asked for several nested forms, where we would create a parent and child item simultaneously. We also needed such a form for &#8216;editing&#8217; and &#8216;creating&#8217; items. I created a partial that would be able to handle both. Ned then showed us how to go and make it so that if someone submitted an invalid child or parent item the form would then re-render with their information already filled in from the previous attempt. This way, someone would not have to retype in their information in case they had perhaps inadvertently hit the ENTER button. This is pretty cool. We would create a local instance of the object being creating and pass it through into the Rails form partial - which would then render as according to whether or not the object has been already persisted to the data store or not - and the form would simply fill in the values with the values. In order to model the up and down votes, I created a join table that would simply link a user and a link that he is up or downvoting.</p>
+<p>The project asked for several nested forms, where we would create a parent and child item simultaneously. We also needed such a form for ‘editing’ and ‘creating’ items. I created a partial that would be able to handle both. Ned then showed us how to go and make it so that if someone submitted an invalid child or parent item the form would then re-render with their information already filled in from the previous attempt. This way, someone would not have to retype in their information in case they had perhaps inadvertently hit the ENTER button. This is pretty cool. We would create a local instance of the object being creating and pass it through into the Rails form partial - which would then render as according to whether or not the object has been already persisted to the data store or not - and the form would simply fill in the values with the values. In order to model the up and down votes, I created a join table that would simply link a user and a link that he is up or downvoting.</p>
 
-<p>The big show stopping bug was when I was trying to hone down a form that gave users the options to create up to 5 child items alongside the parent item. If someone had just filled in one of the five, then Rails should simply go and ignore all those blank fields. However, it was turning out that Rails was seemingly looking to take in those records and then running afoul of a data validation that I had written within my ActiveModel record. So what the hell? Rails should be ignoring these things because I had gone ahead and written a specific method that connects to the association - called &#8220;reject_if&#8221; - that would reject any of the 5 child entry forms that would be empty. I struggled for 20 min on this before calling over Peter to help me. As it turns out, I had created a custom method that would do this checking - the one that connected to :reject_if - but the name was preempted by a standard method in Rails. So it was ignoring my customer instructions and waving through this invalid data model that should never have been waved through. I was glad to see that simply changing the name of my custom method made the whole thing work almost like magic.</p>
+<p>The big show stopping bug was when I was trying to hone down a form that gave users the options to create up to 5 child items alongside the parent item. If someone had just filled in one of the five, then Rails should simply go and ignore all those blank fields. However, it was turning out that Rails was seemingly looking to take in those records and then running afoul of a data validation that I had written within my ActiveModel record. So what the hell? Rails should be ignoring these things because I had gone ahead and written a specific method that connects to the association - called “reject_if” - that would reject any of the 5 child entry forms that would be empty. I struggled for 20 min on this before calling over Peter to help me. As it turns out, I had created a custom method that would do this checking - the one that connected to :reject_if - but the name was preempted by a standard method in Rails. So it was ignoring my customer instructions and waving through this invalid data model that should never have been waved through. I was glad to see that simply changing the name of my custom method made the whole thing work almost like magic.</p>
 
 <p>The whole project was a comprehensive test of my skills and I had thoroughly enjoyed creating it, though some of the other work turned out to be a real slog. I was just too OCD to ignore things like adding links and all kinds of other things like the right spacing. To think that such a complex product - that has things like user authenticiation, upvoting, downvoting, categories, links to URLS, AND infinitely-nesting commenting - like this can be built within a few hours is just unimaginable without Rails. You can find the project repo here at GitHub: https://github.com/jonathanstyu/saiddit</p>
 
@@ -110,7 +108,7 @@
 
 <ul>
   <li>
-    <p>I enjoyed watching the Spurs dismantling of the Heat last night. But I don&#8217;t think we can expect all those 3&#8217;s to come raining down again. That being said, the team that wins Game 3 wins the series 92% of the time.</p>
+    <p>I enjoyed watching the Spurs dismantling of the Heat last night. But I don’t think we can expect all those 3’s to come raining down again. That being said, the team that wins Game 3 wins the series 92% of the time.</p>
   </li>
   <li>
     <p>The weather baffles me yet again. It freezes me inside here but whenever I go outside it is warm enough to make me uncomfortable. How can I find the Golidlocks temperature?!?!</p>
@@ -121,7 +119,7 @@
 </ul>
 
           
-      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Reddit Clone&quot;%20http://jonathanstyu.github.io/blog%20via%20&#64;" data-dnt="true">Share</a>
+      <a class="share" href="https://twitter.com/intent/tweet?text=&quot;Reddit Clone&quot;%20http://jonathanstyu.github.io%20via%20&#64;" data-dnt="true">Share</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
       
@@ -139,18 +137,18 @@
         <p class="list-title">Recent Posts</p>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/apple-in-2013" title="Apple in 2013">Apple in 2013 </a></span>
+              <span class="date">Aug 11, 2013</span>
+            </li>
+         <!-- for1 -->
+            <li>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/integrating-with-craigslist" title="Integrating With Craigslist">Integrating With Craigslist </a></span>
               <span class="date">Jul 11, 2013</span>
             </li>
          <!-- for1 -->
             <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
+              <span class="recent-title"><a href="http://jonathanstyu.github.io/fleshing-out-form" title="Fleshing Out Form">Fleshing Out Form </a></span>
               <span class="date">Jul 10, 2013</span>
-            </li>
-         <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="http://jonathanstyu.github.io/blog/near-the-end" title="Near The End">Near The End </a></span>
-              <span class="date">Jul 08, 2013</span>
             </li>
         
       </ol>
@@ -170,11 +168,11 @@
   </footer>
 
   <!-- If they're out, get some from the cellar -->
-  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/blog/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-  <script src="http://jonathanstyu.github.io/blog/assets/js/retina.min.js"></script>
+  <script>window.jQuery || document.write('<script src="http://jonathanstyu.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="http://jonathanstyu.github.io/assets/js/retina.min.js"></script>
 
   <!-- Custom JS -->
-  <script src="http://jonathanstyu.github.io/blog/assets/js/scripts.js"></script>
+  <script src="http://jonathanstyu.github.io/assets/js/scripts.js"></script>
   
 
   </body>
