@@ -13,7 +13,7 @@ tags: [anime]
 
 ### Background
 
-I am really enjoying the series Attack on Titan. It is an interesting world indeed but what should also be taken into account is the fact that it is a very good action series. The source material strikes the right balance of action, suspense, and "oh crap" moments. Cliffhanger after cliffhanger. Month to month story telling. Sometimes the tricks are cheap. Sometimes they are brilliant. The author does a good job of just doing crazy stuff month after month after month. I have heard that he has planned the entire story out before even sitting down to start a single panel of the manga. Such planning, if such the story is true, is evident in the foreshadowing in earlier volumes that, when you go back to read them again, just kill you now that you know of certain plot developments. 
+I am really enjoying the series Attack on Titan. I enjoy not just the fact that it is a very interesting world - low fantasy with a bit of steampunk - but I also love that it is just a very good action series. The source material strikes the right balance of action, suspense, and "oh crap" moments. Cliffhanger after cliffhanger month after month. Sometimes the tricks are cheap. Sometimes they are brilliant. The author does a good job of just doing crazy stuff month after month after month. I have heard that he has planned out the entire story before even sitting down to start a single panel of the manga. Such planning, if true, is evident in the huge amount of foreshadowing in early volumes that, when you go back to read them again, are now oh so obvious once the scales have fallen from your eyes. 
 
 The anime follows the manga's plot closely and in general does not try to mess up a good thing. The main problem is that there are only 48 chapters in the manga out right now (one a month, and it has been going for about 4 years now). Because of the artist's rather slow pace (due to his drawing style and its action packed tone), the anime has to deal with the fact that if it were not careful then it could go really too fast and overtake the manga, creating a Game of Thrones like problem that will be unpleasant. 
 
@@ -69,9 +69,7 @@ And do not forget that there is still one major tension lingering in the backgro
 
 ### Grab, Pull, and Die
 
-Now the scene is established. We know exactly where Eren and his pursuer is. We know what we are to be uncertain of and why. It is time to escalate the stakes. 
-
-Quickly, 
+Now the scene is established. We know exactly where Eren and his pursuer is. We know what we are to be uncertain of and why. It is time to escalate the stakes. Three soldiers appear from behind the female titan, offering reinforcements. 
 
 ![Courtesy of Tumblr](http://24.media.tumblr.com/ca7f995bb2c5d8828335f98fb88fcfbf/tumblr_mrdt3oDWhf1ql41ypo1_500.gif)
 
