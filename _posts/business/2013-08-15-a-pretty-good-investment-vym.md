@@ -82,6 +82,21 @@ A high dividend yield ETF should do better yield wise than that of the SP500, wh
 
 No, it is not like Annaly or AGNC's 20% yield. But unlike those companies, the yield from VYM is stable. Wherever I have looked for something with a higher yield than that 3%, the things that I have found also have issues that concern me. 3% seems to be the best you can do without delving into things that might keep you up at night. I am through with that crap.
 
+### How to Use VYM 
+
+I am not going to just tell you the name and then leave you to fend for yourself. I am also providing user instructions. No diagrams, though because I cannot draw.
+
+* Buy when the price goes down
+
+* Reinvest the dividends, which come once every three months
+
+* If the price goes up and you have some money, buy some more 
+
+* Sell when you absolutely need the money. Otherwise, leave it alone 
+
+* In fact, do not even look at the price quote from day to day. It's not going to change a lot
+
+
 ### Simple Strokes for Simple Folks 
 
 Some great things that I have heard about investing over time: 
