@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://jonathanstyu.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io" />
-<updated>2013-08-15T16:57:55-07:00</updated>
+<updated>2013-08-15T17:28:22-07:00</updated>
 <id>http://jonathanstyu.github.io/</id>
 <author>
   <name>Jonathan Yu</name>
@@ -33,13 +33,13 @@
 
 &lt;p&gt;In other words, she is a conservative, wait-it-out investor. I figured then that the most conservative, stable stocks would make sense for her. I figured that the portfolio would not grow, but it would not lose a lot of money either. It would be like one of those ovens that you see on the television. Set it and forget it. &lt;/p&gt;
 
-&lt;p&gt;I ignored everything that was buzzing about my brain at the time - stuff that I do not even remember myself - and just picked for her the most ordinary stuff. It literally took 10 minutes to set her portfolio. Some Procter and Gamble (PG), Johnson and Johnson (JNJ), and the crowning piece, Vanguard Total Market Index (VTI). &lt;/p&gt;
+&lt;p&gt;I ignored everything that was buzzing about my brain at the time - stuff that I do not even remember myself - and just picked for her the most ordinary stuff. It literally took 10 minutes to set her portfolio. Some Procter and Gamble (PG), Johnson and Johnson (JNJ), and the crown jewel Vanguard Total Market Index (VTI). &lt;/p&gt;
 
-&lt;p&gt;My little sister still has those stocks now. And they have grown over 60+% for her. More if her broker lets her reinvest dividends. It unfortunately does not (for godssakes never use Bank of America Merrill Lynch and she is just too lazy to switch brokers). She literally has not spent more than 5 minutes a year thinking about this portfolio. &lt;/p&gt;
+&lt;p&gt;My little sister still has those stocks now, four years later. And they have grown over 60+% for her. More if her broker lets her reinvest dividends. It unfortunately does not (for godssakes never use Bank of America Merrill Lynch and she is just too lazy to switch brokers). She literally has not spent more than 5 minutes a year thinking about this portfolio. She might have missed out on the higher returns that some other people, but in terms of return per unit of stress, she wins hands down. &lt;/p&gt;
 
 &lt;h3 id=&quot;making-it-simple&quot;&gt;Making it Simple&lt;/h3&gt;
 
-&lt;p&gt;The simplicity of my little sister’s approach is part of why it works. She knows exactly what she needs or does not need to do in order to make her investing life successful. As long as she plays her game, then she is unbeatable at it. Out of my entire family, my sister is the one whose portfolio has grown the fastest per ounce of energy spent. &lt;/p&gt;
+&lt;p&gt;The simplicity of my little sister’s approach is part of why it works. She knew exactly what she needs or does not need to do in order to make her investing life successful. As long as she plays her game, then she is unbeatable at it. Out of my entire family, my sister is the one whose portfolio has grown the fastest per ounce of energy spent. &lt;/p&gt;
 
 &lt;p&gt;Her success got me thinking. I had just come out of a three month sequence where I day traded Apple, PriceLine and Google weekly options, which are complex financial derivatives that are known for their extreme volatility. I lost over $12,000 in this market in just 3 months, which is pretty incredible. You will hear more about this story in a future but it took a lot to quit. When I finally did, I was exhausted. I was tired of seeing the eTrade screen and wanted to just move away from it for good. I was ready to take the Little Sister approach. I started to research companies that I wanted to invest for a long time and not care about. &lt;/p&gt;
 
@@ -68,7 +68,9 @@
 	&lt;figcaption&gt;Vanguard Group&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;I liked Vanguard for a few reasons. First is that they are a very large fund family. They are pretty no-nonsense and I like their philosophy of low cost indexing. Second I also like that their incentives are aligned with the investors. The other big fund families are iShares and WisdomTree. Both are publicly traded. iShares is owned by BlackRock (BLK) and WisdomTree is WETF. This is pretty cool, but it means that they are never going to be fully incentivized to deliver the lowest fees to you. Vanguard is not a publicly held company. Its shares are held by the very funds that it manages. So when you are a VYM shareholder, you not only own the shares in the ETF, but you own a bit of Vanguard too. &lt;/p&gt;
+&lt;p&gt;I liked Vanguard for a few reasons. First is that they are a very large fund family. They are pretty no-nonsense and I like their philosophy of low cost indexing. Second I also like that their incentives are aligned with the investors. The other big fund families are iShares and WisdomTree. Both are publicly traded. iShares is owned by BlackRock (BLK) and WisdomTree is WETF. This is pretty cool, but it means that they are never going to be fully incentivized to deliver the lowest fees to you. Vanguard is not a publicly held company. Its shares are held by the very funds that it manages. So when you are a VYM shareholder, you not only own the shares in the ETF, but you own a bit of Vanguard too.&lt;/p&gt;
+
+&lt;p&gt;Second, the fees are really low. They are charged as a percentage of how much you own in shares. If you own $100, then 1% means that you pay $1 a year. VYM charges 0.1%, which is pretty much the lowest you can go in terms of anything other than the total stock market (which is something like 0.05%). So this means that if you own $100, then you pay 10 cents a year. That is fairly low. Better yet, the fees trend lower than higher. Every so often Vanguard cuts their fees. A few years ago it was at 0.14%.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;The Portfolio is Good&lt;/strong&gt;&lt;/p&gt;
 
@@ -99,6 +101,28 @@
 
 &lt;p&gt;No, it is not like Annaly or AGNC’s 20% yield. But unlike those companies, the yield from VYM is stable. Wherever I have looked for something with a higher yield than that 3%, the things that I have found also have issues that concern me. 3% seems to be the best you can do without delving into things that might keep you up at night. I am through with that crap.&lt;/p&gt;
 
+&lt;h3 id=&quot;how-to-use-vym&quot;&gt;How to Use VYM&lt;/h3&gt;
+
+&lt;p&gt;I am not going to just tell you the name and then leave you to fend for yourself. I am also providing user instructions. No diagrams, though because I cannot draw.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Buy when the price goes down&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reinvest the dividends, which come once every three months&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If the price goes up and you have some money, buy some more &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sell when you absolutely need the money. Otherwise, leave it alone &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In fact, do not even look at the price quote from day to day. It’s not going to change a lot&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;simple-strokes-for-simple-folks&quot;&gt;Simple Strokes for Simple Folks&lt;/h3&gt;
 
 &lt;p&gt;Some great things that I have heard about investing over time: &lt;/p&gt;
@@ -126,7 +150,7 @@
 
 &lt;p&gt;I like the last one the best, especially as someone who cares very little for cars. You do not buy the exotic electric vehicle if you need it to help you get to work and the grocery store everyday. There is a time and place for it. Same with stocks. Buy the Corolla for investment vehicles. &lt;/p&gt;
 
-&lt;p&gt;There are many in my peer group who are big on real estate. Their entire young adult lives they are saving so that they can put down that $60-80K for that 20% down payment. I am not excited about that particular prospect myself. If that is how you want it, then yes you should go buy that first house. There is merit in your approach and the more important thing anyway is how you raise money for that investment - steady saving and living below your means - but I have been a stock guy for a very long time. I like that it is a living, breathing asset - an entity that does not die or get injured. A share of stock does not get hit by a volcano in Hawaii. Does not get older or tarnished. It keeps its freshness over time. &lt;/p&gt;
+&lt;p&gt;There are many in my peer group who are big on real estate. Their entire young adult lives they are saving so that they can put down that $60-80K for that 20% down payment. I am not excited about that particular prospect myself. If that is how you want it, then yes you should go buy that first house. There is merit in your approach and the more important thing anyway is how you raise money for that investment - steady saving and living below your means - but I have been a stock guy for a very long time. I like that it is a living, breathing asset - an entity that does not die or get injured. A share of stock does not get hit by a volcano in Hawaii. Does not get older or tarnished. It keeps its freshness over time. I think that is something pretty valuable.&lt;/p&gt;
 
 &lt;p&gt;As for putting my money where my mouth is, VYM is the second largest investment that I have in my portfolio. &lt;/p&gt;
 
