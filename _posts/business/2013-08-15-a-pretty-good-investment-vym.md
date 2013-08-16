@@ -49,7 +49,9 @@ It had to be an ETF to help diversify your risk and get as much of the market's 
 	<figcaption>Vanguard Group</figcaption>
 </figure>	
 
-I liked Vanguard for a few reasons. First is that they are a very large fund family. They are pretty no-nonsense and I like their philosophy of low cost indexing. Second I also like that their incentives are aligned with the investors. The other big fund families are iShares and WisdomTree. Both are publicly traded. iShares is owned by BlackRock (BLK) and WisdomTree is WETF. This is pretty cool, but it means that they are never going to be fully incentivized to deliver the lowest fees to you. Vanguard is not a publicly held company. Its shares are held by the very funds that it manages. So when you are a VYM shareholder, you not only own the shares in the ETF, but you own a bit of Vanguard too. 
+I liked Vanguard for a few reasons. First is that they are a very large fund family. They are pretty no-nonsense and I like their philosophy of low cost indexing. Second I also like that their incentives are aligned with the investors. The other big fund families are iShares and WisdomTree. Both are publicly traded. iShares is owned by BlackRock (BLK) and WisdomTree is WETF. This is pretty cool, but it means that they are never going to be fully incentivized to deliver the lowest fees to you. Vanguard is not a publicly held company. Its shares are held by the very funds that it manages. So when you are a VYM shareholder, you not only own the shares in the ETF, but you own a bit of Vanguard too.
+
+Second, the fees are really low. They are charged as a percentage of how much you own in shares. If you own $100, then 1% means that you pay $1 a year. VYM charges 0.1%, which is pretty much the lowest you can go in terms of anything other than the total stock market (which is something like 0.05%). So this means that if you own $100, then you pay 10 cents a year. That is fairly low. Better yet, the fees trend lower than higher. Every so often Vanguard cuts their fees. A few years ago it was at 0.14%.
 
 **The Portfolio is Good**
 
