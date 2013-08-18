@@ -1,188 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://jonathanstyu.github.io</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://jonathanstyu.github.io/making-sec-research-with-rubymotion</loc>
+        <loc>/review-garden-of-words</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/a-pretty-good-investment-vym</loc>
+        <loc>/making-sec-research-with-rubymotion</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/attack-on-titan-18-breakdown</loc>
+        <loc>/a-pretty-good-investment-vym</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/apple-in-2013</loc>
+        <loc>/attack-on-titan-18-breakdown</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/elysium-review</loc>
+        <loc>/apple-in-2013</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/sakurasou-pet</loc>
+        <loc>/elysium-review</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/integrating-with-craigslist</loc>
+        <loc>/sakurasou-pet</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/fleshing-out-form</loc>
+        <loc>/integrating-with-craigslist</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/near-the-end</loc>
+        <loc>/fleshing-out-form</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/tightening-up</loc>
+        <loc>/near-the-end</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/more-things</loc>
+        <loc>/tightening-up</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/creating-pp</loc>
+        <loc>/more-things</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/deploying-pp</loc>
+        <loc>/creating-pp</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/creating-pp</loc>
+        <loc>/deploying-pp</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/discussion</loc>
+        <loc>/creating-pp</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/newsreader</loc>
+        <loc>/discussion</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/backbone-101</loc>
+        <loc>/newsreader</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/picture-tagger</loc>
+        <loc>/backbone-101</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/threedo</loc>
+        <loc>/picture-tagger</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/return-of-rails</loc>
+        <loc>/threedo</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/snakey</loc>
+        <loc>/return-of-rails</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/javascript</loc>
+        <loc>/snakey</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/twodoo</loc>
+        <loc>/javascript</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/reddit-clone</loc>
+        <loc>/twodoo</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/social-thing</loc>
+        <loc>/reddit-clone</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/rails-lite3</loc>
+        <loc>/social-thing</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/rails-lite2</loc>
+        <loc>/rails-lite3</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/musictagger</loc>
+        <loc>/rails-lite2</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/99cats</loc>
+        <loc>/musictagger</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/apis</loc>
+        <loc>/99cats</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/api-introduction</loc>
+        <loc>/apis</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/metaprogramming</loc>
+        <loc>/api-introduction</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/associations</loc>
+        <loc>/metaprogramming</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/activerecord</loc>
+        <loc>/associations</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/activerecord-foundations</loc>
+        <loc>/activerecord</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/TDD</loc>
+        <loc>/activerecord-foundations</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/solo-checkers</loc>
+        <loc>/TDD</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/big-chess</loc>
+        <loc>/solo-checkers</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/yaml</loc>
+        <loc>/big-chess</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/word-chains</loc>
+        <loc>/yaml</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/DFS</loc>
+        <loc>/word-chains</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/hangman</loc>
+        <loc>/DFS</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/recursion-blocks</loc>
+        <loc>/hangman</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/tictactoe</loc>
+        <loc>/recursion-blocks</loc>
     </url>
     
     <url>
-        <loc>http://jonathanstyu.github.io/first-day</loc>
+        <loc>/tictactoe</loc>
+    </url>
+    
+    <url>
+        <loc>/first-day</loc>
     </url>
     
 </urlset>
