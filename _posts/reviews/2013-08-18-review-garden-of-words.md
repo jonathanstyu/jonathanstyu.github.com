@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Anime Review: Kotonoha no Niwa"
-description: ""
+description: "Stunningly beautiful story of two lonely people."
 tags: [anime]
 
 ---
