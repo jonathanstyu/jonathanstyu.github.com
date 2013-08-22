@@ -2,7 +2,7 @@ title:            Perfect Perusals
 tagline:          A Website.
 description:      Jonathan.
 #Comment out url when working locally to resolve base urls correctly
-# url: http://jonathanstyu.github.io
+url: http://jonathanstyu.github.io
 
 # Owner/author information
 owner:
