@@ -6,6 +6,8 @@ tags: [anime]
 
 ---
 
+*Originally posted Aug 18. Updated Aug 21*
+
 >>A faint clap of thunder, 
 
 >>Clouded skies, 
@@ -14,10 +16,9 @@ tags: [anime]
 
 >>If so, will you stay with me?
 
-Kotonoha (Garden of Words) is a beautiful flick, with a simple story, competent acting, and an ambiguous but hopeful ending. There is something fleeting in its scenery and imagery that is tough to put your finger on until long after the end credits have passed. 
+The above quote is a Japanese poem from the Manyoshu, which is a 8th century collection of over 4,500 Japanese poems. It is identified as a tanka and kind of like its more famous cousin the haiku, it is set in syllables, 5-7-7-7. This one in particular is [a dialogue poem numbered](http://books.google.com/books?id=1o41bL7QbVoC&lpg=PA58&ots=jOAFYnvsQS&dq=Manyoshu%20rain%20thunder%20stay&pg=PA58#v=onepage&q=Manyoshu%20rain%20thunder%20stay&f=false) \[XI:2513-4\]. It is featured prominently in the movie and along with the weather plays a crucial role in the plot of a beautiful, utterly beautiful movie called Kotonoha no Niwa (Garden of Words). This is a movie worth watching not for what it says, but for what it shows. There is something fleetingly, hauntingly beautiful in its scenery and imagery that is tough to put your finger on until long after the end credits have passed. I really enjoyed this particular movie and would highly recommend it to anyone who has an appreciation for what it means to be isolated and lost in a sometimes alien, fast-moving world.
 
-The above quote is a Japanese poem from the Manyoshu, which is a 8th century collection of over 4,500 Japanese poems. It is identified as a tanka and kind of like its more famous cousin the haiku, it is set in syllables, 5-7-7-7. This one in particular is [a dialogue poem numbered](http://books.google.com/books?id=1o41bL7QbVoC&lpg=PA58&ots=jOAFYnvsQS&dq=Manyoshu%20rain%20thunder%20stay&pg=PA58#v=onepage&q=Manyoshu%20rain%20thunder%20stay&f=false) \[XI:2513-4\]. It is featured prominently in the movie and along with the weather plays a crucial role in the plot. 
-
+In this review, I want to spend some of our time (both yours and mine) thinking about what this movie is trying to say to us and how what we learn from it can enrich our lives as a whole. 
 
 ### Art & Animation
 
@@ -31,7 +32,7 @@ One more for good measure. This one is one of my favorites.
 
 ![Courtesy of Tumblr](http://31.media.tumblr.com/2b0a123dd9b4a1a25d4ace9f0b8f0e8e/tumblr_mrpcyrG2761snfl86o5_500.gif)
 
-If there is one thing about how this is made, it is beauty. This flick is seriously good looking. It has this dream-like feeling to the whole thing. With such a style, there is the temptation to go too far and make the viewer fall into a stupor. However Kotonoha avoids this. The colors and quality are just too rich. When you look at this, there is instead the atmosphere of timelessness. 
+If there is one word to describe the look and feel of this entire movie, it is "beauty". This flick is seriously good looking. It has this dream-like feeling to the whole thing. With such a style, there is the temptation to go too far and make the viewer fall into a stupor. However Kotonoha avoids this. The colors and quality are just too rich. When you look at this, there is instead the atmosphere of timelessness. 
 
 ![Courtesy of Tumblr](http://24.media.tumblr.com/2b8489f2fb58223064564519046c922e/tumblr_mrh9esLg5L1steu17o1_500.gif)
 
