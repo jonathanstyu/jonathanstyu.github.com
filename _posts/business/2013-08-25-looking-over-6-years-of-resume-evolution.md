@@ -264,7 +264,7 @@ This resume was much less successful in getting callbacks for fulltime jobs. I e
 
 ### Jul 2013
 
-This is the latest iteration of my resume that is complete. I do have an iteration cooking right now in my DropBox but it is incomplete as I am unsure as to what to say about the content in the most recent job experience. 
+This is the latest iteration of my resume that is complete. I do have an iteration cooking right now in my DropBox but I am still unsure as to what to say about the content in the most recent job experience. Therefore let us take a look at the issues with this one.
 
 <feature>
 	<img src="/images/resumejul2013.png">
