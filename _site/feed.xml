@@ -3,37 +3,138 @@
 <title type="text">Perfect Perusals</title>
 <subtitle type="text">A Website.</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2013-08-25T09:42:50-07:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://jonathanstyu.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://jonathanstyu.github.io" />
+<updated>2013-08-28T17:56:07-07:00</updated>
+<id>http://jonathanstyu.github.io/</id>
 <author>
   <name>Jonathan Yu</name>
-  <uri>/</uri>
+  <uri>http://jonathanstyu.github.io/</uri>
   <email>jonathan@jonathanyu.net</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[That time I lost $12,000 in 2 months options trading]]></title>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/that-time-i-lost-12000-options-trading" />
+  <id>http://jonathanstyu.github.io/that-time-i-lost-12000-options-trading</id>
+  <published>2013-08-28T00:00:00-07:00</published>
+  <updated>2013-08-28T00:00:00-07:00</updated>
+  <author>
+    <name>Jonathan Yu</name>
+    <uri>http://jonathanstyu.github.io</uri>
+    <email>jonathan@jonathanyu.net</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;it-was-all-gone-&quot;&gt;It Was All Gone …&lt;/h3&gt;
+
+&lt;p&gt;My boss once said that I was the only person he knew who bragged about his losses more than his gains. There is nothing interesting about an investing success. You had an idea, got in at the right time, and then exited at the right time. When something goes right, then you do not spend time thinking about the process and whether or not it held up throughout the entire thing. There are many times in which the investing success could have gone wrong. Yet the only times that people - including myself - actually take the time to evaluate what happened is when what could have gone wrong actually went wrong. This is one of those cases. &lt;/p&gt;
+
+&lt;p&gt;I am looking back at my old Etrade trading records in order to help give some clarity on what happened but much of what is written is through personal memory. &lt;/p&gt;
+
+&lt;h3 id=&quot;background-what-is-an-option&quot;&gt;Background: What is an Option?&lt;/h3&gt;
+
+&lt;p&gt;An option is a type of financial derivative, and although it is a pretty fancy name the concept behind it is relatively simple to understand. It is called a derivative because it “derives” its value from the value of another financial instrument. That can be a company stock or a bond. Because the price of the financial instrument (called the “underlying”) can fluctuate from time to time, the fundamental value of the derivative can vary greatly any given second. This is different from that of a company’s stock because its fundamental value is derived partially by the condition of the company itself. That changes over a very long period of time. &lt;/p&gt;
+
+&lt;p&gt;The value of an option is very volatile because there is a double market effect on the price. Not only is the market affecting the price of the underlying financial instrument, but the market is also affecting the price of the derivative itself! There are times when a derivative can be under or overpriced by the market just like with any regular stock. The only problem is that this time frame of under or over pricing can last for a very short time because the fundamental value of the derivative changes so quickly. &lt;/p&gt;
+
+&lt;p&gt;An option is a derivative that gives people the “option” (thus the name) to purchase the underlying asset for a certain price, which financial people call the strike price. There are two types of options. There are calls, which give you the option to &lt;strong&gt;buy&lt;/strong&gt; something at the strike price and there are puts, which give you the inverse. They let you &lt;strong&gt;sell&lt;/strong&gt; something at the strike price. &lt;/p&gt;
+
+&lt;p&gt;The thing about options is that they are assets with limited life spans. The mayflies of the financial world, if you might call it at that (and I believe that I am the first). At a fixed point in the future (called the expiration date), the option runs out and the financial asset becomes worthless. Before the expiration date, the asset is worth something. After the expiration date, if the holder has not sold the asset or exercised it, the asset is worth nothing. So the closer the time gets to the expiration date, the less valuable the asset becomes. I traded weekly options, which are the options with expiration dates at the end of the week (Friday at 1 PM PST). These are the most heavily traded options and - especially with the options with the strike prices closest to the underlying’s current price - have the most volatile swings in prices. People can make relatively small bets on weeklies and then see themselves lose or gain huge amounts of money.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-beginning&quot;&gt;The Beginning&lt;/h3&gt;
+
+&lt;p&gt;It started on Twitter. I was hanging around the $AAPL tag on Twitter and noticed someone tweeting random numbers just out there. Curious, I soon realized that these were trades that he was publishing. This guy was apparently a stock option trader specializing only in Apple options trades. This makes sense because it allows him to get very good at predicting the price movements of Apple stock, which in turn allows for very successful bets using the options. Of course, at the time the only direction Apple stock traveled was up. The stock had gone from $300 to $600 starting at the beginning of 2012 and had made many people very rich. I had owned some 35 shares at the time and saw the benefits, and the huge paper gains that resulted gave me deep satisfaction during a period of time where there were few such things to be satisfied about. &lt;/p&gt;
+
+&lt;p&gt;I am a curious person and I like to try things. One of my philosophies in life is that you want to say “yes” to things. You would have a life with a much richer experience. I decided that it might make sense to go ahead and try a trade or two. A quick fling. See what might happen. Might lose a little bit of money but I am not going to risk a whole lot of money. &lt;/p&gt;
+
+&lt;p&gt;Right?&lt;/p&gt;
+
+&lt;p&gt;On July 30, 2012 I made my first Apple options trade. I watched the guy’s Twitter feed and when he posted a trade of his I went into my Etrade account and bought the same thing at a price close to what he got when he entered his trade: 2 contracts of the AAPL Aug 03’12 $585 PUT at a quoted price of $2.45 for a total invested capital of $501.51. &lt;/p&gt;
+
+&lt;p&gt;Let me show you how to interpret this particular Apple option trade. This option is a PUT, which means it gives me the option to &lt;strong&gt;sell&lt;/strong&gt; shares of Apple. It lets me sell them at the price of $585. One contract represents 100 shares, that is just how it goes. Part of the volatility in an option contract’s price comes from the fact that it is very heavily leveraged. They only quote the contract equivalent for 1 share of that 100 shares so when you trade one contract, you have to put in an amount of invested capital equal to $(100 x quoted price) so for the trade above was $2.45 x 100 for one contract. &lt;/p&gt;
+
+&lt;p&gt;When the guy then again tweeted that he had exited the trade, so did I. Not hard. The trade went well as expected and I made $77 for literally 10 minutes worth of work. That is a whole lot of moolah if you think about it. Considering that I only put in $500, this was a pretty good return, over 10%. This quick toe dip in the pool felt great and I really felt that this could be something that could add to my fortunes really quickly. &lt;/p&gt;
+
+&lt;p&gt;But I got too greedy. &lt;/p&gt;
+
+&lt;h3 id=&quot;the-crash&quot;&gt;The Crash&lt;/h3&gt;
+
+&lt;p&gt;On Aug 2, I decided that I was going to go heavy into this and if things unfold the way that it did last time then I could really put a dent into my bank account. At that time I still saw it as a fling. I would try this out for a twirl, rake in a whole lot of money and then cut the bait when the fish is still pulling. Well, I like to think that looking back upon it now. Had Aug 2 turned out well, I probably would have loved the sweet sweet money so much that no sooner than the next day would I be diving right back into the dragon’s lair. &lt;/p&gt;
+
+&lt;p&gt;I happened to have the day off from work so I had the time to trade from home, sitting up in bed waiting and watching my Twitter feed for the guy to tweet. I remember the market conditions that day. The market was down a whole lot, some 1% or something like that and even Apple - mighty Apple - was in the red. &lt;/p&gt;
+
+&lt;p&gt;He quickly did and I leapt on it in a real big way. I purchased 20 contracts of the Aug 03 ‘12 $600 PUT at $1.88 a share. With commissions, this added up to a total of about $3,785. A huge step up in investments from the previous trade. Already though as I was putting in the order, the only thought in my head was that a 20% gain from this would be a mere $800. Not nearly enough to make for a day worthy of my eventual goal of becoming a stock trading millionaire. &lt;/p&gt;
+
+&lt;p&gt;The puts gained value because the market was down that day and went down lower, taking Apple with it. The puts gained value to some $2, making me quite a bit of money. Dreams danced in my head of doing this for a living. But then quickly the winds began to turn. I suddenly found my paper gains vanishing and the price fell to $1.90. I decided that I was going to double down because I wanted to keep this going. The way that I saw it - and this became the crucial mistake - I saw the option as a stock rather than for what it actually was: A rapidly deflating object. I was collecting pennies right in front of the steam roller and eventually my pants leg was going to get caught in the roller. &lt;/p&gt;
+
+&lt;p&gt;And it did. Quickly the price fell to $1.78, giving me a bigger loss. I was now $300 in the red. This was not how it was supposed to go. Looking to finally play this bounceback, I decided to invest the biggest sum yet. 30 contracts for a total investment (ha!) of $5,400. Total invested capital of $9,000. This would be bigger than almost anything else that I owned in my portfolio. &lt;/p&gt;
+
+&lt;p&gt;It all quickly vanished faster than I could ever imagine. Within the hour, Apple began - against all rhyme and reason - to rise. This was unprecedented. Apple was probably the biggest company in the world. The market was actually getting worse minute after minute, the SP500 diving everywhere … but Apple somehow against all the factors was gaining ground. It was down $5, then $4, then $2 and then it suddenly was green. I felt green in my stomach. Because a PUT gains value when the stock price goes down, it loses value when the price goes up. Apple’s tiny salmon against the stream move had meant that the price of my puts had deflated from $1.78 per share to $1.15. Then to $1. Then to $.80. I finally sold out at 75 cents for a total loss of $7,000. In just 2 hours, I had lost the equivalent of 4 months of saving and frugal living.&lt;/p&gt;
+
+&lt;p&gt;I did not know what I had just done. It felt like I was just playing with fake money. Numbers on the screen and that the game had just went badly and any second now I could just reach out and reset the game console so that nothing gets saved to the hard drive. Unfortunately that was not the case. That $7,000 was real money and I had lost every single dollar of it. &lt;/p&gt;
+
+&lt;p&gt;I suppose I could at least count my blessings. I still had some money left from the trade, if not a whole lot of it. That could have all gone. By the next day Apple went up a big 1% and the PUT options vanished and shriveled into the wind worthless. I could have lost the whole $9,000 were it not for my own lack of self-control. But such things did not matter when you feel that your entire life has been set back. &lt;/p&gt;
+
+&lt;p&gt;The clock hit noon. Time to eat lunch. Usually I made my own lunch - something plain-cracker-tasteless and bland - to save money but I figured this time … I sort of deserved something more. I walked out and went across the street from the Sunnyvale apartment in which I was living to a cheap Chinese fast food place. I got a plate of fried rice, chow mein and sweet-and-sour pork for $7.95. I just lost seven grand. What’s another eight bucks? I got my food and sat in the corner by myself with my headphones in my ears and iPhone cradled in my palm, looking ordinary on the outside but feeling devastated on the inside. The entire place was empty except for me and I just sat there thinking long after the food had vanished into my mouth. I was thinking, thinking, thinking. &lt;/p&gt;
+
+&lt;h3 id=&quot;the-rise&quot;&gt;The Rise&lt;/h3&gt;
+
+&lt;p&gt;You ever have that feeling where you just have to do something? Like your boss says to you, “Hey this is really hard but …” and then you are suddenly just think to yourself, “Oh, bring it on.” That’s me. I drank the shitty tap water in the restaurant and then walked back to my Sunnyvale apartment. The one I found on Craigslist and was living in pretty much illegally. I sat there on the shitty bed and decided that it was time to get over myself and do something about this. I remember exactly thinking the thought, “Jesus, well, I will get that money back even if it goddamn kills me.” I was grimly determined to make this work. And when I use start using the word “grimly” in my self-conversational lingo, you (I?) know that I (you?) mean(s) business. I wanted to get that money back trading options.&lt;/p&gt;
+
+&lt;p&gt;I am pretty good at fixing my mistakes. Gives me a chance to make new ones, you see. But in light of the Aug 2nd Incident as I took to calling it, I instituted new changes in my behaviors. No doubling down. Risk only $5,000 at a time. Better to cut bait and collect gains early rather than to wait it out for bigger fish. Always be paranoid. Rules that went against the value investing rules that I had relied on for a very long time before now. &lt;/p&gt;
+
+&lt;p&gt;Luckily the market winds were in my favor. Apple was in my favor. Over the next month, Apple began the last tear that it would ever go on, and I was there with all my weekly options to take full advantage. For the next month things began to change. I traded everyday. The Aug 10 ‘12 $615 calls. Aug 18 ‘12 $635, $640 calls. Slowly but surely I began to grind my way back. It was amazing. Small gains at first. $700. It felt good but I knew it was not enough. I lost $220 in two trades. Ouch but not too bad. I gained $222 in the next one and then $1,600 in two trades after that. Those felt really really good. But still I was not done. That hole was still there and I still had to get out of it. They say that the first thing you need to do when you’re in the hole is to stop digging. I kept on shoveling and somehow found myself getting closer to the top. I was getting close to moving out. &lt;/p&gt;
+
+&lt;p&gt;I moved out of my shitty Sunnyvale apartment and grabbed a temporary rental in Burlingame. A beautiful place. I remember sitting in that beautiful place in the morning sun with this laptop (the one I am typing on right now), executing trades. That day, August 22nd (over a year ago today!), I lost $1,760 because I went to eat a pizza slice and the trade (10 contracts of the AAPL Aug 24 ‘12 $645 puts) fell out of the building but then I made back $1,200 over the course of that same day. Quick hitters that added up. I felt very good. &lt;/p&gt;
+
+&lt;p&gt;Then on Aug 31, a Friday. I closed a magnificent trade. 50 contracts of the AAPL Aug 31 $665 call. Risking $9,000 and gaining over $2,000 in a single swoop. I had made back my $7,000 and change. I do not think that I had been ever prouder of myself in my entire life for doing what essentially had come out to be nothing. I had moved out of the Burlingame apartment and was taking on a futon in a friend’s apartment living room. I traded on a shitty table that bruised my toes if I kicked against it and a cold drafty ventilation system that froze my extremities, and a crappy chair that gave me backaches. But I felt a joy indescribable. &lt;/p&gt;
+
+&lt;p&gt;I would not even say that it was all about the money, (though it certainly did not hurt). The money was just numbers on the screen. It a number on the screen on Aug 1st and it still was a number on the screen on Aug 31. What it felt for me was a vindication, a relieved lift. For the entire month I thought nothing but about the trades that I made, the trades I could make tomorrow and the rules that I established. Why did I not follow them? Why did it work? Why did it not work? I became someone unlike myself. Ignoring friends, social obligations, work obligations. I did not care about anything but those Apple weeklies. So when that final digit ticked on Aug 31, I felt like someone returning home from a long time away. Whisked away on Aug 1st. Returned home 30 days later. &lt;/p&gt;
+
+&lt;h3 id=&quot;the-bad-sequel&quot;&gt;The Bad Sequel&lt;/h3&gt;
+
+&lt;p&gt;This should be the time when I can write here that I got out of the game right then. That Jonathan got up and took his chips and then walked away with just a cool story and his dignity intact. Unfortunately I wanted to write a sequel and as we always know, the sequel is never as good. &lt;/p&gt;
+
+&lt;p&gt;Apple’s last big surge was in August of 2012. After that it rolled over to a big loss and from there it was all down hill. I am going to spare you a lot of pain and tell you what happened. I finally reached the top of the hill on a Friday and then the monday afterwards, I did a new trade on Sept 4th and lost $2,976 that day. I traded 25 contracts of the GOOG Sep 07 ‘12 $690 call and lost $1,683 on that almost instantly. Then I rode that Apple train one more time for that day - against my rules, which said that I had to cool off if I took a big loss … but I had done it before and gotten away with it, making a gain to come back to almost even - and then lost another $1,290. A single day, a huge loss. I was getting used to it. The shock was wearing away. &lt;/p&gt;
+
+&lt;p&gt;I am going to spare you what turned out to be the most monotonous sequence of days. From Sept 4th to Sept 27th, I lost $5,098. Then I stopped for the month of October. Then I picked it up against my own better judgment, losing another $900 before I finally stopped and walked away for good from it on December 12, 2012. Three months of money losing taking me to a cumulative loss of $12,000. Done in 3 months. &lt;/p&gt;
+
+&lt;p&gt;How did I feel about it the whole time during those sad two months? Mostly, I felt a numbness. All it meant to me was nothing. I got obsessed with the idea of coming back. I had done it before and I kept telling myself in my heart that I could take it back to where it was. Perhaps coming back from that $7,000 was the worst thing that could have happened to me. It put in me the wrong-headed assumption that I could do it. That I had it in me. Perhaps it is better that they snuffed it out of me. No misconceptions. Tear the bandaid off. &lt;/p&gt;
+
+&lt;h3 id=&quot;thinking-about-it&quot;&gt;Thinking About It&lt;/h3&gt;
+
+&lt;p&gt;They say that the way to create good content on a blog is to do something and then write about it. With that particular person, I believe that they were referring to writing code but I think it applies here to life experiences too. I did this. I have to own it. So I wrote about it. &lt;/p&gt;
+
+&lt;p&gt;I know that there are people out there who can do this for a living and that they are good enough to make a healthy living out of it. They might in fact even be rich from it. I am not one of those people. I realized a long time ago that I did not have the patience, mental acuity and the sheer instincts to do well from it. It is just not in my wheelhouse, and I paid a good tuition to the market for learning that particular lesson. &lt;/p&gt;
+
+&lt;p&gt;On Dec 12, 2012, I had gone into that day knowing that this would be the last day. Unlike before, this really would be it. If I do not make some good green, I would take it as a message from the gods. I almost immediately lost $679 on 10 contracts of the AAPL Dec 14 ‘12 $530 Put. The first and only trade I made on that day. I sat there at the office with my head in my hands, a headache already at 7:12 AM. And then I stopped thinking about it and I walked away. For good. I started following a procedure that has done well for me many times before: &lt;img src=&quot;http://en.wikipedia.org/wiki/Damnatio_memoriae&quot; alt=&quot;Damnatio memoriae&quot; /&gt;. Every twitter person I contacted about options advice. Gone. Every record I kept of my options trades, archived. Etrade’s emailed trade confirmations. Deleted. &lt;/p&gt;
+
+&lt;p&gt;I sometimes get the temptation to trade again. I try not to think about it. I eat peanut butter. I go take a walk. I open up my iPhone and read some articles. Or what works the best, I think about the nights I would feel when I am in bed staring at the ceiling because I cannot sleep because that morning I lost some $2,000 - $3,000 of life savings. Or being back at that Chinese food shop, with crappy chow mein in my face and the total lack of appetite. That usually does the trick. &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/that-time-i-lost-12000-options-trading&quot;&gt;That time I lost $12,000 in 2 months options trading&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Looking Over 6 Years Of Resume Evolution]]></title>
-  <link rel="alternate" type="text/html" href="/looking-over-6-years-of-resume-evolution" />
-  <id>/looking-over-6-years-of-resume-evolution</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/looking-over-6-years-of-resume-evolution" />
+  <id>http://jonathanstyu.github.io/looking-over-6-years-of-resume-evolution</id>
   <published>2013-08-25T00:00:00-07:00</published>
   <updated>2013-08-25T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
-  <content type="html">&lt;p&gt;The first resume I ever made felt so dearth of material that even at its wordiest, biggest font barely stretched to half a page. &lt;/p&gt;
+  <content type="html">&lt;p&gt;The first resume I ever made felt so dearth of material that even at its wordiest, biggest font barely stretched to half a page. God, it was ugly. &lt;/p&gt;
 
-&lt;p&gt;I have been making resumes for years now and I have tried to instantiate the same information in dozens of different ways for many different reasons. These resumes have been sent literally hundreds of times to a number of varying results. The idea has always been the same: Regardless of whether my work achievements are impressive or not, the resume presents what is there in an eye catching format with quick-hitting, well-written points so that I can stand out over the dozens upon dozens of people who send in their resumes along with mine. &lt;/p&gt;
+&lt;p&gt;I have been making resumes for years now and I have tried to instantiate the same information in dozens of different ways for many different reasons. These resumes have been sent literally hundreds of times to a number of varying results. Regardless of how the resume has looked over time, the goal has always been the same: Present what is there in an eye catching format with quick-hitting, well-written points so that I can stand out over the dozens upon dozens of people who send in their resumes along with mine.&lt;/p&gt;
 
-&lt;p&gt;This has led to some unusual choices and some weird directions in terms of both how I decided to design resume as well as the content I put on it. Some of these choices worked. Other times, they did not. &lt;/p&gt;
+&lt;p&gt;It is not an easy task and as a result, it has led to some unusual choices and some weird directions with regards of both how I decided to design said resume as well as the content I put on it. Some of these choices worked. Other times, they did not. I wanted to take the time to write a little bit (ha!) about why I made these choices, how they worked in the job applicant market, and what I would have done differently. I do not believe that my resume experience is any different from that of other college students and young professionals entering the job market. If by reading this they can help avoid some of the errors that I made then I would be quite happy. &lt;/p&gt;
 
 &lt;h3 id=&quot;may-2007&quot;&gt;May 2007&lt;/h3&gt;
 
-&lt;p&gt;I started Berkeley in 2006 and after the first year wanted to put myself out there in the work environment. By then I was wanted to major in business at Berkeley’s Haas Business School. That means you have to go out there and start getting some internships for yourself. I had never worked a job before up until then. Never did any clubs in high school. Never even worked a McDonalds job or anything like of that sort. So I had almost literally nothing on my resume. I was not sure what to do then. It is that age old chicken-and-egg problem: In order to get a job I need to get experience. But I cannot get experience without that first job! What is a kid to do? I racked my brain and eventually went with this. &lt;/p&gt;
+&lt;p&gt;I started Berkeley in 2006 and after the first year wanted to put myself out there in the work environment. By then I was wanted to major in business at Berkeley’s Haas Business School. That means you have to go out there and start getting some internships for yourself. I had never worked a job before up until then. Never did any clubs in high school. Never even worked a McDonalds job or anything like of that sort. So I had almost literally nothing on my resume. I was not sure what to do then. It is that age old chicken-and-egg problem: In order to get a job I need to get experience. But I cannot get experience without that first job! What is a kid to do? I dug as deep as I could, exercised every creative muscle, and eventually went with this. &lt;/p&gt;
 
 &lt;figure&gt;
 	&lt;img src=&quot;/images/resume2007.png&quot; /&gt;
@@ -67,17 +168,17 @@
 
 &lt;p&gt;&lt;strong&gt;Outcome&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This resume looked terrible but it got me my first unpaid internship at BTI Group, which was something like a glorified call center with a nice title. However experience was experience and after a few other more qualified people dropped out, I managed to do some time there and get some good experience as well as make some friends. &lt;/p&gt;
+&lt;p&gt;This resume looked terrible but somehow through the will of the Lord it got me my first unpaid internship at BTI Group, which was something like a glorified call center with a nice title. However experience was experience and after a few other more qualified people dropped out, I managed to do some time there and get some good experience as well as make some friends. This gave me the first crucial line item in my resume that I needed in order to be qualified for better jobs in the future. &lt;/p&gt;
 
 &lt;h3 id=&quot;nov-2007&quot;&gt;Nov 2007&lt;/h3&gt;
 
-&lt;p&gt;I was learning a little more about what makes a resume a good one. At BTI they had resume sessions and I got some good feedback in terms of what should stay and what should go. My earlier resume had been so bad that when people first looked at it they started laughing! Their feedback did help out a bunch and before long I had revised it to become more like this. &lt;/p&gt;
+&lt;p&gt;I was learning a little more about what makes a resume a good one by now as well as improving my own skills at Microsoft Word. At BTI they had resume sessions and I got some good feedback in terms of what should stay and what should go. My earlier resume had been so bad that when people first looked at it they started laughing! Their feedback did help out a bunch and before long I had revised it to look like this. &lt;/p&gt;
 
 &lt;feature&gt;
 	&lt;img src=&quot;/images/resumenov2007.png&quot; /&gt;
 &lt;/feature&gt;
 
-&lt;p&gt;There is definite improvement here. &lt;/p&gt;
+&lt;p&gt;There is definite improvement here from the previous iteration, as well as much more that can be done in order to make it yet better. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Work Experience&lt;/strong&gt;&lt;/p&gt;
 
@@ -238,7 +339,7 @@
 
 &lt;h3 id=&quot;jan-2010&quot;&gt;Jan 2010&lt;/h3&gt;
 
-&lt;p&gt;I had a great time at Hall Capital Partners and shortly after I left, I felt that the resume needed a complete overhaul underneath the hood. I wanted to apply to a whole lot of places and I found that the document’s structure interfered with that. This new update would create the layout that remains at the heart of my current resume. I would consider it the iPhone of my resume world! Hah. &lt;/p&gt;
+&lt;p&gt;I had a great time at Hall Capital Partners and shortly after I left, I felt that the resume needed a complete overhaul underneath the hood. I wanted to apply to a whole lot of places and I found that the document’s structure interfered with that. This new update would create the layout that remains at the heart of my current resume. At the cost of being cheesy (then again, I am writing a 6,000 word essay on the changes of my resume, that threshold has long been crossed), I would consider it the iPhone of my resume world! Hah. &lt;/p&gt;
 
 &lt;feature&gt;
 	&lt;img src=&quot;/images/resumejan2010.png&quot; /&gt;
@@ -272,7 +373,7 @@
 
 &lt;p&gt;&lt;strong&gt;Activity&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I remain ambivalent about the use of the Activities section here. My time at Strive_for is not very long and my role was not all that useful. I did help come up with the name but beyond that my contribution was limited. Considering that not all that many people care about your college activities once you actually get that first job I felt that the space could be better used in some other capacity. I am pretty sure that once I got that first job I dumped this. &lt;/p&gt;
+&lt;p&gt;I remain ambivalent about the use of the Activities section here. My time at strive_for was not very long and my role not all that involved. I did help come up with the name but beyond that my contribution was limited. Considering that not all that many people care about your college activities once you actually get that first job I felt that the space could be better used in some other capacity. I am pretty sure that once I got that first job I dumped this. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
 
@@ -292,11 +393,27 @@
 	&lt;img src=&quot;/images/resumenov2011.png&quot; /&gt;
 &lt;/feature&gt;
 
-&lt;p&gt;I worked off the most successful iteration of my resume, looking to simply add MORE stuff on. Because I have done so many things at so many different places and I was simply unwilling to drop them, the only way that this could accommodate was to shrink the font and go microscopic. The result is a truly full wall of text that only the most dedicated and interested would ever read through.&lt;/p&gt;
+&lt;p&gt;I worked off the most successful iteration of my resume, looking to simply add MORE stuff on. Because I have done so many things at so many different places and I was simply unwilling to drop them, the only way that this could accommodate was to shrink the font and go microscopic. The result is a truly full wall of text that only the most dedicated and interested would ever read through. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This has not changed all that much from the 2010 version. I had graduated already and wanted to indicate that I had a high GPA in a relatively competitive major. However, I felt that as soon as I had left college and entered into my first job that it might make sense to move this down below work experience. Once you are out of college, people do not really care all that much beyond your GPA, major, and the name of university you matriculated from. I should also take out the coursework section. I have never been asked in an interview - a non-technical one, anyhow - about the classes that I took while I was at university. There seems to be a tacit acknowledgement that whatever I learned there would be useless at the workplace. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Work Experience&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We got to cut down on that sheer wall of text and get something that is readable here. &lt;/p&gt;
+
+&lt;p&gt;I should say that the most recent work experience should be the one most expanded upon in a resume. I did not spend a whole lot of time at Ernst &amp;amp; Young, but leaving all that information off the page because of the “shame” that I felt at having stayed there for such a short period of time is probably a mistake. It might lead people to think that I left for reasons related to my job performance. Also, I only spent 4 months at KKR, why would I have so much detail on what I did there? &lt;/p&gt;
+
+&lt;p&gt;FMV Opinions is also really old job experience that should be cut out of the page entirely. I also would take some steps to cut out one or two of the bullet points in my Hall Capital Partners experience. Things two or three jobs ago should not take all that much space on the resume. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Outcome&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This resume was much less successful in getting callbacks for fulltime jobs. I ended up drifting for a bit before taking some freelance work with a startup in San Francisco. I had come about their attention through a crazy resume that I posted on the Berkeley jobs site. In a future post, I’ll review some of the experimental resumes and think about the design/stylistic choices that I made for them as well as the results from that work. &lt;/p&gt;
 
 &lt;h3 id=&quot;jul-2013&quot;&gt;Jul 2013&lt;/h3&gt;
 
-&lt;p&gt;This is the latest iteration of my resume that is complete. I do have an iteration cooking right now in my DropBox but it is incomplete as I am unsure as to what to say about the content in the most recent job experience. &lt;/p&gt;
+&lt;p&gt;This is the latest iteration of my resume that is complete. I do have an iteration cooking right now in my DropBox but I am still unsure as to what to say about the content in the most recent job experience. Therefore let us take a look at the issues with this one.&lt;/p&gt;
 
 &lt;feature&gt;
 	&lt;img src=&quot;/images/resumejul2013.png&quot; /&gt;
@@ -304,19 +421,61 @@
 
 &lt;p&gt;There are a few things to be said about how this looks (and they are things that I directly addressed in the new version that I am cooking up. Things are being fixed!)&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/looking-over-6-years-of-resume-evolution&quot;&gt;Looking Over 6 Years Of Resume Evolution&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
+&lt;p&gt;&lt;strong&gt;Layout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am not sure about the use of the colors here. While the use of the blue and the gray was tasteful and worked, in this case it seems almost gimmicky here. It interrupts the eye’s flow and the colors clash in an irritating way. In the next iteration, I should probably reconsidering dialing it back a little bit so that people do not get distracted by the weird colors on the page. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Work Experience&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;CareDox was a great experience, but I should word-smith this down to a few lines. Not telling a novel here. Just want to get the basics of information down. The basics were that I ran a customer acquisition campaign for six months and grew subscriptions from 30 to 300 monthly. However, after this trial period ended, I did an analysis and found that consumer pursuit will be ultimately unsustainable. Thus, I recommended a new direction and the company did that. That should not take 10 lines to say. &lt;/p&gt;
+
+&lt;p&gt;Before CareDox and after Ernst &amp;amp; Young, I spent a lot of time working as a freelance marketer for a number of different startups. Some of these gigs did not last more than a few days or weeks and often less than a month. I remain unsure about how to depict this information, which I feel is valuable to potential employers. That being said, I am aware of the problems I had in previous resumes when there was just too much information on the page. There has to be a delicate balance to be struck and to be honest, I have yet to achieve that balance. It still is pretty much up to the job listing. If I have done work before that might align with the experience or the industry, I’ll opt to include it. Luckily the document’s layout makes it easy to make these changes quickly on the go without pain. I also keep a “mother-document” that lists every position that I have worked at and lists my accomplishments there in huge detail. This means that I will not have to wrack my brain trying to remember what I did at this or that place. I just have to go back to the mother-document (or any of my older iterations) and copy that. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I had moved the Education section down to below the work experience. It is time to acknowledge that nobody cares about what school I went to. Should also consider removing the “courses” information. In speaking with employers in and outside of interviews, I never got the sense that they cared about the specific courses that I took. And I never got a callback to an analyst-type job because I took this or that particular course. It is still important information, but I feel that the real message of the resume should be on the particular work experience that I might have that aligns with what they are looking for in a candidate. &lt;/p&gt;
+
+&lt;p&gt;With this being the case, I only have about one line in the education section, which might warrant me eliminating it altogether and rolling it under the skills/interest header. This will free up yet more space and allow the resume more “room” to breathe. I had colored the “University of California, Berkeley” header in the Cal colors, but now I think people will not note it enough and instead just find it distracting. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Layout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have not sent this out into the job market, but previous iterations (modified to match the job listing) have gotten about a 50% callback ratio. This high ratio is mostly due to the fact that I sent resumes out very selectively. If I were to go back to mass-spammage, this ratio would likely fall to something in the neighborhood of 20-30%. &lt;/p&gt;
+
+&lt;p&gt;Other Notes: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;My name header’s font is different from that of the rest of the resume. Fix that&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the address header on the right, there are too many links to outside pages. I should probably look to cut those down. Three lines seems to be the most I can do in this particular setup without getting too crowded&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I always fiddle with the interests sections because it is the one that I find most important in an actual interview. People tend to touch on it during an initial phone screen. You have to be weird, quirky, and passionate about what you do without coming off as a freak &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;This post turned out to be much longer than I at first expected. I was sure that this was going to be just about 1,000 words or so. However, I had been making resumes for a long time, considering every little part of it, and I leapt at the opportunity to talk about the accumulated knowledge that I have built up. &lt;/p&gt;
+
+&lt;p&gt;I know that some people are going to roll their eyes on my talk about “breathing” and “space”, mostly because I have a limited view point on what is going on in the heads of people looking at the actual resume. I acknowledge 100% that there is a bias on my end. Much of the design choices that I talked about here in this long post come from my own viewpoints and I have design preferences that gravitate towards a clean, sparse simplicity. That being said, I am confident that my sentiments are not peculiar and being someone who has reviewed 100s of resumes, I think that even these little things can help put your resume out on the top if you find your resume just one in a sea of similar applications. &lt;/p&gt;
+
+&lt;p&gt;I skipped a lot of iterations at the end from 2010-2013, partly because I was gainfully employed during that period and I did not need the resume all that much but also partly because the resume is beyond the point where I can make improvements to the callback ratio through aesthetics and arrangement. By now it is about the experience and whether or not I am qualified for the job that they are advertising for. You can do a whole lot to the look and the feel of the resume, but in the end if you do not have the right education or work experience for the position, you would be hard pressed to assume that you’ll be hearing back any time soon.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/looking-over-6-years-of-resume-evolution&quot;&gt;Looking Over 6 Years Of Resume Evolution&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Looking Back on App Academy]]></title>
-  <link rel="alternate" type="text/html" href="/thoughts-on-app-academy" />
-  <id>/thoughts-on-app-academy</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/thoughts-on-app-academy" />
+  <id>http://jonathanstyu.github.io/thoughts-on-app-academy</id>
   <published>2013-08-22T00:00:00-07:00</published>
   <updated>2013-08-22T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;From May to July 2013, I decided to take a two month intensive course in web programming, learning the entire web stack from the front end (with JavaScript, HTML and CSS) to the back-end (with Ruby on Rails) with the sole intention of getting a job in web development. &lt;/p&gt;
@@ -411,19 +570,19 @@
 
 &lt;p&gt;Not like that the entire experience would be considered a waste of time. It certainly worked for a lot of the people in the class. I get emails almost everyday about the job search, announcing with glee when people get offers for web developer gigs. There are still a lot of people waiting for that offer, but for others it worked exactly as advertised. For the right person, it is the right thing. As for myself, I learned a lot about Rails, picked up a fascination with JavaScript and gained a lot of experience in something that I am interested in on the side. It is valuable knowledge and in the end it would be used … just not professionally. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/thoughts-on-app-academy&quot;&gt;Looking Back on App Academy&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 22, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/thoughts-on-app-academy&quot;&gt;Looking Back on App Academy&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 22, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Anime Review: Kotonoha no Niwa]]></title>
-  <link rel="alternate" type="text/html" href="/review-kotonoha-no-niwa" />
-  <id>/review-kotonoha-no-niwa</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/review-kotonoha-no-niwa" />
+  <id>http://jonathanstyu.github.io/review-kotonoha-no-niwa</id>
   <published>2013-08-18T00:00:00-07:00</published>
   <updated>2013-08-18T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Originally posted Aug 18. Updated Aug 21&lt;/em&gt;&lt;/p&gt;
@@ -530,19 +689,19 @@
 
 &lt;p&gt;I loved this short novella of a movie. You can take screencaps as desktop backgrounds and fill entire televisions with scenes from this movie. The story is sparse but beautiful. I enjoyed the imagery and not only just how beautiful the scenery looks (it makes me want to go see the actual gardens the movie takes its scenery from) but the people too. This is a great movie and I highly recommend it to anyone whether or not they consider themselves anime fans. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/review-kotonoha-no-niwa&quot;&gt;Anime Review: Kotonoha no Niwa&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/review-kotonoha-no-niwa&quot;&gt;Anime Review: Kotonoha no Niwa&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Making SEC Research with RubyMotion]]></title>
-  <link rel="alternate" type="text/html" href="/making-sec-research-with-rubymotion" />
-  <id>/making-sec-research-with-rubymotion</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/making-sec-research-with-rubymotion" />
+  <id>http://jonathanstyu.github.io/making-sec-research-with-rubymotion</id>
   <published>2013-08-16T00:00:00-07:00</published>
   <updated>2013-08-16T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -651,19 +810,19 @@
 
 &lt;p&gt;In a later post, I will write more on specific things that hung me up. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/making-sec-research-with-rubymotion&quot;&gt;Making SEC Research with RubyMotion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 16, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/making-sec-research-with-rubymotion&quot;&gt;Making SEC Research with RubyMotion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 16, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Pretty Good Investment: VYM]]></title>
-  <link rel="alternate" type="text/html" href="/a-pretty-good-investment-vym" />
-  <id>/a-pretty-good-investment-vym</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/a-pretty-good-investment-vym" />
+  <id>http://jonathanstyu.github.io/a-pretty-good-investment-vym</id>
   <published>2013-08-15T00:00:00-07:00</published>
   <updated>2013-08-15T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;When I wrote From Zero to Sixty on Hedge Funds, I deliberately kept from giving any sort of investment advice. It was not that kind of book. Investment advice is tough and most of the time it requires some sort of time stamp. It also spoils quickly. Something that sounds good when you write about it in March becomes the butt of jokes in April. But after a while, I came across something that I think is pretty interesting and when incorporated into the context of a proper investing mindset and style, would work many times out of ten. I want to write about it in this post here. &lt;/p&gt;
@@ -795,19 +954,19 @@
 
 &lt;p&gt;As for putting my money where my mouth is, VYM is the second largest investment that I have in my portfolio. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/a-pretty-good-investment-vym&quot;&gt;A Pretty Good Investment: VYM&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 15, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/a-pretty-good-investment-vym&quot;&gt;A Pretty Good Investment: VYM&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 15, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Attack on Titan Episode 18]]></title>
-  <link rel="alternate" type="text/html" href="/attack-on-titan-18-breakdown" />
-  <id>/attack-on-titan-18-breakdown</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/attack-on-titan-18-breakdown" />
+  <id>http://jonathanstyu.github.io/attack-on-titan-18-breakdown</id>
   <published>2013-08-14T00:00:00-07:00</published>
   <updated>2013-08-14T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -929,19 +1088,19 @@
 
 &lt;p&gt;Action scenes are tough to coordinate and direct. This is because action in the real world is not nicely coordinated. It is marked with craziness and chaos. The movie director’s job is to bring order to that chaos with good camerawork and expert but sparse dialogue. This simple scene in Attack on Titan has a simple premise: The female titan is chasing Eren and closing quick. However, the nuances underneath its execution demonstrate something really impressive. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/attack-on-titan-18-breakdown&quot;&gt;Attack on Titan Episode 18&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/attack-on-titan-18-breakdown&quot;&gt;Attack on Titan Episode 18&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Apple in 2013]]></title>
-  <link rel="alternate" type="text/html" href="/apple-in-2013" />
-  <id>/apple-in-2013</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/apple-in-2013" />
+  <id>http://jonathanstyu.github.io/apple-in-2013</id>
   <published>2013-08-11T00:00:00-07:00</published>
   <updated>2013-08-11T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -999,19 +1158,19 @@
 
 &lt;p&gt;I do not really have answers for the future of Apple and the iPhone. I sold my stock a long time ago so I no longer have a financial interest in the company but I still like Apple products. I write apps in RubyMotion and sell books on their iTunes Bookstore. I could suggest a few things, but I do not think that Apple will take any of those suggestions. I could suggest some sensible things, but I am not sure that the company will take up even those. It is tough to project what the company will do in the future, a negative sort of uncertainty that I think is troubling. Very troubling. It is more likely that they will do nothing and stay the course, whatever that may be in their minds. Who knows what it might be in their minds. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/apple-in-2013&quot;&gt;Apple in 2013&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 11, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/apple-in-2013&quot;&gt;Apple in 2013&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 11, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Elysium]]></title>
-  <link rel="alternate" type="text/html" href="/elysium-review" />
-  <id>/elysium-review</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/elysium-review" />
+  <id>http://jonathanstyu.github.io/elysium-review</id>
   <published>2013-08-10T00:00:00-07:00</published>
   <updated>2013-08-10T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;On Saturday I went to go see a movie called Elysium, directed by a guy named Neil Blomkamp. Do not ask me how to pronounce that, because I cannot. Wikipedia has a pretty good description of how the movie goes but here is the total plot summary. It is the 22nd century and the world is overcrowded and running out of resources. The sort of Malthusian nightmare that people have nightmares about.&lt;/p&gt;
@@ -1042,19 +1201,19 @@
 
 &lt;p&gt;The one thing that I did not enjoy was the world building that tried to do more than it could. The Med Bay is just one example, but it was the most glaring. What a device! It is the least plausible thing for me to swallow. That being said, it is a movie and a technically well made one. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/elysium-review&quot;&gt;Elysium&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/elysium-review&quot;&gt;Elysium&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Anime Review: Sakurasou no Pet na Kanojo]]></title>
-  <link rel="alternate" type="text/html" href="/sakurasou-pet" />
-  <id>/sakurasou-pet</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/sakurasou-pet" />
+  <id>http://jonathanstyu.github.io/sakurasou-pet</id>
   <published>2013-08-04T00:00:00-07:00</published>
   <updated>2013-08-04T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;Crunchyroll calls this the Pet Girl of Sakurasou, which brings up an uncomfortable imagery. For the sake of brevity, I will call this SPK. This is a highly enjoyable series based on a 10-volume set of light novels. I have not read all that much of the light novel series (the tone of which I found somewhat bizarre and a little conventional), but I found that this series did a phenomenal job of adapting the series. &lt;/p&gt;
@@ -1093,38 +1252,38 @@
 
 &lt;p&gt;This is the surprise of 2012 and worth the time to watch. Unfortunately it did not seem to be such a huge hit and this is probably the last we will see of SPK. This is eminently disappointing because the story at the heart of this series is better than much of the crap that we see dumped into the market. There are a lot of series that make first choice for recommendation but I think this is a good dark horse choice for those who want to see something different and unconventional.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/sakurasou-pet&quot;&gt;Anime Review: Sakurasou no Pet na Kanojo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 04, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/sakurasou-pet&quot;&gt;Anime Review: Sakurasou no Pet na Kanojo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 04, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Integrating With Craigslist]]></title>
-  <link rel="alternate" type="text/html" href="/integrating-with-craigslist" />
-  <id>/integrating-with-craigslist</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/integrating-with-craigslist" />
+  <id>http://jonathanstyu.github.io/integrating-with-craigslist</id>
   <published>2013-07-11T00:00:00-07:00</published>
   <updated>2013-07-11T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;creating-a-form&quot;&gt;Creating a form&lt;/h3&gt;
 
 &lt;p&gt;Rene and I had talked about one of the challenges of creating a rental form collection product would be that when it comes to marketing, there is nothing that beats Craigslist. Craigslist is the end all, be-all when it comes to marketing rentals and trying anything else would be a waste of time. So one of the challenges is that there is no Craigslist API. There is no automated way to put a listing onto Craigslist. So the only way is to do it through human effort. But while it is not possible to do this automatically, we can try to make it as easy as possible. Rene suggested that we would be able to provide HTML templates of the ads. You would pick a Craigslist List template and it would spit out the HTML that you could then just copy and paste right into the entry. This is the major challenge that I was urged to work on today.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/integrating-with-craigslist&quot;&gt;Integrating With Craigslist&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 11, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/integrating-with-craigslist&quot;&gt;Integrating With Craigslist&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 11, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Fleshing Out Form]]></title>
-  <link rel="alternate" type="text/html" href="/fleshing-out-form" />
-  <id>/fleshing-out-form</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/fleshing-out-form" />
+  <id>http://jonathanstyu.github.io/fleshing-out-form</id>
   <published>2013-07-10T00:00:00-07:00</published>
   <updated>2013-07-10T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;fleshing-out-a-powerful-client-side-form&quot;&gt;Fleshing out a Powerful Client Side Form&lt;/h3&gt;
@@ -1149,19 +1308,19 @@
   &lt;li&gt;Refactor some of the code that would simply validate for presence so that a user can eventually just pass in a number of attributes that they want the app to validate for and it would simply do that.&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/fleshing-out-form&quot;&gt;Fleshing Out Form&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/fleshing-out-form&quot;&gt;Fleshing Out Form&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Near The End]]></title>
-  <link rel="alternate" type="text/html" href="/near-the-end" />
-  <id>/near-the-end</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/near-the-end" />
+  <id>http://jonathanstyu.github.io/near-the-end</id>
   <published>2013-07-08T00:00:00-07:00</published>
   <updated>2013-07-08T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1170,19 +1329,19 @@
 
 &lt;p&gt;The core functionality of this app is going to be the collecting of a form. Simple enough, but this thing is going to be very freaking difficult because there are going to be so many different parts of the form and that they are split up between the different parts of the whole application. There are personal references, employment history, emergency contacts, rent history, and personal information. I am going to spend some time and think about how this should be executed. My thinking right now is to split this up into a whole bunch of different models that are going to be submitted together as a single thing.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/near-the-end&quot;&gt;Near The End&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/near-the-end&quot;&gt;Near The End&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Tightening Up]]></title>
-  <link rel="alternate" type="text/html" href="/tightening-up" />
-  <id>/tightening-up</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/tightening-up" />
+  <id>http://jonathanstyu.github.io/tightening-up</id>
   <published>2013-07-05T00:00:00-07:00</published>
   <updated>2013-07-05T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1193,19 +1352,19 @@
 
 &lt;p&gt;However, then came the real issue. I realized relatively later that people can comment not only on Reviews but also shelvings of books and adding of friends. What the heck? I have never seen this sort of functionality before. Does this make sense at all? Well it is there so I have to implement it. Now the way I could probably do it is just to create separate “comment” objects. That would be a dangerous way to do it and I was not excited about that. The other way is to use inheritance, namely multi table inheritance, which is something that is going to be pretty cool. The parent class would have its own table but not only that there would be children and those children have their own tables. It is awesome, but it is not standard and though it is too late to use it for PP, I would think that it would be nice to try it for my next project.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/tightening-up&quot;&gt;Tightening Up&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/tightening-up&quot;&gt;Tightening Up&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[More Things]]></title>
-  <link rel="alternate" type="text/html" href="/more-things" />
-  <id>/more-things</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/more-things" />
+  <id>http://jonathanstyu.github.io/more-things</id>
   <published>2013-07-04T00:00:00-07:00</published>
   <updated>2013-07-04T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;creating-perfect-perusals-not-this-blog&quot;&gt;Creating Perfect Perusals (Not this blog)&lt;/h3&gt;
@@ -1242,19 +1401,19 @@ I started the project on Sunday and so far I have made encouraging progress.&lt;
 
 &lt;p&gt;Book shelves is challenging and I am working on this right now as we speak. We will talk more about it tomorrow as it is going to be the thing I hit head on!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/more-things&quot;&gt;More Things&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 04, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/more-things&quot;&gt;More Things&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 04, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Creating Pp]]></title>
-  <link rel="alternate" type="text/html" href="/creating-pp" />
-  <id>/creating-pp</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/creating-pp" />
+  <id>http://jonathanstyu.github.io/creating-pp</id>
   <published>2013-07-03T00:00:00-07:00</published>
   <updated>2013-07-03T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1279,19 +1438,19 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Deploying Pp]]></title>
-  <link rel="alternate" type="text/html" href="/deploying-pp" />
-  <id>/deploying-pp</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/deploying-pp" />
+  <id>http://jonathanstyu.github.io/deploying-pp</id>
   <published>2013-07-02T00:00:00-07:00</published>
   <updated>2013-07-02T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1316,19 +1475,19 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/deploying-pp&quot;&gt;Deploying Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 02, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/deploying-pp&quot;&gt;Deploying Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 02, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Creating Pp]]></title>
-  <link rel="alternate" type="text/html" href="/creating-pp" />
-  <id>/creating-pp</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/creating-pp" />
+  <id>http://jonathanstyu.github.io/creating-pp</id>
   <published>2013-07-01T00:00:00-07:00</published>
   <updated>2013-07-01T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1353,19 +1512,19 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 01, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 01, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Discussion]]></title>
-  <link rel="alternate" type="text/html" href="/discussion" />
-  <id>/discussion</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/discussion" />
+  <id>http://jonathanstyu.github.io/discussion</id>
   <published>2013-06-28T00:00:00-07:00</published>
   <updated>2013-06-28T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;talking-with-ned&quot;&gt;Talking with Ned&lt;/h3&gt;
@@ -1374,19 +1533,19 @@ What I want to Work On Friday:&lt;/p&gt;
 
 &lt;p&gt;The project that we were to build is a clone of Gist, which is something that I am not particularly familiar with. The thing that was challenging about this project was not that it was built in Backbone on Rails, of which the big picture I am pretty comfortable with, but it is about the little details of the project. Little things that made me greatly appreciate the job that Paul has when he decides on whether or not to create particular parts of the product. I am still working at it as we speak and hope to get more done when I get home tonight.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/discussion&quot;&gt;Discussion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on June 28, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/discussion&quot;&gt;Discussion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 28, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Newsreader]]></title>
-  <link rel="alternate" type="text/html" href="/newsreader" />
-  <id>/newsreader</id>
+  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/newsreader" />
+  <id>http://jonathanstyu.github.io/newsreader</id>
   <published>2013-06-27T00:00:00-07:00</published>
   <updated>2013-06-27T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri></uri>
+    <uri>http://jonathanstyu.github.io</uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;news-reader&quot;&gt;News Reader&lt;/h3&gt;
@@ -1405,32 +1564,7 @@ What I want to Work On Friday:&lt;/p&gt;
 
 &lt;p&gt;Creating products like this is pretty satisfying. There is still much to do in terms of the front end but I feel like creating things like static sidebars.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;/newsreader&quot;&gt;Newsreader&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on June 27, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Backbone 101]]></title>
-  <link rel="alternate" type="text/html" href="/backbone-101" />
-  <id>/backbone-101</id>
-  <published>2013-06-26T00:00:00-07:00</published>
-  <updated>2013-06-26T00:00:00-07:00</updated>
-  <author>
-    <name>Jonathan Yu</name>
-    <uri></uri>
-    <email>jonathan@jonathanyu.net</email>
-  </author>
-  <content type="html">&lt;h3 id=&quot;backbone-101&quot;&gt;Backbone 101&lt;/h3&gt;
-
-&lt;p&gt;Today, we worked for the first time on backbone. It was the first time that we were allowed to use many the next and structures that backbone provides us as developers. The interesting thing is that much of the things that we learned in the few past days applied greatly to what we were doing today. I will have to get more into what this is all about and if it seems like I am being unclear it is not because I am trying to be obtruse but because I just do not understand it fully yet on my own.&lt;/p&gt;
-
-&lt;p&gt;I think the first thing that I managed to grasp what’s the concept of models and collections. When you are thinking about what is a collection what is a model, it is not something that you see in Rails. Rails there are just models. Collections to me seemed quite unusual. But, as I continue to work with them and struggled with updating the collections and seeing them used to great effect in displaying overall information, I quickly realized that collections are powerful part of the front and development process.&lt;/p&gt;
-
-&lt;p&gt;One of the interesting things that I have not seen before in our previous few days were the Backbone routers. A router is kind of like the one in rails, but the difference is that they handle the front end. There is a sort of divide between the URL that is “real” and the URL that is part of the JavaScript, which is marked with a #.&lt;/p&gt;
-
-&lt;p&gt;I think it is interesting to see how these parts work together in order to create a working app. However it has been giving me plenty of headaches. It has been tough enough to make Rails itself work fine and dandy. Now I gotta make fine and dandy on the front end too!?! Agh!&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/backbone-101&quot;&gt;Backbone 101&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on June 26, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/newsreader&quot;&gt;Newsreader&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
