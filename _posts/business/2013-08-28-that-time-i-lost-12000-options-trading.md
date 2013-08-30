@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "That time I lost $12,000 in 2 months options trading"
+title: "That time I lost $12,000 options trading"
 description: "A self examination of an expensive personal failure"
 tags: [investing, business, personal]
 
