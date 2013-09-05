@@ -3,26 +3,83 @@
 <title type="text">Perfect Perusals</title>
 <subtitle type="text">A Website.</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://jonathanstyu.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://jonathanstyu.github.io" />
-<updated>2013-08-28T17:56:07-07:00</updated>
-<id>http://jonathanstyu.github.io/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2013-09-04T17:37:56-07:00</updated>
+<id>/</id>
 <author>
   <name>Jonathan Yu</name>
-  <uri>http://jonathanstyu.github.io/</uri>
+  <uri>/</uri>
   <email>jonathan@jonathanyu.net</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[That time I lost $12,000 in 2 months options trading]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/that-time-i-lost-12000-options-trading" />
-  <id>http://jonathanstyu.github.io/that-time-i-lost-12000-options-trading</id>
+  <title type="html"><![CDATA[Some Thoughtful 'Quotes']]></title>
+  <link rel="alternate" type="text/html" href="/some-thoughtful-quotes" />
+  <id>/some-thoughtful-quotes</id>
+  <published>2013-09-04T00:00:00-07:00</published>
+  <updated>2013-09-04T00:00:00-07:00</updated>
+  <author>
+    <name>Jonathan Yu</name>
+    <uri></uri>
+    <email>jonathan@jonathanyu.net</email>
+  </author>
+  <content type="html">&lt;p&gt;I am in the middle of writing a big long book this week. And by “big long book” I mean not that very long and by “writing” I mean “just sitting around reading Wikipedia articles and thinking”. I felt myself getting way too caught up in all of the world building so I decided to take some time to re-address this blog and write something. &lt;/p&gt;
+
+&lt;p&gt;I want to write a little bit about a few quotes that I like. “Quote” is a very loose word. Some of these can be attributed. Some others cannot. Some of them I think are just things that I just &lt;em&gt;sensed&lt;/em&gt; that the writer might have said. &lt;/p&gt;
+
+&lt;h3 id=&quot;david-foster-wallace---kenyon-college&quot;&gt;David Foster Wallace - Kenyon College&lt;/h3&gt;
+
+&lt;p&gt;There should be an entire section dedicated to this &lt;a href=&quot;http://web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html&quot;&gt;one speech that he gave to Kenyon College&lt;/a&gt;. There is something about this speech that I really took to. I was never a fan of his writing, to be honest. I did not like Infinite Jest. I kind of enjoyed the one he wrote about cruises. I did enjoy his &lt;a href=&quot;http://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster&quot;&gt;“Consider the Lobster”&lt;/a&gt;, which was the best article that I have ever read about a food that I cannot eat. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Worship your intellect, being seen as smart, you will end up feeling stupid, a fraud, always on the verge of being found out. But the insidious thing about these forms of worship is not that they’re evil or sinful, it’s that they’re unconscious. They are default settings.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There in fact is. Here are two more: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;The really important kind of freedom involves attention and awareness and discipline, and being able truly to care about other people and to sacrifice for them over and over in myriad petty, unsexy ways every day.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And … &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;simple awareness; awareness of what is so real and essential, so hidden in plain sight all around us, all the time, that we have to keep reminding ourselves over and over:&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“This is water.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“This is water.”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/some-thoughtful-quotes&quot;&gt;Some Thoughtful 'Quotes'&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on September 04, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[That time I lost $12,000 options trading]]></title>
+  <link rel="alternate" type="text/html" href="/that-time-i-lost-12000-options-trading" />
+  <id>/that-time-i-lost-12000-options-trading</id>
   <published>2013-08-28T00:00:00-07:00</published>
   <updated>2013-08-28T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;it-was-all-gone-&quot;&gt;It Was All Gone …&lt;/h3&gt;
@@ -111,19 +168,19 @@
 
 &lt;p&gt;I sometimes get the temptation to trade again. I try not to think about it. I eat peanut butter. I go take a walk. I open up my iPhone and read some articles. Or what works the best, I think about the nights I would feel when I am in bed staring at the ceiling because I cannot sleep because that morning I lost some $2,000 - $3,000 of life savings. Or being back at that Chinese food shop, with crappy chow mein in my face and the total lack of appetite. That usually does the trick. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/that-time-i-lost-12000-options-trading&quot;&gt;That time I lost $12,000 in 2 months options trading&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/that-time-i-lost-12000-options-trading&quot;&gt;That time I lost $12,000 options trading&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 28, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Looking Over 6 Years Of Resume Evolution]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/looking-over-6-years-of-resume-evolution" />
-  <id>http://jonathanstyu.github.io/looking-over-6-years-of-resume-evolution</id>
+  <link rel="alternate" type="text/html" href="/looking-over-6-years-of-resume-evolution" />
+  <id>/looking-over-6-years-of-resume-evolution</id>
   <published>2013-08-25T00:00:00-07:00</published>
   <updated>2013-08-25T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;The first resume I ever made felt so dearth of material that even at its wordiest, biggest font barely stretched to half a page. God, it was ugly. &lt;/p&gt;
@@ -463,19 +520,19 @@
 
 &lt;p&gt;I skipped a lot of iterations at the end from 2010-2013, partly because I was gainfully employed during that period and I did not need the resume all that much but also partly because the resume is beyond the point where I can make improvements to the callback ratio through aesthetics and arrangement. By now it is about the experience and whether or not I am qualified for the job that they are advertising for. You can do a whole lot to the look and the feel of the resume, but in the end if you do not have the right education or work experience for the position, you would be hard pressed to assume that you’ll be hearing back any time soon.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/looking-over-6-years-of-resume-evolution&quot;&gt;Looking Over 6 Years Of Resume Evolution&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/looking-over-6-years-of-resume-evolution&quot;&gt;Looking Over 6 Years Of Resume Evolution&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Looking Back on App Academy]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/thoughts-on-app-academy" />
-  <id>http://jonathanstyu.github.io/thoughts-on-app-academy</id>
+  <link rel="alternate" type="text/html" href="/thoughts-on-app-academy" />
+  <id>/thoughts-on-app-academy</id>
   <published>2013-08-22T00:00:00-07:00</published>
   <updated>2013-08-22T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;From May to July 2013, I decided to take a two month intensive course in web programming, learning the entire web stack from the front end (with JavaScript, HTML and CSS) to the back-end (with Ruby on Rails) with the sole intention of getting a job in web development. &lt;/p&gt;
@@ -570,19 +627,19 @@
 
 &lt;p&gt;Not like that the entire experience would be considered a waste of time. It certainly worked for a lot of the people in the class. I get emails almost everyday about the job search, announcing with glee when people get offers for web developer gigs. There are still a lot of people waiting for that offer, but for others it worked exactly as advertised. For the right person, it is the right thing. As for myself, I learned a lot about Rails, picked up a fascination with JavaScript and gained a lot of experience in something that I am interested in on the side. It is valuable knowledge and in the end it would be used … just not professionally. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/thoughts-on-app-academy&quot;&gt;Looking Back on App Academy&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 22, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/thoughts-on-app-academy&quot;&gt;Looking Back on App Academy&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 22, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Anime Review: Kotonoha no Niwa]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/review-kotonoha-no-niwa" />
-  <id>http://jonathanstyu.github.io/review-kotonoha-no-niwa</id>
+  <link rel="alternate" type="text/html" href="/review-kotonoha-no-niwa" />
+  <id>/review-kotonoha-no-niwa</id>
   <published>2013-08-18T00:00:00-07:00</published>
   <updated>2013-08-18T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Originally posted Aug 18. Updated Aug 21&lt;/em&gt;&lt;/p&gt;
@@ -689,19 +746,19 @@
 
 &lt;p&gt;I loved this short novella of a movie. You can take screencaps as desktop backgrounds and fill entire televisions with scenes from this movie. The story is sparse but beautiful. I enjoyed the imagery and not only just how beautiful the scenery looks (it makes me want to go see the actual gardens the movie takes its scenery from) but the people too. This is a great movie and I highly recommend it to anyone whether or not they consider themselves anime fans. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/review-kotonoha-no-niwa&quot;&gt;Anime Review: Kotonoha no Niwa&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/review-kotonoha-no-niwa&quot;&gt;Anime Review: Kotonoha no Niwa&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Making SEC Research with RubyMotion]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/making-sec-research-with-rubymotion" />
-  <id>http://jonathanstyu.github.io/making-sec-research-with-rubymotion</id>
+  <link rel="alternate" type="text/html" href="/making-sec-research-with-rubymotion" />
+  <id>/making-sec-research-with-rubymotion</id>
   <published>2013-08-16T00:00:00-07:00</published>
   <updated>2013-08-16T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -810,19 +867,19 @@
 
 &lt;p&gt;In a later post, I will write more on specific things that hung me up. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/making-sec-research-with-rubymotion&quot;&gt;Making SEC Research with RubyMotion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 16, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/making-sec-research-with-rubymotion&quot;&gt;Making SEC Research with RubyMotion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 16, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Pretty Good Investment: VYM]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/a-pretty-good-investment-vym" />
-  <id>http://jonathanstyu.github.io/a-pretty-good-investment-vym</id>
+  <link rel="alternate" type="text/html" href="/a-pretty-good-investment-vym" />
+  <id>/a-pretty-good-investment-vym</id>
   <published>2013-08-15T00:00:00-07:00</published>
   <updated>2013-08-15T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;When I wrote From Zero to Sixty on Hedge Funds, I deliberately kept from giving any sort of investment advice. It was not that kind of book. Investment advice is tough and most of the time it requires some sort of time stamp. It also spoils quickly. Something that sounds good when you write about it in March becomes the butt of jokes in April. But after a while, I came across something that I think is pretty interesting and when incorporated into the context of a proper investing mindset and style, would work many times out of ten. I want to write about it in this post here. &lt;/p&gt;
@@ -954,19 +1011,19 @@
 
 &lt;p&gt;As for putting my money where my mouth is, VYM is the second largest investment that I have in my portfolio. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/a-pretty-good-investment-vym&quot;&gt;A Pretty Good Investment: VYM&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 15, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/a-pretty-good-investment-vym&quot;&gt;A Pretty Good Investment: VYM&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 15, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Attack on Titan Episode 18]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/attack-on-titan-18-breakdown" />
-  <id>http://jonathanstyu.github.io/attack-on-titan-18-breakdown</id>
+  <link rel="alternate" type="text/html" href="/attack-on-titan-18-breakdown" />
+  <id>/attack-on-titan-18-breakdown</id>
   <published>2013-08-14T00:00:00-07:00</published>
   <updated>2013-08-14T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -1088,19 +1145,19 @@
 
 &lt;p&gt;Action scenes are tough to coordinate and direct. This is because action in the real world is not nicely coordinated. It is marked with craziness and chaos. The movie director’s job is to bring order to that chaos with good camerawork and expert but sparse dialogue. This simple scene in Attack on Titan has a simple premise: The female titan is chasing Eren and closing quick. However, the nuances underneath its execution demonstrate something really impressive. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/attack-on-titan-18-breakdown&quot;&gt;Attack on Titan Episode 18&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/attack-on-titan-18-breakdown&quot;&gt;Attack on Titan Episode 18&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Apple in 2013]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/apple-in-2013" />
-  <id>http://jonathanstyu.github.io/apple-in-2013</id>
+  <link rel="alternate" type="text/html" href="/apple-in-2013" />
+  <id>/apple-in-2013</id>
   <published>2013-08-11T00:00:00-07:00</published>
   <updated>2013-08-11T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -1158,19 +1215,19 @@
 
 &lt;p&gt;I do not really have answers for the future of Apple and the iPhone. I sold my stock a long time ago so I no longer have a financial interest in the company but I still like Apple products. I write apps in RubyMotion and sell books on their iTunes Bookstore. I could suggest a few things, but I do not think that Apple will take any of those suggestions. I could suggest some sensible things, but I am not sure that the company will take up even those. It is tough to project what the company will do in the future, a negative sort of uncertainty that I think is troubling. Very troubling. It is more likely that they will do nothing and stay the course, whatever that may be in their minds. Who knows what it might be in their minds. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/apple-in-2013&quot;&gt;Apple in 2013&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 11, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/apple-in-2013&quot;&gt;Apple in 2013&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 11, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Elysium]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/elysium-review" />
-  <id>http://jonathanstyu.github.io/elysium-review</id>
+  <link rel="alternate" type="text/html" href="/elysium-review" />
+  <id>/elysium-review</id>
   <published>2013-08-10T00:00:00-07:00</published>
   <updated>2013-08-10T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;On Saturday I went to go see a movie called Elysium, directed by a guy named Neil Blomkamp. Do not ask me how to pronounce that, because I cannot. Wikipedia has a pretty good description of how the movie goes but here is the total plot summary. It is the 22nd century and the world is overcrowded and running out of resources. The sort of Malthusian nightmare that people have nightmares about.&lt;/p&gt;
@@ -1201,19 +1258,19 @@
 
 &lt;p&gt;The one thing that I did not enjoy was the world building that tried to do more than it could. The Med Bay is just one example, but it was the most glaring. What a device! It is the least plausible thing for me to swallow. That being said, it is a movie and a technically well made one. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/elysium-review&quot;&gt;Elysium&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/elysium-review&quot;&gt;Elysium&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Anime Review: Sakurasou no Pet na Kanojo]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/sakurasou-pet" />
-  <id>http://jonathanstyu.github.io/sakurasou-pet</id>
+  <link rel="alternate" type="text/html" href="/sakurasou-pet" />
+  <id>/sakurasou-pet</id>
   <published>2013-08-04T00:00:00-07:00</published>
   <updated>2013-08-04T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;p&gt;Crunchyroll calls this the Pet Girl of Sakurasou, which brings up an uncomfortable imagery. For the sake of brevity, I will call this SPK. This is a highly enjoyable series based on a 10-volume set of light novels. I have not read all that much of the light novel series (the tone of which I found somewhat bizarre and a little conventional), but I found that this series did a phenomenal job of adapting the series. &lt;/p&gt;
@@ -1252,38 +1309,38 @@
 
 &lt;p&gt;This is the surprise of 2012 and worth the time to watch. Unfortunately it did not seem to be such a huge hit and this is probably the last we will see of SPK. This is eminently disappointing because the story at the heart of this series is better than much of the crap that we see dumped into the market. There are a lot of series that make first choice for recommendation but I think this is a good dark horse choice for those who want to see something different and unconventional.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/sakurasou-pet&quot;&gt;Anime Review: Sakurasou no Pet na Kanojo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on August 04, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/sakurasou-pet&quot;&gt;Anime Review: Sakurasou no Pet na Kanojo&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on August 04, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Integrating With Craigslist]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/integrating-with-craigslist" />
-  <id>http://jonathanstyu.github.io/integrating-with-craigslist</id>
+  <link rel="alternate" type="text/html" href="/integrating-with-craigslist" />
+  <id>/integrating-with-craigslist</id>
   <published>2013-07-11T00:00:00-07:00</published>
   <updated>2013-07-11T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;creating-a-form&quot;&gt;Creating a form&lt;/h3&gt;
 
 &lt;p&gt;Rene and I had talked about one of the challenges of creating a rental form collection product would be that when it comes to marketing, there is nothing that beats Craigslist. Craigslist is the end all, be-all when it comes to marketing rentals and trying anything else would be a waste of time. So one of the challenges is that there is no Craigslist API. There is no automated way to put a listing onto Craigslist. So the only way is to do it through human effort. But while it is not possible to do this automatically, we can try to make it as easy as possible. Rene suggested that we would be able to provide HTML templates of the ads. You would pick a Craigslist List template and it would spit out the HTML that you could then just copy and paste right into the entry. This is the major challenge that I was urged to work on today.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/integrating-with-craigslist&quot;&gt;Integrating With Craigslist&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 11, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/integrating-with-craigslist&quot;&gt;Integrating With Craigslist&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 11, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Fleshing Out Form]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/fleshing-out-form" />
-  <id>http://jonathanstyu.github.io/fleshing-out-form</id>
+  <link rel="alternate" type="text/html" href="/fleshing-out-form" />
+  <id>/fleshing-out-form</id>
   <published>2013-07-10T00:00:00-07:00</published>
   <updated>2013-07-10T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;fleshing-out-a-powerful-client-side-form&quot;&gt;Fleshing out a Powerful Client Side Form&lt;/h3&gt;
@@ -1308,19 +1365,19 @@
   &lt;li&gt;Refactor some of the code that would simply validate for presence so that a user can eventually just pass in a number of attributes that they want the app to validate for and it would simply do that.&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/fleshing-out-form&quot;&gt;Fleshing Out Form&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 10, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/fleshing-out-form&quot;&gt;Fleshing Out Form&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 10, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Near The End]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/near-the-end" />
-  <id>http://jonathanstyu.github.io/near-the-end</id>
+  <link rel="alternate" type="text/html" href="/near-the-end" />
+  <id>/near-the-end</id>
   <published>2013-07-08T00:00:00-07:00</published>
   <updated>2013-07-08T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1329,19 +1386,19 @@
 
 &lt;p&gt;The core functionality of this app is going to be the collecting of a form. Simple enough, but this thing is going to be very freaking difficult because there are going to be so many different parts of the form and that they are split up between the different parts of the whole application. There are personal references, employment history, emergency contacts, rent history, and personal information. I am going to spend some time and think about how this should be executed. My thinking right now is to split this up into a whole bunch of different models that are going to be submitted together as a single thing.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/near-the-end&quot;&gt;Near The End&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/near-the-end&quot;&gt;Near The End&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Tightening Up]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/tightening-up" />
-  <id>http://jonathanstyu.github.io/tightening-up</id>
+  <link rel="alternate" type="text/html" href="/tightening-up" />
+  <id>/tightening-up</id>
   <published>2013-07-05T00:00:00-07:00</published>
   <updated>2013-07-05T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1352,19 +1409,19 @@
 
 &lt;p&gt;However, then came the real issue. I realized relatively later that people can comment not only on Reviews but also shelvings of books and adding of friends. What the heck? I have never seen this sort of functionality before. Does this make sense at all? Well it is there so I have to implement it. Now the way I could probably do it is just to create separate “comment” objects. That would be a dangerous way to do it and I was not excited about that. The other way is to use inheritance, namely multi table inheritance, which is something that is going to be pretty cool. The parent class would have its own table but not only that there would be children and those children have their own tables. It is awesome, but it is not standard and though it is too late to use it for PP, I would think that it would be nice to try it for my next project.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/tightening-up&quot;&gt;Tightening Up&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/tightening-up&quot;&gt;Tightening Up&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[More Things]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/more-things" />
-  <id>http://jonathanstyu.github.io/more-things</id>
+  <link rel="alternate" type="text/html" href="/more-things" />
+  <id>/more-things</id>
   <published>2013-07-04T00:00:00-07:00</published>
   <updated>2013-07-04T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;creating-perfect-perusals-not-this-blog&quot;&gt;Creating Perfect Perusals (Not this blog)&lt;/h3&gt;
@@ -1401,19 +1458,19 @@ I started the project on Sunday and so far I have made encouraging progress.&lt;
 
 &lt;p&gt;Book shelves is challenging and I am working on this right now as we speak. We will talk more about it tomorrow as it is going to be the thing I hit head on!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/more-things&quot;&gt;More Things&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 04, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/more-things&quot;&gt;More Things&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 04, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Creating Pp]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/creating-pp" />
-  <id>http://jonathanstyu.github.io/creating-pp</id>
+  <link rel="alternate" type="text/html" href="/creating-pp" />
+  <id>/creating-pp</id>
   <published>2013-07-03T00:00:00-07:00</published>
   <updated>2013-07-03T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1438,19 +1495,19 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Deploying Pp]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/deploying-pp" />
-  <id>http://jonathanstyu.github.io/deploying-pp</id>
+  <link rel="alternate" type="text/html" href="/deploying-pp" />
+  <id>/deploying-pp</id>
   <published>2013-07-02T00:00:00-07:00</published>
   <updated>2013-07-02T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1475,19 +1532,19 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/deploying-pp&quot;&gt;Deploying Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 02, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/deploying-pp&quot;&gt;Deploying Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 02, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Creating Pp]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/creating-pp" />
-  <id>http://jonathanstyu.github.io/creating-pp</id>
+  <link rel="alternate" type="text/html" href="/creating-pp" />
+  <id>/creating-pp</id>
   <published>2013-07-01T00:00:00-07:00</published>
   <updated>2013-07-01T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;final-projects&quot;&gt;Final Projects&lt;/h3&gt;
@@ -1512,19 +1569,19 @@ What I want to Work On Friday:&lt;/p&gt;
   &lt;li&gt;More stats?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on July 01, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/creating-pp&quot;&gt;Creating Pp&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on July 01, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Discussion]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/discussion" />
-  <id>http://jonathanstyu.github.io/discussion</id>
+  <link rel="alternate" type="text/html" href="/discussion" />
+  <id>/discussion</id>
   <published>2013-06-28T00:00:00-07:00</published>
   <updated>2013-06-28T00:00:00-07:00</updated>
   <author>
     <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
+    <uri></uri>
     <email>jonathan@jonathanyu.net</email>
   </author>
   <content type="html">&lt;h3 id=&quot;talking-with-ned&quot;&gt;Talking with Ned&lt;/h3&gt;
@@ -1533,38 +1590,7 @@ What I want to Work On Friday:&lt;/p&gt;
 
 &lt;p&gt;The project that we were to build is a clone of Gist, which is something that I am not particularly familiar with. The thing that was challenging about this project was not that it was built in Backbone on Rails, of which the big picture I am pretty comfortable with, but it is about the little details of the project. Little things that made me greatly appreciate the job that Paul has when he decides on whether or not to create particular parts of the product. I am still working at it as we speak and hope to get more done when I get home tonight.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/discussion&quot;&gt;Discussion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 28, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Newsreader]]></title>
-  <link rel="alternate" type="text/html" href="http://jonathanstyu.github.io/newsreader" />
-  <id>http://jonathanstyu.github.io/newsreader</id>
-  <published>2013-06-27T00:00:00-07:00</published>
-  <updated>2013-06-27T00:00:00-07:00</updated>
-  <author>
-    <name>Jonathan Yu</name>
-    <uri>http://jonathanstyu.github.io</uri>
-    <email>jonathan@jonathanyu.net</email>
-  </author>
-  <content type="html">&lt;h3 id=&quot;news-reader&quot;&gt;News Reader&lt;/h3&gt;
-
-&lt;p&gt;Today is a solo project and it is the first Rails and Backbone app that I have built yet that features some internet connectivity and interactivity … even if the instructors wrote that and not me. The goal of this news reader is to exercise much of the skills that we first developed yesterday when we embarked on our Backbone journey. There is a lot to do in terms of what we need to do. The main goal is to understand how to instantiate entries and feeds and handle the two of them simultaneously without really rendering some of the associations that Rails models have. In fact, Backbone models do not have all that many capabilities to handle associations.&lt;/p&gt;
-
-&lt;p&gt;The demo came out to us having all of its API already fleshed out but I did take some time to sit down and implement some things like users and subscribed feeds. It took about an hour but now someone can sign up a la Instapaper (without a password) and then see their subscribed feeds on their index page. Back to the app. The idea behind this product is that it would use a gem to call a URL and pull down a number of items from a feed. It would then wrap those items into an Entry ruby class and assign them the feed key. So then you could then call up the Feed as a Rails object and see all of the subordinate entries underneath that item. The first challenge I found was that when I tried to call the “reload” method - which is the method you need to invoke - that it did not work. It sputtered out and did not create any Entries. I was very curious and it ended up that the method did not work because it did not properly prepare and wrap the URL before making the RSS call. It also did not properly assign the foreign_key of the instance of the Feed.&lt;/p&gt;
-
-&lt;p&gt;After that I managed to set up the Backbone framework with the Backbone on Rails gem. After a few days of making folders and such and being confused about what went where in the system, the gem made things incredibly easy. I was real excited to see it all put together and Backbone pop up an alert to say “hello” when I navigated to the page.&lt;/p&gt;
-
-&lt;p&gt;One of the challenges of making the feeds index page is to keep track of where the Router is instantiated, and where the models are and where they are available to the individual portions of the application. I instantiated a collection of feeds, called them from the Rails backend (I had the Rails backend handle all the trouble of identifying the current user and such) with “fetch”, and then passed them to the FeedIndex view. The first big bug that I came across was that the app was not seeing “JST” on the IndexView Backbone page, which means that it could not see the template. I had no idea what that meant. Darn Javascript errors being so lenient! I spent so much time trying to figure out what went wrong. Eventually it turned out that the error was not even on the View page! It was in the template with the embedded javascript. I had accidentally left an “=” in the code of a each loop and the result was that it tried to embed a piece of code that had nothing to embed. The result was a spectactular failure and a few less hairs on my head.&lt;/p&gt;
-
-&lt;p&gt;The big thing that I was concerned about how was to handle the Entries and the Feeds. We did not have much relational knowledge and were not allowed to use it. The way we got around it was in the end that I would have the Rails back end reload all the feeds, create the Entries, pack them up and ship them as part of the association with the as_json(include: ) method. I instantiated a view for the entry Backbone model and then put that together. I overrode the parse method in the Feed model and had it create out of the associated entries a collection of Entry Backbone objects. That way I could then pass that into the View which would then capably handle that and create a page out of it. I then stitched together the rendered HTML from both views and shipped that out of the Backbone JS.&lt;/p&gt;
-
-&lt;p&gt;I also added a static sidebar. Yesterday it was challenging to do that because the window kept vanishing on me. I was like huh every time. As it turns out the reason this was happening was because there was just one view and it was handling both of the two DIVs on the page. Creating two views and assigning one of them to exclusively handle the sidebar solved the issue.&lt;/p&gt;
-
-&lt;p&gt;Creating products like this is pretty satisfying. There is still much to do in terms of the front end but I feel like creating things like static sidebars.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://jonathanstyu.github.io/newsreader&quot;&gt;Newsreader&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;http://jonathanstyu.github.io&quot;&gt;Perfect Perusals&lt;/a&gt; on June 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/discussion&quot;&gt;Discussion&lt;/a&gt; was originally published by Jonathan Yu at &lt;a href=&quot;&quot;&gt;Perfect Perusals&lt;/a&gt; on June 28, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
