@@ -25,26 +25,24 @@ It was March 29th and I had been working on an essential part of the app, the vi
 
 When you are building an menu like this, I learned that it is possible to create and place elements on the screen without the WYSIWYG interface of the storyboard/XIB. Programmatically placing these would be generating them with code elements and placing them using code. It is generally more flexible but really slow and frustrating work.
 
-```
-@player_viewer = UITableView.new
-@player_viewer.frame = CGRect.make(x: 0, y: 0, width: view.bounds.width, height: view.bounds.height)
-@player_viewer.delegate = @player_viewer.dataSource = self
-@player_viewer.backgroundColor = 0xecf0f1.uicolor
-@player_viewer.separatorColor = 0x7f8c8d.uicolor
-@player_viewer.rowHeight = 75
-```
+    @player_viewer = UITableView.new
+    @player_viewer.frame = CGRect.make(x: 0, y: 0, width: view.bounds.width, height: view.bounds.height)
+    @player_viewer.delegate = @player_viewer.dataSource = self
+    @player_viewer.backgroundColor = 0xecf0f1.uicolor
+    @player_viewer.separatorColor = 0x7f8c8d.uicolor
+    @player_viewer.rowHeight = 75
+
 
 The code sample above demonstrates how one might initiate and place a UITableView programmatically. You can see how it might result in a lot of repetitive code that is tedious and difficult to review. Considering how long it took, I decided to opt for an alternative solution, listed below. 
 
 In the RubyMotion app JumpShot 1, I initiated the GamePadViewController (the piece of code that would handle all the logic and views of the game pad as it was called) by calling on a XIB file, which is sort of like a PSD but for XCode. It would have the visual representation of what the screen would look like. I would then wire up the different elements by calling the [viewwithtag](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/#//apple_ref/occ/instm/UIView/viewWithTag:) function, which would essentially "target" it in the code. 
 
-```
-@team1_label = view.viewWithTag 4
-@team1_label.text = "#{tally_points(1)}"
+
+    @team1_label = view.viewWithTag 4
+    @team1_label.text = "#{tally_points(1)}"
     
-@team2_label = view.viewWithTag 5
-@team2_label.text = "#{tally_points(2)}"
-```
+    @team2_label = view.viewWithTag 5
+    @team2_label.text = "#{tally_points(2)}"
 
 Again, JumpShot 1 is a RubyMotion app so this piece of code is written in Ruby and not in Objective-C or Swift. Once the variable has been targeted successfully with the viewWithTag function, we can then manipulate it as we wish programmatically within the ViewController. 
 
@@ -154,12 +152,10 @@ Continuing on the bounds thesis, I decided that I may go and manipulate somethin
 
 I opened up my laptop and then moved up to the part of the file where the UIView was being initialized in the code. That is when I saw it. 
 
-```
-self.team1View = UILabel()
-self.team1View.frame = CGRectMake(0, yOrigin + self.scoreBarView.frame.size.height, self.view.frame.width / 2.0, visibleHeight / 3.0)
-self.team1View.backgroundColor = UIColor.lightGrayColor()
-self.view.addSubview(self.team1View)
-```
+    self.team1View = UILabel()
+    self.team1View.frame = CGRectMake(0, yOrigin + self.scoreBarView.frame.size.height, self.view.frame.width / 2.0, visibleHeight / 3.0)
+    self.team1View.backgroundColor = UIColor.lightGrayColor()
+    self.view.addSubview(self.team1View)
 
 Can you see it? The very first line, the one that says "self.team1view" was being *initialized as a UILabel* instead of what it is supposed to be - a UIView. The amazing thing is that I only saw it when I had to go and manipulate that exact line. It was literally invisible to me until that moment. I immediately changed the line (and its corresponding sibling self.team2View) and got the right result. Tapped fine and everything. 
 
