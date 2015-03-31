@@ -19,13 +19,13 @@ Some background, I have been working on an update to the JumpShot basketball sta
 It was March 29th and I had been working on an essential part of the app, the visual score and stat tracking view that would be used to record the stats of players in games. This was the most important part of the app in my opinion because it is what people will see. I also intended it to be the main marketing image for the app. So to be short, it is goddamn important.
 
 <figure>
-	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/jumpshotmenu.png' style='width: 800px'>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/jumpshotmenu.png' style='width: 400px'>
 	<figcaption>What the Score Menu in Jumpshot 1 looks like</figcaption>
 </figure>	
 
 When you are building an menu like this, I learned that it is possible to create and place elements on the screen without the WYSIWYG interface of the storyboard/XIB. Programmatically placing these would be generating them with code elements and placing them using code. It is generally more flexible but really slow and frustrating work.
 
-```ruby
+```
 @player_viewer = UITableView.new
 @player_viewer.frame = CGRect.make(x: 0, y: 0, width: view.bounds.width, height: view.bounds.height)
 @player_viewer.delegate = @player_viewer.dataSource = self
@@ -38,7 +38,7 @@ The code sample above demonstrates how one might initiate and place a UITableVie
 
 In the RubyMotion app JumpShot 1, I initiated the GamePadViewController (the piece of code that would handle all the logic and views of the game pad as it was called) by calling on a XIB file, which is sort of like a PSD but for XCode. It would have the visual representation of what the screen would look like. I would then wire up the different elements by calling the [viewwithtag](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/#//apple_ref/occ/instm/UIView/viewWithTag:) function, which would essentially "target" it in the code. 
 
-```ruby
+```
 @team1_label = view.viewWithTag 4
 @team1_label.text = "#{tally_points(1)}"
     
@@ -51,7 +51,7 @@ Again, JumpShot 1 is a RubyMotion app so this piece of code is written in Ruby a
 I tried to repeat the trick again for JumpShot 2. I had just struggled through programmatically creating all those UI elements on the other viewcontrollers - the ones that handled the creation of a player or a game. This seemed like an easy short cut way to get to a striking visual design. However what I quickly found was that what worked in RubyMotion did not always work as well when it came to Swift and XCode. The NIB file failed many times to initiate and when I began switching between the different devices - iPhone 6, 6+, or 5S - I saw horrendous errors related to autolayouts and constraints. What was worst was that at some point after all that jiggering the whole shmuck decided to crap out on me and do some sort of ridiculousness like what you see below: 
 
 <figure>
-	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/wtfgamepad.png' style='width: 800px'>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/wtfgamepad.png' style='width: 400px'>
 	<figcaption>To quote my sister when she reads through her IRA docs, 'WTF IS THIS?!'</figcaption>
 </figure>	
 
@@ -64,7 +64,7 @@ I was programmatically generating a skeleton of the GamePadView - which would ge
 I had implemented an interesting For Loop that would programmatically add the buttons within a specific UIView as a Subview that would contain the buttons. Problem though was that when I ran the code in the iOS simulator I didn't see anything.
 
 <figure>
-	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/errorview.png' style='width: 800px'>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/errorview.png' style='width: 400px'>
 	<figcaption>Yeah it's ugly but I'll fix it in Post</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ The player names are supposed to go in the grey and yellow areas as Buttons. Why
 Puzzling still was what I went into the debugger hierarchy provided by Xcode, I could see the buttons just fine. 
 
 <figure>
-	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/debuggerhierarchymystery.png' style='width: 800px'>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/debuggerhierarchymystery.png' style='width: 400px'>
 	<figcaption>The Mystery Deepens ...</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ I came across [this article](http://stackoverflow.com/questions/10444212/uiview-
 At this point I began playing with the properties of the UIView parent view. I switched their background color to transparent and saw that the buttons did exist underneath them. It just seemed like the parent view was blocking them, preventing them from being seen or touched. 
 
 <figure>
-	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/interestingsubview.png' style='width: 800px'>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/interestingsubview.png' style='width: 400px'>
 	<figcaption>The Mystery Deepens Yet Further ...</figcaption>
 </figure>
 
@@ -164,7 +164,7 @@ self.view.addSubview(self.team1View)
 Can you see it? The very first line, the one that says "self.team1view" was being *initialized as a UILabel* instead of what it is supposed to be - a UIView. The amazing thing is that I only saw it when I had to go and manipulate that exact line. It was literally invisible to me until that moment. I immediately changed the line (and its corresponding sibling self.team2View) and got the right result. Tapped fine and everything. 
 
 <figure>
-	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/completegamepad.png' style='width: 800px'>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/completegamepad.png' style='width: 400px'>
 	<figcaption>Too Tired To Even Care</figcaption>
 </figure>
 
