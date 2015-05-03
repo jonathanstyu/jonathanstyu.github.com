@@ -27,7 +27,7 @@ The issue itself had a number of interesting stories, but first some ads.
 ### Native Advertising, man, It's the Future
 
 <figure>
-	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/NG-Ad2.jpg' style='width: 400px'>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/NG-Ad-2.jpg' style='width: 400px'>
 	<figcaption>Facebook Ads, circa 1941</figcaption>
 </figure>	
 
