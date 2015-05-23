@@ -33,7 +33,7 @@ To add to the mystery, I have seen trash cans full of trash and dirty (ah a bit 
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-nighttrash.jpg' style='width: 400px'>
-	<figcaption>The Only Trash Can In Taiwan</figcaption>
+	<figcaption>The Only Trash Can In Taiwan ... at Night</figcaption>
 </figure>
 
 **4) It was 4 days before I saw my first homeless person in Taiwan. It was 4 minutes before I saw my first homeless in SF.**
@@ -64,7 +64,7 @@ And while you can come across a building like the super modern Taipei 101, you c
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-station.jpg' style='width: 400px'>
-	<figcaption>The Old and New</figcaption>
+	<figcaption>Just The Old</figcaption>
 </figure>
 
 A stunning sight that is just around the block from a huge, modern office park. 
@@ -132,9 +132,7 @@ I think there is just special about a great cafe shop, a place that you can come
 
 **13) The country offers stunningly beautiful sights.**
 
-One of the best trips that I enjoyed was when I wanted to visit the Houtong Cat village. So apparently this little village which used to be built on coal mining ran out of coal. After noticing that they had a lot of stray cats around, they re-branded themselves as a village for people to visit and pet cats. 
-
-First of all, the place is situated in a valley of unspeakable beauty: 
+One of the best trips that I enjoyed was when I wanted to visit the Houtong Cat village. So apparently this little village which used to be built on coal mining ran out of coal. After noticing that they had a lot of stray cats around, they re-branded themselves as a village for people to visit and pet cats. The place is situated in a valley of unspeakable beauty. 
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-countryside.jpg' style='width: 400px'>
@@ -156,7 +154,7 @@ One thing that I wish I brought though was the iPad AC power adapter because the
 
 **3) AirBnB is truly, really something special.**
 
-I stayed at a hotel and an Airbnb and while both experiences were great, i think the Airbnb was significantly cheaper. (Though there was a mosquito bug bite problem that I had.)
+I stayed at a hotel and an Airbnb and while both experiences were great, I think the Airbnb was significantly cheaper. (Though there was a mosquito bug bite problem that I had.) It was easy to get to the room and the guy who managed it left me a few instructions and then went on his merry little way. No hassle. 
 
 **4) Pointing is not a way to order food.**
 
@@ -186,7 +184,16 @@ That is basically my criteria for eating at some place. Yelp game here is pretty
 	<figcaption>Line? Check. Don't speak English? Check. Okay let's eat here.</figcaption>
 </figure>
 
+I walked an hour and a half through the sweltering humidity to find this one place that just opened and has some great Taiwanese breakfasts ... only to find the line being longer than the line to Heaven. 
+
+<figure>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-longassline.jpg' style='width: 400px'>
+	<figcaption>Don't you guys have jobs to do?</figcaption>
+</figure>
+
 **8) Jet lag sucks.** 
+
+Enough said. 
 
 ### Conclusion: Other Rando Things I Think I Think
 
