@@ -116,7 +116,7 @@ I grew up eating Yoshinoya and I never believed it when people said that Yoshino
 
 **12) You never know when you come across something wonderful.**
 
-I had felt myself in the mood for a coffee shop and was walking down an alleyway when suddenly I looked to my left and I suddenly saw this beautiful looking modern cafe. 
+I had felt myself in the mood for a coffee shop and was looking for a cafe that a friend had recommended to me and so there I was walking down an alleyway when suddenly I looked to my left and I suddenly saw this beautiful looking modern cafe. 
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-coffeeshop.jpg' style='width: 400px'>
