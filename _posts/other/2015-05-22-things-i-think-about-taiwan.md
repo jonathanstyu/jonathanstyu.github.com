@@ -216,7 +216,29 @@ Enough said.
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-brand.jpg' style='width: 400px'>
 </figure>
 
-**4) Preview of my cat village post**
+**4) This sandwich went all in on bread and never went back.**
+
+<figure>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-sandwich.jpg' style='width: 400px'>
+</figure>
+
+These sandwiches (which cost 25 cents) are super popular in Taiwan as breakfasts.
+
+**5) The waitress at this restaurant literally tried to stop me from buying this many xiao long bao.**
+
+<figure>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-toomany.jpg' style='width: 400px'>
+</figure>
+
+I still ate 3 baskets worth.
+
+**6) I literally ate here only because their menu had pictures.**
+
+<figure>
+	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-shop.jpg' style='width: 400px'>
+</figure>
+
+**7) And to leave you ... a photo preview of my cat village post**
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-catsign.jpg' style='width: 400px'>
