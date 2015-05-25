@@ -91,7 +91,7 @@ It is in literal ruins so I would not recommend you go in there. The cats seem t
 	<figcaption>Side of the building ruins.</figcaption>
 </figure>
 
-While I appreciate the hard life that the coal miners had back then, it is not what people are coming out here for. Still, it is worth looking at and pondering over, the terrible working conditions of our ancestors.
+While I appreciate the hard life that the coal miners had back then, it is not what people are coming out here for. Still, it is worth looking at and pondering over. Come for the kitties, stay for the crippling modern-day guilt for our ancestors.
 
 ### The Village Terraces
 
