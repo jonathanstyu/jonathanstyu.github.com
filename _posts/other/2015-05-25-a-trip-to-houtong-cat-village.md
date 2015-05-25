@@ -131,7 +131,7 @@ I tried to cross over and snap a few pictures but it appears to be a totally nor
 
 ### The Cats
 
-Of course I should say something about the cats. They are absolutely adorable and tame. As I mention, you start seeing cats the second you pass through the train gates and into the village proper. 
+Of course I should say something about the cats. They are absolutely adorable and tame. As I mentioned, you start seeing cats the second you pass through the train gates and into the village proper. 
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-htcat-01.jpg' style='width: 400px'>
@@ -171,7 +171,7 @@ Maybe it is because I arrived at the time of day that I did (when the sun was at
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-htcat-07.jpg' style='width: 400px'>
-  <figcaption>Don't let your eyes deceive. She isn't fat. Just fluffy! I know. I poof'ed her stomach.</figcaption>
+  <figcaption>Don't let your eyes deceive. She isn't fat, just fluffy! I know. I poof'ed her stomach.</figcaption>
 </figure>
 
 <figure>
@@ -200,7 +200,7 @@ The cats are very comfortable around you and good thing too because the tourists
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-htcat-17.jpg' style='width: 400px'>
-  <figcaption>And of course, they don't mind it if you try to pet them.</figcaption>
+  <figcaption>They don't mind it if you try to pet them.</figcaption>
 </figure>
 
 Despite the heat, there still are some absolutely beautiful cats that did a fine job of mugging for the camera. I loved this photo below with its stunning background view. The un-cropped version has a much broader view of the valley terrace behind. Where in America can you get a shot like this?
@@ -209,21 +209,21 @@ Despite the heat, there still are some absolutely beautiful cats that did a fine
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-htcat-11.jpg' style='width: 400px'>
 </figure>
 
-The eyes on the one below are piercing into my very soul. I actually have like a dozen images of this particular cat, just trying to get its attention and look at me. Caught it in a briefest of moments. 
+The eyes on the one below are piercing into my very soul. I actually have like a dozen images of this particular cat, just trying to get its attention and look at me. Caught it for a briefest of moments. 
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-htcat-13.jpg' style='width: 400px'>
   <figcaption>This is my iPhone home screen photo.</figcaption>
 </figure>
 
-There is no need to try to feed these cats. They are already more than well-fed. There seems to be bowls of food laying around all over the village and the cats just run over to eat whenever they get hungry. 
+There is no need to try to feed these cats so don't bother bringing any. They are already more than well-fed. There seems to be bowls of food laying around all over the village and the cats just run over to eat whenever they get hungry. 
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-htcat-14.jpg' style='width: 400px'>
   <figcaption>I know what you are thinking. It's cat food. Not a turd.</figcaption>
 </figure>
 
-The cats have gotten into every part of the village. I did my best to photograph each one wherever I may have found them but sometimes they manage to find themselves in the most inaccessible ledges, corners, and crevices. They seem to think it a game and regard you with a perhaps-curious pique that you managed to find them. 
+The cats have gotten into every part of the village. I did my best to photograph each one wherever I may have found them but sometimes they manage to find themselves in the most inaccessible ledges, corners, and crevices. They seem to think it a game and regard you with a curious pique when you manage to invade their hidey-holes.
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/tw-htcat-16.jpg' style='width: 400px'>
@@ -250,7 +250,7 @@ And for our final shot, let's put some tongue into it.
 
 There is a regular train that brings you back from the village about every 15-20 minutes. For a place out in the sticks, this is great. Imagine if you had to take the BART from Walnut Creek where the train comes once every 45 minutes! You would have to ride with a whole bunch of high school youths though, I warn you. 
 
-All in all, I took 341 photos of Houtong Cat Village. If you would like to page through them the raw, unedited data dump, here's the [link to the Flickr album](https://www.flickr.com/gp/94337541@N08/x58s35).
+All in all, I took 341 photos in Houtong Cat Village. If you would like to page through the raw, unedited data dump, here's the [link to the Flickr album](https://www.flickr.com/gp/94337541@N08/x58s35).
 
 Below is the last photograph I have of Houtong Cat Village. I came for the cats but loved it for the beautiful sights as well as the calm and peaceful life the people seem to live there. I hope to come back someday (with better sweat-resistant clothing). 
 
