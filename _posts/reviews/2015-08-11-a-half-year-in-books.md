@@ -24,7 +24,7 @@ I didn't really expect anything about this book coming into it. It was a recomme
 
 One thing I especially enjoyed is the most ridiculous history of its main character. The below quoted passage comes from a section that discusses the main character's father. 
 
-<iframe src="https://books.google.com/books?id=-u5uAwAAQBAJ&lpg=PP1&dq=lock%20in&pg=PA80&output=embed" width=500 height=500></iframe>
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=-u5uAwAAQBAJ&lpg=PP1&dq=lock%20in&pg=PA80&output=embed" width="500" height="500"></iframe>
 
 **[Becoming Steve Jobs](https://www.goodreads.com/book/show/23395719-becoming-steve-jobs)**
 
@@ -50,7 +50,7 @@ I have to recommend the audiobook if you want to read this. The performer is rea
 
 This comes from a book that I read about the sport of ultra deep diving, called [Deep](https://www.goodreads.com/book/show/18222705-deep). 
 
-<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=eYi9AwAAQBAJ&lpg=PP1&dq=deep%20james%20nestor&pg=PA38&output=embed" width=500 height=500></iframe>
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=eYi9AwAAQBAJ&lpg=PP1&dq=deep%20james%20nestor&pg=PA38&output=embed" width="500" height="500"></iframe>
 
 From then on, I have made it a habit of mine to do these random breathing exercises to try to intake as much air as I can in one single breath. 
 
@@ -58,7 +58,7 @@ From then on, I have made it a habit of mine to do these random breathing exerci
 
 I restarted a special book that I put aside a few years ago, [the Tiger](https://www.goodreads.com/book/show/7624594-the-tiger). I truly utterly enjoyed this thrilling book and appreciated the reverence with which it treats its main protagonist - the Amur tiger. The below passage is so rich with imagery that it makes your stomach hurt. 
 
-<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=lR6rlkBuIGAC&lpg=PP1&dq=the%20tiger&pg=PA25&output=embed" width=500 height=500></iframe>
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=lR6rlkBuIGAC&lpg=PP1&dq=the%20tiger&pg=PA25&output=embed" width="500" height="500"></iframe>
 
 Nobody who reads that will ever see tigers the same way again. 
 
@@ -66,6 +66,6 @@ Nobody who reads that will ever see tigers the same way again.
 
 In general I enjoyed [China Rich Girlfriend](https://www.goodreads.com/book/show/22674105-china-rich-girlfriend) for what it was - trashy fiction - but I will deny that the writing got extremely painful at times. Check out this passage below describing a shopping foray in France. 
 
-<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=uNiWBAAAQBAJ&lpg=PP1&dq=china%20rich%20girlfriend&pg=PT283&output=embed" width=500 height=500></iframe>
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=uNiWBAAAQBAJ&lpg=PP1&dq=china%20rich%20girlfriend&pg=PT283&output=embed" width="500" height="500"></iframe>
 
 Say what you will about the content of the Goldfinch - the style in which its non-events were written in never dipped below a most premium quality. 
