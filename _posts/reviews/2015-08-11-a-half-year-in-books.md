@@ -38,7 +38,7 @@ One of the big resolutions that I have this year is to stop putting things, peop
 
 Hands down this is the most challenging book I have read this year. In fact multiple years. It was recommended to me by my friend Jenny. She noted that it was an advanced level book - not for the types who are starting out in Buddhism.
 
-I read it and she was right. This is nothing like, "Breath in and breath out" sort of stuff. Adyashanti discusses concepts like seeking Truth with a capital T, focusing on present goals, and seeming contradictions that I spent many times reading and re-reading. It is a short book but one you will be reading for a very long time. I recommend it. 
+I read it and she was right. This is nothing like, "Breath in and breath out and meditate" sort of stuff. Adyashanti discusses concepts like seeking Truth with a capital T, focusing on present goals, and seeming contradictions that I spent many times reading and re-reading. It is a short book but one you will be reading for a very long time. I recommend it. 
 
 **[The Goldfinch](https://www.goodreads.com/book/show/17333223-the-goldfinch)**
 
@@ -56,7 +56,7 @@ From then on, I have made it a habit of mine to do these random breathing exerci
 
 ### The Most Majestic Passage of 1H2015
 
-I restarted a special book that I put aside a few years ago, [the Tiger](https://www.goodreads.com/book/show/7624594-the-tiger). I truly utterly enjoyed this thrilling book and appreciated the reverence with which it treats its main protagonist - the Amur tiger. The below passage is so rich with imagery that it makes your stomach hurt. 
+I restarted a special book that I put aside a few years ago, [the Tiger](https://www.goodreads.com/book/show/7624594-the-tiger). I truly utterly enjoyed this thrilling book and appreciated the reverence with which it treats its main protagonist - the Amur tiger. The below passage is so marble-y rich with imagery that it makes your stomach hurt. 
 
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=lR6rlkBuIGAC&lpg=PP1&dq=the%20tiger&pg=PA25&output=embed" width="500" height="500"></iframe>
 
@@ -64,7 +64,7 @@ Nobody who reads that will ever see tigers the same way again.
 
 ### Most Eye-Rolling Passage of 1st Half 2015
 
-In general I enjoyed [China Rich Girlfriend](https://www.goodreads.com/book/show/22674105-china-rich-girlfriend) for what it was - trashy fiction - but I will deny that the writing got extremely painful at times. Check out this passage below describing a shopping foray in France. 
+In general I enjoyed [China Rich Girlfriend](https://www.goodreads.com/book/show/22674105-china-rich-girlfriend) for what it was - trashy fiction - but I will not deny that the writing got extremely painful at times. Check out this passage below describing a shopping foray in France. 
 
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=uNiWBAAAQBAJ&lpg=PP1&dq=china%20rich%20girlfriend&pg=PT283&output=embed" width="500" height="500"></iframe>
 
@@ -82,7 +82,7 @@ Said to be the most creative novel of the year, I am excited to start this one. 
 
 **[Oil and Gas Production in Nontechnical Language](https://www.goodreads.com/book/show/766743.Oil_Gas_Production_in_Nontechnical_Language)**
 
-There is not a lot of information out there about oil drilling - something that I want to know more about. I am excited to understand more about this mysterious but super technologically advanced field. 
+There is not a lot of information out there about oil drilling - something that I want to know more about. I am excited to understand more about this mysterious but technologically advanced field. 
 
 ---
 
