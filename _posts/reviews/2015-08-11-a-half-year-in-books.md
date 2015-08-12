@@ -24,7 +24,7 @@ I didn't really expect anything about this book coming into it. It was a recomme
 
 One thing I especially enjoyed is the most ridiculous history of its main character. The below quoted passage comes from a section that discusses the main character's father. 
 
-<iframe frameborder="0" scrolling="no" style="border:0px" src=\"https://books.google.com/books?id=-u5uAwAAQBAJ&lpg=PP1&dq=lock%20in&pg=PA80&output=embed" width=500 height=500></iframe>
+<iframe src="https://books.google.com/books?id=-u5uAwAAQBAJ&lpg=PP1&dq=lock%20in&pg=PA80&output=embed" width=500 height=500></iframe>
 
 **[Becoming Steve Jobs](https://www.goodreads.com/book/show/23395719-becoming-steve-jobs)**
 
