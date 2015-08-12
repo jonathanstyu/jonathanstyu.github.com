@@ -69,3 +69,21 @@ In general I enjoyed [China Rich Girlfriend](https://www.goodreads.com/book/show
 <iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=uNiWBAAAQBAJ&lpg=PP1&dq=china%20rich%20girlfriend&pg=PT283&output=embed" width="500" height="500"></iframe>
 
 Say what you will about the content of the Goldfinch - the style in which its non-events were written in never dipped below a most premium quality. 
+
+### A Preview of 2nd Half 2015
+
+**[The People in the Trees](https://www.goodreads.com/book/show/16126596-the-people-in-the-trees)**
+
+Its summary reads like some sort of island adventure book but the reviews hint at something darker. I am reading this right now. Relative ethicism seems to be the theme of this one. 
+
+**[The Book of Numbers](https://www.goodreads.com/book/show/23308445-book-of-numbers)**
+
+Said to be the most creative novel of the year, I am excited to start this one. It is also about Silicon Valley and I am from that world. 
+
+**[Oil and Gas Production in Nontechnical Language](https://www.goodreads.com/book/show/766743.Oil_Gas_Production_in_Nontechnical_Language)**
+
+There is not a lot of information out there about oil drilling - something that I want to know more about. I am excited to understand more about this mysterious but super technologically advanced field. 
+
+---
+
+If you come across anything that you found particularly rewarding to read, let me know. I would love to hear from you.
