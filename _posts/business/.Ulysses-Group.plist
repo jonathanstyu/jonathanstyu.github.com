@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2013-08-11-apple-in-2013.md</string>
+		</array>
+		<array>
+			<string>2013-08-15-a-pretty-good-investment-vym.md</string>
+		</array>
+		<array>
+			<string>2013-08-25-looking-over-6-years-of-resume-evolution.md</string>
+		</array>
+		<array>
+			<string>2013-08-28-that-time-i-lost-12000-options-trading.md</string>
+		</array>
+		<array>
+			<string>2015-03-01-creating-a-technical-resume.md</string>
+		</array>
+		<array>
+			<string>2015-03-03-lets-talk-about-money-part-1.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

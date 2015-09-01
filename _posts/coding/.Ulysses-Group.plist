@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2013-08-16-making-sec-research-with-rubymotion.md</string>
+		</array>
+		<array>
+			<string>2013-08-22-thoughts-on-app-academy.md</string>
+		</array>
+		<array>
+			<string>2014-08-02-achieving-data-persistence-in-rubymotion-and-xcode.md</string>
+		</array>
+		<array>
+			<string>2014-10-16-sifting-and-sorting-560000-emails-without-excel.md</string>
+		</array>
+		<array>
+			<string>2014-12-14-Building-a-FB-Ads-Dashboard-with-Rails.md</string>
+		</array>
+		<array>
+			<string>2015-03-31-the-anatomy-of-a-stupid-4-hour-ios-app-bug.md</string>
+		</array>
+		<array>
+			<string>2015-06-07-introducing-jumpshot-1-5.md</string>
+		</array>
+		<array>
+			<string>2015-08-16-introducing-hakkerjobs.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

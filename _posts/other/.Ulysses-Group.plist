@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2013-09-11-three-things-about-people.md</string>
+		</array>
+		<array>
+			<string>2013-09-4-some-thoughtful-quotes.md</string>
+		</array>
+		<array>
+			<string>2015-03-11-lasik.md</string>
+		</array>
+		<array>
+			<string>2015-03-25-the-five-year-plan.md</string>
+		</array>
+		<array>
+			<string>2015-05-02-the-national-geographic-1941.md</string>
+		</array>
+		<array>
+			<string>2015-05-13-2-years-of-blogging.md</string>
+		</array>
+		<array>
+			<string>2015-07-05-the-thing-everyone-has-in-common.md</string>
+		</array>
+		<array>
+			<string>2015-07-19-whats-on-my-iphone-screen.md</string>
+		</array>
+		<array>
+			<string>2015-08-05-job-cliche-cartoons-with-animals-in-them.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

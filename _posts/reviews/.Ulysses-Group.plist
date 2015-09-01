@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2013-08-04-sakurasou-pet.md</string>
+		</array>
+		<array>
+			<string>2013-08-10-elysium-review.md</string>
+		</array>
+		<array>
+			<string>2013-08-14-attack-on-titan-18-breakdown.md</string>
+		</array>
+		<array>
+			<string>2013-08-18-review-kotonoha-no-niwa.md</string>
+		</array>
+		<array>
+			<string>2015-04-05-review-becoming-steve-jobs.md</string>
+		</array>
+		<array>
+			<string>2015-06-22-things-i-think-about-inside-out.md</string>
+		</array>
+		<array>
+			<string>2015-08-11-a-half-year-in-books.md</string>
+		</array>
+		<array>
+			<string>2015-08-30-9-articles-to-move-you.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
