@@ -6,9 +6,9 @@ tags: [coding, iOS]
 
 ---
 
-I launched JumpShot 2 on July 13, 2015 but just when it was hitting the App Store, I was already thinking about the next app that I should make. This would be the fourth app that I would make and the second that would tap into an online API. I needed an idea and this one came to me while I was browsing the monthly automated thread: "Who is Hiring?" Hackernews. I found myself irritated that it was not all that easy to read the content that came out of it. It is a web thread, yes, but at the same time it has a lot of valuable information inside. But it is all about in a mumbo jumbo and not that easy to work with, not to mention read. I wanted at least a better way to read all those listings. 
+I launched [JumpShot 2](https://itunes.apple.com/us/app/jumpshot-2-basketball-stat/id1018699409) on July 13, 2015 but just when it was hitting the App Store, I was already thinking about the next app that I should make. This would be the fourth app that I would make and the second that would tap into an online API. I needed an idea and this one came to me while I was browsing the monthly automated thread: "Who is Hiring?" Hackernews. I found myself irritated that it was not all that easy to read the content that came out of it. It is a web thread, yes, but at the same time it has a lot of valuable information inside. But it is all about in a mumbo jumbo and not that easy to work with, not to mention read. I wanted at least a better way to read all those listings. 
 
-One month later, I am introducing to you HakkerJobs, a Hackernews client specifically for finding jobs. A few days ago I submitted it to the App Store. Who knows if it gets approved, but I wanted to sit and reflect a bit on the effort that went into making it and what I have learned. 
+One month later, I am introducing to you [HakkerJobs](https://itunes.apple.com/us/app/hakkerjobs-hackernews-client/id1028168255), a Hackernews client specifically for finding jobs. A few days ago I submitted it to the App Store. Who knows if it gets approved, but I wanted to sit and reflect a bit on the effort that went into making it and what I have learned. 
 
 <figure>
 	<img src='https://raw.githubusercontent.com/jonathanstyu/jonathanstyu.github.com/master/images/HJ-Preview.gif' style='width: 400px'>
