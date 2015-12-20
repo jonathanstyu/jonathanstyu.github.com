@@ -1,0 +1,27 @@
+---
+layout: post-no-feature
+title: "For Yourself and Not For Others"
+description: "Working for Ourselves"
+tags: [business, finances, life, work]
+
+---
+
+Recently I have been thinking about working hard and who we work for when we work really really hard. I didn't really write this post with a message to deliver. I just wanted to put into words conflicting thoughts that have been going back and forth in my head. During one of my long trips home on the train, I was thinking about how hard some people work at their job. They are salaried, so it doesn't matter how many hours they spend at their work but they come in as early as 7AM and work deep into the night. When you glance back at their workstation and they are there and not in some sort of meeting, they're 100% focused on the task at hand. No distractions. No chatting. No deviation from the goal - which they visualize in their own heads. 
+
+I wonder why they work so hard. My father works hard because he knows no other way - he has always been a man with a brutal work ethic. I know some other people who work hard because they feel that the work that they do reflects on who they are and how they want to be perceived - and they want to be perceived as a person who puts out good work and can be relied upon. I know other people who work hard because they are competitive - hard work is the way that you get ahead in a tough tough environment. Others work hard because they know that their work will make a visible, notable impact on the world proper - their contribution to a lasting legacy. Some other people work for money - but that's not interesting at all. 
+
+When I do a self-examination, I find that I err more on the second reason - it makes me feel good when I sense that people like the work that I do. I like feeling needed. The last thing that I ever want to do for people is let them down. 
+
+I am currently in the process of winding down at my current job two and a half years after joining. There has been a lot of effort and strain put into my time there - and perhaps someday in the future I'll be willing to write about it - but when I look back at what I have done there, I feel pride in the inherent value the work provided, but feel more glowered when I reflect on how that work has affected the people who I worked with at the time. For me, I do the work that I do because I do it for people I care for. When you lose the latter, I don't see the point of going on the same way. 
+
+Now that I realize that shortly I am going to be released into the real world like an asteroid gone awry, I reflect that this reason to work hard is going to go away. The effort, blood, sweat and tears that I am going to dedicate myself to is not going for the sake of someone else working alongside me, but for my own self. When that seems to be the case, I wonder if I will be able to push myself in the same way, with the same drive and focus, with the same depth of detail and pursuit of knowledge. 
+
+I probably won't. I don't think I can. 
+
+Which on one hand is sort of a pity. One of the biggest problems in the world today - and I think one that is going to get a lot of people our age into trouble in the future - is that they don't realize that ultimately they are working for themselves. They put more effort in their jobs or their work than in themselves, which is nice for the company (and the senior managers who run it, and the shareholders who ultimately benefit from it) but not great for them. So in twenty years the company can go and lay them off with 3 months' pay? One thing that I have learned after so many years of working is that companies aren't your friends (your coworkers can be your friends, though). They aren't your buds. They'd pay you half as much as you are making right now if they can get away with it. That doesn't change even if you own a tiny bit of it (employee share programs, ha!) Stocks and cash in the bank can get stolen and used up. The inherent value that you can bring with your skill set, well that never gets used up - as long as you put in as much work into it as you do for your employer. Even if it is just a tiny little thing, push yourself to take that one extra class, to pursue that one passion that might turn into something more. 
+
+But then on the other hand ... 
+
+Do I really need to work as hard once I am out there by myself? I mean, is it really necessary? It was necessary when I was in my full-time, pushing to make deadlines, get this out, get that processed. Whatever. But once you are out there, what is pushing you? Only what you've set for yourself, and the needs that you and your body requires. And I think a stone heavy work ethic is ultimately bad. It is bad for our physical health and bad for our mental health and bad for our social health. And I have always believed this: When it comes down to it, people don't need that much in the world to survive. When you don't need much, you don't need to work that hard to get it. 
+
+That's one thing that I definitely felt as I talked to people in Taiwan, Shanghai and Singapore. People there work really hard, and that's starting down a path with an unhappy ending. Everyone dies alone, but I think a really bad way to go is to have regretted that you've worked so hard to get there.
