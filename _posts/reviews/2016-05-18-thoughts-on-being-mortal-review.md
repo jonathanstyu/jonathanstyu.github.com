@@ -1,0 +1,21 @@
+---
+layout: post-no-feature
+title: "Thoughts on Being Mortal"
+description: "A Five Star Review"
+tags: [review, book, being mortal]
+
+---
+
+Earlier this year I read Paul Kalathi's ["When Breath Becomes Air"](http://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X). I thought that for its constraints it was great, but ultimately it fell short of its goal. The author had not been able to say all that he wanted to say before his own life so abruptly ended. It appeared to touch briefly on some greater understanding, some sort of ... message that it wanted to say ... but never managed to get out.
+
+Today I finished - for the second time this year - a book on death by a doctor: [Being Mortal](https://www.goodreads.com/book/show/20696006-being-mortal) by Atul Gawande. I have had it for a while on my to-read list but my friend QQ finished it first and told me that it was worth reading. I decided to take it on while abroad in Singapore, listening to the audiobook during late night walks around the neighborhood and while on the subway. 
+
+I think that "Being Mortal" is the book "When Breath Becomes Air" could have been had its author finished it in full. Gawande isn't the literary writer Kalathi was - I see fewer artistic flourishes - but his writing is richer in its story-telling, embellishing its points with a fount of anecdotes and stories from within the medical clinic. Gawande is more of a journalist, meeting his subjects and interviewing them. He writes nonfiction in the Malcolm Gladwell style, a narrative that sort of reads something like this: "The current way is broken, but here's how some determined new-thinkers are changing how it's are done while going against the grain." One should hold cynicism about the Gladwell School of narrative story-telling, but I don't think Gawande's point should be missed: Death comes for us all and medicine today has failed in preparing us for the end. 
+
+This is a book with a universal message: What will we want when we die? There isn't a single person around to whom it applies to (unless you're Larry Page and want to "beat" aging). The book examines the various circumstances that lead to our death - old age, cancer, old age + cancer - and presents to us how people have reacted to these inevitabilities. It looks at how death has changed over the years in this brave new world. Death used to be something that came suddenly for you. Today, the reasons that cause insta-death have been smited by modern medicine. What is left though are the imminent, slow-marching ways of dying that medicine has not been able to stop. This is new. 
+
+Nobody wants to die with a catheter and respirator. That's a horrible way to go, I think most of us can agree (notwithstanding the idiots who cry about 'death panels') but actually making that happen is clearly so hard. It never comes out as being so simple in the movies as, "You are dying in 5 weeks. It is definite. Get ready." There are uncertainties, there are grey areas, and sometimes you just never know. And then even when things are certain, you are caught up in the emotions and all the education in the world cannot help. You want to believe that you can live a few more years. You want to believe that the "Median is not the Message", but there's a difference between optimistic and being delusional. Sometimes we gotta go, and we want to be able to pick when to leave the party. 
+
+The centerpiece of the book is an intimate portrait of Gawande's father, who went through the very processes and emotions described earlier in the book. It is an amazing, excruciating story and it is worth reading for yourself. As I read it, I could not help but think about how I would act in the same situation - for my own parents and for myself. I can only hope that I act with as much classiness, thought, and care as he did. I am thankful that he shared it with his readers.
+
+If I were to build a curriculum of books that we all should read as modern humans in modern America this book should be included alongside classics like The Brothers Karamazov. 5 out of 5 stars. 
