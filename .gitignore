@@ -1,2 +1,5 @@
 /_site/
 /_drafts/
+.gitignore
+.DS_Store
+/_posts/.DS_Store
