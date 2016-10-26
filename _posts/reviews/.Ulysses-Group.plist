@@ -3,7 +3,95 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>462734700</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>2013-08-04-sakurasou-pet.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2013-08-10-elysium-review.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2013-08-14-attack-on-titan-18-breakdown.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2013-08-18-review-kotonoha-no-niwa.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2015-04-05-review-becoming-steve-jobs.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2015-06-22-things-i-think-about-inside-out.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2015-08-11-a-half-year-in-books.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>2015-08-30-9-articles-to-move-you.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>462734700</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-462734700.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
@@ -31,5 +119,20 @@
 			<string>2015-08-30-9-articles-to-move-you.md</string>
 		</array>
 	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>eca578ddf220ae4a2bbe9a11c2a272c2adf2831faf57b27d91e6a041fe967b8b</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>eca578ddf220ae4a2bbe9a11c2a272c2adf2831faf57b27d91e6a041fe967b8b</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>
