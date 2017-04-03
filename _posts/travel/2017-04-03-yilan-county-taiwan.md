@@ -16,7 +16,7 @@ We took a bus out from Taipei City Hall towards Yilan. The bus takes us through 
 
 From there it was to the Luodong Forestry Culture Garden, a legacy of the county’s logging years. You can see forest animals and lots of logs on the ground rotting alongside railways. At the center of it is a large artificial lake that loggers used to transport the logs around. Today it is all a beautiful nature and historical center, a place for reflecting on the history of this once-large city. 
 
-1[lake](https://lh3.googleusercontent.com/Wk7UZ7H-e3B10e3pZrN0PJ54kE1Ul_sLdiQ4JeKrrCCVX1LYENl0rwb5QJzUYqzY2kcwbFbB_dE4awFh69N02mVKPqnWt6_nuVvAQMUWrs8BlzgOC5HvBI9r6naTSLZ1P9LMjmehjJUhXZs3lR5-B1ScsvCRNcr_OBwwt-1XaIuW8Kv4RLH0GzDj19PqMX2hVygQRMhDkNvAl6ZllwUfghvKw_FMVQDbANiOnw8bPBRj6BJ56pUvPTDsunOR9p54-jtLOEtrzam5cxqtlKIj4ocZCZKMZC5Dix2eOuDUy10oE6kAHq-r0RE8gNCCqrOSOrUPNdYh7WD7bVcImS5x5gdUC_qO0N98dje_cm487bPXDGwuL734ES_dFmBgxRC0TiLx9_7X6XOxyMX6lMJn86jUs-6NVViSbzU37YVKEXso2G-Hwv9HEZO-np4BWJU8FbmFgDyDW4kC_NrxFvI4xc_emKgcongJV7JUSxUydgo2tjGPncMVG19IdpmT92HDfqo2M3WEVHfF8ma9lDmdc_gwC3-vshVgI9T7m53dOcmlsjhAAciGVatZkH178EXBKXNF6lTxyQrGFQe-tkkfjUne7ZaAZq0XMLCD7ooX9UV12GFK9tI0kMG0af6euJW6vUYR8_JZZmo2yt2zyhPu4EEFRmxeyviUjsebl_41Z0I=w2484-h1862-no)
+![lake](https://lh3.googleusercontent.com/Wk7UZ7H-e3B10e3pZrN0PJ54kE1Ul_sLdiQ4JeKrrCCVX1LYENl0rwb5QJzUYqzY2kcwbFbB_dE4awFh69N02mVKPqnWt6_nuVvAQMUWrs8BlzgOC5HvBI9r6naTSLZ1P9LMjmehjJUhXZs3lR5-B1ScsvCRNcr_OBwwt-1XaIuW8Kv4RLH0GzDj19PqMX2hVygQRMhDkNvAl6ZllwUfghvKw_FMVQDbANiOnw8bPBRj6BJ56pUvPTDsunOR9p54-jtLOEtrzam5cxqtlKIj4ocZCZKMZC5Dix2eOuDUy10oE6kAHq-r0RE8gNCCqrOSOrUPNdYh7WD7bVcImS5x5gdUC_qO0N98dje_cm487bPXDGwuL734ES_dFmBgxRC0TiLx9_7X6XOxyMX6lMJn86jUs-6NVViSbzU37YVKEXso2G-Hwv9HEZO-np4BWJU8FbmFgDyDW4kC_NrxFvI4xc_emKgcongJV7JUSxUydgo2tjGPncMVG19IdpmT92HDfqo2M3WEVHfF8ma9lDmdc_gwC3-vshVgI9T7m53dOcmlsjhAAciGVatZkH178EXBKXNF6lTxyQrGFQe-tkkfjUne7ZaAZq0XMLCD7ooX9UV12GFK9tI0kMG0af6euJW6vUYR8_JZZmo2yt2zyhPu4EEFRmxeyviUjsebl_41Z0I=w2484-h1862-no)
 
 From there it was to the large Luodong Sports Center Park, one of the biggest I have ever seen. Once nothing but rice paddies, it has been transformed into a community and culture place for people to visit and have fun. There are massive basketball courts, 16 at a time. At the heart of the park is an artificial lake, stocked with carp and tilapia which you can feed for a buck. 
 
@@ -26,7 +26,7 @@ It is a popular place to be. There is not a single spot in this park that is not
 
 After that it is to the Luodong Night Market, one of the more well known in the area. What followed can only be described as a vegetarian’s nightmare - all sorts of foods were consumed. If you want to know what they are, I would recommend that you peruse my ongoing album of [Foods That I Have Eaten in Taiwan](https://www.facebook.com/media/set/?set=a.10106018291337723.1073741830.1238561&type=1&l=ec07f0fc0a).
 
-##Jiaoxi Township 
+## Jiaoxi Township 
 
 This is an amazing town. What is it about this town? The free public foot baths that anybody can sit down in? The beautiful natural views? The amazing landscaping?
 
