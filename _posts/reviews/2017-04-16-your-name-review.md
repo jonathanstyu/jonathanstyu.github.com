@@ -18,7 +18,7 @@ The plot's surreal elements are enhanced by the hyper-reality of this rotoscoped
 
 Coming into this movie, I was spoiled on that there was some sort of natural disaster event midway through the movie. I had expected it to be something like an avalanche or an earthquake (shades of Fukushima) but to find that it was the comet itself was a surprise to me. I am not 100% convinced of a comet hitting a town - seems pretty unlikely if you ask me - but okay whatever, I'll buy it. 
 
-Becuase you know what? It's effing beautiful. Getting to see the comet actually come through the clouds is just worth it. 
+'Cuz you know what? It's effing beautiful. Getting to see the comet actually come through the clouds is just worth it. 
 
 ![Worth it](http://i.imgur.com/jKwaevs.jpg)
 
@@ -36,4 +36,4 @@ Your Name's plot focuses less on beats than it does on feeling. There is the fee
 
 But you know what? That's fine. Not everything needs to be explained. In fact, it helps. It adds to the surreal feeling that imbibes this movie. Its a fairy tale, where anything can happen. As Yukino herself says at the start, "a twilight that is neither night or day, where the world blurs and you might see something that is not human". 
 
-That is what strikes me most about watching this film. I was brought into a universe of infinite possibilities. The world sometimes can feel way too known - the sun rises and sets and between that there is only commuting, working, eating, going home. The world of Your Name (and Garden of Words) put some mystery back. I think we all need a little of that (myself especially). That is what has stayed with me after this movie. 
+That is what strikes me most about watching this film. I was brought into a universe of infinite possibilities. The world sometimes can feel way too known - the sun rises and sets and between that there is only commuting, working, eating, going home. The world of Your Name (and Garden of Words) puts some mystery back. I think we all need a little of that (myself especially). That is what has stayed with me after this movie. 
